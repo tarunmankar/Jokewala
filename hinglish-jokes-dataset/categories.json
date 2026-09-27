@@ -1,0 +1,362 @@
+[
+  {
+    "id": "one-liners",
+    "dir": "01-one-liners",
+    "name": "One Liners",
+    "emoji": "⚡",
+    "description": "Punchy, witty single-line Hindi and Hinglish jokes.",
+    "count": 10
+  },
+  {
+    "id": "husband-wife",
+    "dir": "02-husband-wife",
+    "name": "Husband Wife",
+    "emoji": "👫",
+    "description": "Classic Pati-Patni household banter and comic situations.",
+    "count": 13
+  },
+  {
+    "id": "boyfriend-girlfriend",
+    "dir": "03-boyfriend-girlfriend",
+    "name": "Boyfriend Girlfriend",
+    "emoji": "💑",
+    "description": "Funny modern romance, dating dynamics, and couples banter.",
+    "count": 7
+  },
+  {
+    "id": "teacher-student",
+    "dir": "04-teacher-student",
+    "name": "Teacher Student",
+    "emoji": "🎓",
+    "description": "Classroom wit, clever excuses, and teacher-pupil humor.",
+    "count": 11
+  },
+  {
+    "id": "school-college",
+    "dir": "05-school-college",
+    "name": "School College",
+    "emoji": "🏫",
+    "description": "Campus life, lectures, canteen masti, and student struggles.",
+    "count": 10
+  },
+  {
+    "id": "friends",
+    "dir": "06-friends",
+    "name": "Friends",
+    "emoji": "🤝",
+    "description": "Dosti, roasting buddies, and hilarious friend group moments.",
+    "count": 6
+  },
+  {
+    "id": "family",
+    "dir": "07-family",
+    "name": "Family",
+    "emoji": "👨‍👩‍👧‍👦",
+    "description": "Desi joint family quirks, relatives, and festive gatherings.",
+    "count": 4
+  },
+  {
+    "id": "mom-dad",
+    "dir": "08-mom-dad",
+    "name": "Mom Dad",
+    "emoji": "👵👴",
+    "description": "Parental wisdom, flying chappals, and loving desi parents.",
+    "count": 5
+  },
+  {
+    "id": "brother-sister",
+    "dir": "09-brother-sister",
+    "name": "Brother Sister",
+    "emoji": "👧👦",
+    "description": "Sibling rivalry, remote control battles, and secret sharing.",
+    "count": 8
+  },
+  {
+    "id": "office-work",
+    "dir": "10-office-work",
+    "name": "Office Work",
+    "emoji": "💼",
+    "description": "Workplace routines, appraisals, Monday blues, and meetings.",
+    "count": 7
+  },
+  {
+    "id": "boss-employee",
+    "dir": "11-boss-employee",
+    "name": "Boss Employee",
+    "emoji": "👔",
+    "description": "Office politics, leaves, appraisal expectations, and boss roasts.",
+    "count": 4
+  },
+  {
+    "id": "doctor-patient",
+    "dir": "12-doctor-patient",
+    "name": "Doctor Patient",
+    "emoji": "🩺",
+    "description": "Clinic visits, bizarre symptoms, medical advice, and hilarious prescriptions.",
+    "count": 8
+  },
+  {
+    "id": "engineer",
+    "dir": "13-engineer",
+    "name": "Engineer",
+    "emoji": "🛠️",
+    "description": "B.Tech life, backlogs, jugaad, and engineer identity.",
+    "count": 4
+  },
+  {
+    "id": "programmer-tech",
+    "dir": "14-programmer-tech",
+    "name": "Programmer Tech",
+    "emoji": "💻",
+    "description": "Coding bugs, production releases, stackoverflow, and IT life.",
+    "count": 5
+  },
+  {
+    "id": "mobile-internet",
+    "dir": "15-mobile-internet",
+    "name": "Mobile Internet",
+    "emoji": "📱",
+    "description": "Low battery panic, slow Wi-Fi, recharge packs, and screen time.",
+    "count": 4
+  },
+  {
+    "id": "social-media",
+    "dir": "16-social-media",
+    "name": "Social Media",
+    "emoji": "📸",
+    "description": "Instagram reels, influencers, selfie culture, and status updates.",
+    "count": 3
+  },
+  {
+    "id": "whatsapp",
+    "dir": "17-whatsapp",
+    "name": "WhatsApp",
+    "emoji": "💬",
+    "description": "Good morning forwards, family groups, blue ticks, and DP drama.",
+    "count": 4
+  },
+  {
+    "id": "shopping",
+    "dir": "18-shopping",
+    "name": "Shopping",
+    "emoji": "🛍️",
+    "description": "Bargaining triumphs, sale madness, free dhaniya, and cart regrets.",
+    "count": 3
+  },
+  {
+    "id": "money",
+    "dir": "19-money",
+    "name": "Money",
+    "emoji": "💰",
+    "description": "Kharcha, savings, monthly budget, borrow-return drama, and wallets.",
+    "count": 3
+  },
+  {
+    "id": "middle-class",
+    "dir": "20-middle-class",
+    "name": "Middle Class",
+    "emoji": "🏷️",
+    "description": "Hyper-relatable middle class habits, plastic covers, and frugality.",
+    "count": 5
+  },
+  {
+    "id": "desi-life",
+    "dir": "21-desi-life",
+    "name": "Desi Life",
+    "emoji": "🇮🇳",
+    "description": "Quintessential Indian lifestyle quirks, gestures, and daily habits.",
+    "count": 3
+  },
+  {
+    "id": "marriage",
+    "dir": "22-marriage",
+    "name": "Marriage",
+    "emoji": "💍",
+    "description": "Shaadi season, rishtedaars, matrimonial profiles, and wedding feasts.",
+    "count": 3
+  },
+  {
+    "id": "single-life",
+    "dir": "23-single-life",
+    "name": "Single Life",
+    "emoji": "🚶",
+    "description": "Singlehood pride, third-wheeling, and Valentine day survival.",
+    "count": 3
+  },
+  {
+    "id": "love-dating",
+    "dir": "24-love-dating",
+    "name": "Love Dating",
+    "emoji": "💖",
+    "description": "Crushes, first dates, flirting fails, and modern courtship.",
+    "count": 3
+  },
+  {
+    "id": "food",
+    "dir": "25-food",
+    "name": "Food",
+    "emoji": "🍲",
+    "description": "Street food cravings, chai obsession, diet cheat days, and biryani.",
+    "count": 3
+  },
+  {
+    "id": "fitness-gym",
+    "dir": "26-fitness-gym",
+    "name": "Fitness Gym",
+    "emoji": "🏋️",
+    "description": "New Year gym resolutions, sore muscles, protein shakes, and cheat days.",
+    "count": 3
+  },
+  {
+    "id": "travel",
+    "dir": "27-travel",
+    "name": "Travel",
+    "emoji": "🧳",
+    "description": "Train journeys, packing drama, tourist photography, and road trips.",
+    "count": 3
+  },
+  {
+    "id": "driving-traffic",
+    "dir": "28-driving-traffic",
+    "name": "Driving Traffic",
+    "emoji": "🚦",
+    "description": "Traffic jams, horn blowing, auto meter disputes, and challans.",
+    "count": 3
+  },
+  {
+    "id": "exam-study",
+    "dir": "29-exam-study",
+    "name": "Exam Study",
+    "emoji": "📝",
+    "description": "Night before exams, invigilator stares, hall tickets, and question papers.",
+    "count": 3
+  },
+  {
+    "id": "pappu-style",
+    "dir": "30-pappu-style",
+    "name": "Pappu Style",
+    "emoji": "🤪",
+    "description": "Classic goofy Pappu character humor and innocent silliness.",
+    "count": 3
+  },
+  {
+    "id": "santa-banta-style",
+    "dir": "31-santa-banta-style",
+    "name": "Santa Banta Style",
+    "emoji": "👳",
+    "description": "Classic folklore double-act jokes and witty folk confusion.",
+    "count": 6
+  },
+  {
+    "id": "question-answer",
+    "dir": "32-question-answer",
+    "name": "Question Answer",
+    "emoji": "❓",
+    "description": "Snappy Q&A riddles and rapid comic turnarounds.",
+    "count": 3
+  },
+  {
+    "id": "wordplay",
+    "dir": "33-wordplay",
+    "name": "Wordplay",
+    "emoji": "🔤",
+    "description": "Bilingual English-Hindi wordplay and lexical twist humor.",
+    "count": 3
+  },
+  {
+    "id": "puns",
+    "dir": "34-puns",
+    "name": "Puns",
+    "emoji": "🎯",
+    "description": "Clever Desi puns, phonetic jokes, and double-meaning smiles.",
+    "count": 4
+  },
+  {
+    "id": "sarcasm",
+    "dir": "35-sarcasm",
+    "name": "Sarcasm",
+    "emoji": "😏",
+    "description": "Dry wit, sharp comebacks, and pure desi sarcasm.",
+    "count": 3
+  },
+  {
+    "id": "dad-jokes",
+    "dir": "36-dad-jokes",
+    "name": "Dad Jokes",
+    "emoji": "👨",
+    "description": "Wholesome eye-roll puns and unshakeable dad humor.",
+    "count": 2
+  },
+  {
+    "id": "clean-family-friendly",
+    "dir": "37-clean-family-friendly",
+    "name": "Clean Family Friendly",
+    "emoji": "✨",
+    "description": "Gentle, wholesome humor suitable for all ages.",
+    "count": 3
+  },
+  {
+    "id": "festival",
+    "dir": "38-festival",
+    "name": "Festival",
+    "emoji": "🪔",
+    "description": "Diwali sonpapdi, Holi colors, Eid sewaiyan, and festive frenzy.",
+    "count": 3
+  },
+  {
+    "id": "cricket",
+    "dir": "39-cricket",
+    "name": "Cricket",
+    "emoji": "🏏",
+    "description": "IPL frenzy, gully cricket rules, umpire disputes, and match day tension.",
+    "count": 5
+  },
+  {
+    "id": "bollywood-pop-culture",
+    "dir": "40-bollywood-pop-culture",
+    "name": "Bollywood Pop Culture",
+    "emoji": "🎬",
+    "description": "Filmy dialogues, cinema tropes, hero entries, and song parodies.",
+    "count": 3
+  },
+  {
+    "id": "daily-life",
+    "dir": "41-daily-life",
+    "name": "Daily Life",
+    "emoji": "☕",
+    "description": "Morning alarms, daily chores, auto rides, and little absurdities.",
+    "count": 2
+  },
+  {
+    "id": "relatable",
+    "dir": "42-relatable",
+    "name": "Relatable",
+    "emoji": "💯",
+    "description": "Universal feelings, awkward situations, and relatable habits.",
+    "count": 2
+  },
+  {
+    "id": "kids",
+    "dir": "43-kids",
+    "name": "Kids",
+    "emoji": "👶",
+    "description": "Cute child logic, unexpected questions, and innocent mischief.",
+    "count": 3
+  },
+  {
+    "id": "adult-clean",
+    "dir": "44-adult-clean",
+    "name": "Adult Clean",
+    "emoji": "🍸",
+    "description": "Mature adult life themes (mortgages, age, fatigue) kept clean.",
+    "count": 3
+  },
+  {
+    "id": "other",
+    "dir": "45-other",
+    "name": "Other",
+    "emoji": "🎭",
+    "description": "Eclectic miscellaneous humor that defies conventional buckets.",
+    "count": 2
+  }
+]
