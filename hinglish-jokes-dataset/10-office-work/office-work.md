@@ -2,7 +2,7 @@
 
 > **Category ID**: `office-work`  
 > **Description**: Workplace routines, appraisals, Monday blues, and meetings.  
-> **Total Jokes**: 7  
+> **Total Jokes**: 18  
 
 ---
 
@@ -83,5 +83,106 @@ Employee: Ma'am wo hike toh maine us nayi car ki EMI bharne ke liye li thi jo ma
 
 ```text
 Corporate office meeting ka ajeeb dukh: 1 ghante ki meeting me sirf 5 minute kaam ki baat hoti hai, aur baaki 55 minute ye decide karne me nikal jaate hain ki agali meeting kab aur kis time par rakhni hai!
+```
+
+## Subcategory: `Heloplus Curated`
+
+### Joke `HJ-000589`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [HeloPlus Jokes](https://www.heloplus.com/quotes/jokes-in-hindi/)
+
+```text
+malakeen ro rahi thi, tabhi jakar naukarani ne puchha, naukarani: kya huaa malakeen? malakeen: mujhe shak hai kee tere malik ka office me kisi doosare ladaki ke saath chakkar hai. naukarani: nahi malakeen, esa mat sochie, malik mujhe dhoka nahi de sakte !
+```
+
+### Joke `HJ-000590`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [HeloPlus Jokes](https://www.heloplus.com/quotes/jokes-in-hindi/)
+
+```text
+bhikari: sahab Ek rupaya de Do. sahab: tumhe sharam nahi, rod par khade hokar bheek mangate ho, bhikari: ab tujhe Ek roopaye mangane ke liye office kholu kya?
+```
+
+### Joke `HJ-000591`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [HeloPlus Jokes](https://www.heloplus.com/quotes/jokes-in-hindi/)
+
+```text
+aadmi: Sir, meri wife ghoom gayi he, postaman: yeh post office hai, police station nahi, aadmi: oh sori ! sala khushi ke mare kaha jau, kuchh samajh mein nahi aa raha !
+```
+
+## Subcategory: `Funkylife Viral`
+
+### Joke `HJ-000678`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
+
+```text
+Grahak – vaise aapke hotel mein saphaayi bahut dhyan poorvak ki jaati hain | mainejar ( khush hokar ) – dhanyavad ! aapko kis baat se aisa aabhas huaa | Grahak – aisa aabhas jab huaa ! kisi ne hotel mein ghusate hi meri jeb kee saphaayi kar dee | 😂😜😅😂😂😜
+```
+
+### Joke `HJ-001157`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
+
+```text
+Employee : Sir mainne apane aadhar kard ko apane bank akaunt se link bhi nahi karavaya, phir bhi mere akaunt mein gais kee 200 rupaye sabsidi aa gaayi. …. Boss : woh sabsidi nahi hai, tumhara inkreement laga hai. 😂😂😂😂😂😂
+```
+
+### Joke `HJ-001158`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
+
+```text
+sanata intaravyu dene gaya… Boss ne pucha tum kitne Bhai Behen ho… Sardar: 5 Boss: un mein tumhara nanbar kaunasa hai… ? sanata : eyaratel ka…. 😂😂😂😂😂😂😂
+```
+
+### Joke `HJ-001159`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
+
+```text
+Employee – (apane Boss se) Sir, kal se mai sat baje ghar chala jaoonga, Boss – kyu..? Employee – aapki naukari se ghar ka gujar nahi chalata, raat ko riksha chalata hoon isalie.. Boss – (bhavuk ho kar) kabhi bhookh lage toh mere paas aa jaana mai bhi raat ko pavabhaji ka thela chalata hoon.
+```
+
+### Joke `HJ-001160`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
+
+```text
+man ( bete se )- tumhara kam office mein kaisa chal raha hai? Beta – man , mere neeche 25 aadmi kam karte hain. man – toh kya tum abhi se aphasar ho gaye? Beta – main oopar kee manjil mein kam karta hoon. 😂😂😂😂😂😂😂
+```
+
+### Joke `HJ-001161`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
+
+```text
+Ek sarakari mulajim daphtar ke vakt mein kareeb kee barabar dukaan par hajamat kara raha tha ki uske Boss ne dekh liya. Boss ( kadak vavaj mein ) – sarakari time mein bal katata hai? yuvak – sahab bal ugate bhi toh sarakari time mein hi hain. Boss – sare toh sarakari time mein nahi ugate hain. yuvak – sahab mein sare toh nahi katavaye mainne. 😝😂😂🤣🤣🤣
+```
+
+### Joke `HJ-001162`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
+
+```text
+Ek kanpani ka Boss nayi BMW car khareed kar laya. uske jooniyar karmachariyon ne jab use badhaayi dee toh usne kaha – “agar tum log kadi mehanat karoge, pankchual rahoge, ovar time karoge aur yahan tak ki chhutti ke din bhi kam karoge toh yakeen mano……. agale sal main isse bhi badi aur behatar car khareed loonga…!!!” 😝😂😂😂😂😂😂
+```
+
+## Subcategory: `Zeetalwara Curated`
+
+### Joke `HJ-001340`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
+
+```text
+Husband :    aisi chai banao kee peete hi tan badan jhoomane lage, aur man nachane lage,
+Wife          :     hamare yahan bhains ka doodh aata hai, nagin ka naheen. 😆😆😆
+jaise kee aap sab janate hai kee, aaj ke chalate daur mein hum sab apane apane kamo mein bayast rahate hai, aur kaayi tenshano se ghire rahate hai. jaise acchi hava, accha khan pan, hamari sehat ke liye jaruri hai, theek vaise hi hamari hansi bhi humko svasth rakhane bhoomika nibhati hai. humko bimariyon se bachane ke liye hasane kee aadat dalani hogi. iseelie hum aapke liye laye hai kuchh aise hi majedar chutakule, jise padhane ke bad aap hansate hansate lotapot jayenge. toh chalie maja lete hai kuchh aise hi majedar chutakulon ka.
+Husband Wife 
+" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?fit=768%2C384&ssl=1" class="aligncenter wp-image-1165 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=768%2C384&ssl=1" alt="Husband Wife" width="768" height="384" title="Best jokes in hindi for husband and wife 2023 2" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> Husband Wife 
+" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?fit=768%2C384&ssl=1" class="lazyload aligncenter wp-image-1165 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=768%2C384&ssl=1" alt="Husband Wife" width="768" height="384" title="Best jokes in hindi for husband and wife 2023 2" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
+Employee : sahib, aap office mein shaadi shuda aadamion ko hi kyu rakhate ho?
+sahib : kyonki unhe beijjati sahane kee aadat hoti hai aur ghar jane kee jaldi bhi nahi hoti.😆😆😆
 ```
 

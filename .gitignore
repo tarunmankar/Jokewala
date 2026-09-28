@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+chutkule-wala/node_modules/
+
+# Expo
+.expo/
+chutkule-wala/.expo/
+dist/
+web-build/
+
+# Native & Builds
+chutkule-wala/android/
+chutkule-wala/ios/
+*.apk
+*.aab
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/

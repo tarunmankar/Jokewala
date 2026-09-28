@@ -2,7 +2,7 @@
 
 > **Category ID**: `engineer`  
 > **Description**: B.Tech life, backlogs, jugaad, and engineer identity.  
-> **Total Jokes**: 4  
+> **Total Jokes**: 6  
 
 ---
 
@@ -49,5 +49,24 @@ Bhikari: Bas kar bhai ab rulayega kya? Tu chahe toh meri engineering ki degree b
 
 ```text
 Engineering exam ka shashwat satya: Jo padha usme se aadha samajh nahi aaya, jo samajh aaya usme se aadha yaad nahi raha, aur jo yaad raha usme se ek bhi sawal paper me nahi aaya!
+```
+
+## Subcategory: `Funkylife Viral`
+
+### Joke `HJ-000677`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
+
+```text
+Ek baar injeeniyaring ke sabhi prophesar ko Ek plen mein baithaya gaya. phir anaunsament hui, yeh plen aapke stoodents ne banaya hai sab prophesar utar gae…par prinsipal baitha raha. logon ne pucha- aapko dar nahi lagata? prinsipal- mujhe apane stoodents par poora bharosa hai… yeh start hi nahi hogi 😝😝😝😂😂🤣🤣🤣
+```
+
+### Joke `HJ-000866`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
+
+```text
+skoolon mein bole jane vale chutakule 
+ deevar ke aar-par dekhane vali cheej – majedar injeeniyaring stoodent chutkula injeeniyaring ke stoodent – Sir, humne college mein Ek aisi cheej banaayi hai…jisaki sahayata se aap deevar ke aar-par dekh sakte hain… Sir (khush hote hue) – vah ! kya baat hai…kya cheej hai woh 😊😊? student – chhed…😂😂😂 Sir – de thappad… de thappad… 🤣🤣🤣🤣🤣🤣🤣🤣
 ```
 

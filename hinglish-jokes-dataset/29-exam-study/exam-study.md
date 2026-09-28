@@ -2,7 +2,7 @@
 
 > **Category ID**: `exam-study`  
 > **Description**: Night before exams, invigilator stares, hall tickets, and question papers.  
-> **Total Jokes**: 3  
+> **Total Jokes**: 4  
 
 ---
 
@@ -37,5 +37,15 @@ Student: Ekdum zabardast! Pehla sawal chhoot gaya, doosra aata nahi tha, teesre 
 
 ```text
 Exam hall ke aakhri 15 minute: Jo bachha poore 2 ghante se ceiling fan ko dekh raha tha, wo achanak chillata hai: 'Sir supplement sheet lao jaldi!' Aur usme Bollywood movie ki kahani pel deta hai!
+```
+
+## Subcategory: `Heloplus Curated`
+
+### Joke `HJ-000592`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [HeloPlus Jokes](https://www.heloplus.com/quotes/jokes-in-hindi/)
+
+```text
+main bachapan se itana pratibhashali raha hoon ki rishtedar pareeksha parinam ke bad sirph itana hi poochhate hai, tu paas huaa ya nahi ?
 ```
 

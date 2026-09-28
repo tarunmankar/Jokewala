@@ -13,7 +13,7 @@
     "name": "Husband Wife",
     "emoji": "👫",
     "description": "Classic Pati-Patni household banter and comic situations.",
-    "count": 13
+    "count": 375
   },
   {
     "id": "boyfriend-girlfriend",
@@ -21,7 +21,7 @@
     "name": "Boyfriend Girlfriend",
     "emoji": "💑",
     "description": "Funny modern romance, dating dynamics, and couples banter.",
-    "count": 7
+    "count": 43
   },
   {
     "id": "teacher-student",
@@ -29,7 +29,7 @@
     "name": "Teacher Student",
     "emoji": "🎓",
     "description": "Classroom wit, clever excuses, and teacher-pupil humor.",
-    "count": 11
+    "count": 198
   },
   {
     "id": "school-college",
@@ -45,7 +45,7 @@
     "name": "Friends",
     "emoji": "🤝",
     "description": "Dosti, roasting buddies, and hilarious friend group moments.",
-    "count": 6
+    "count": 64
   },
   {
     "id": "family",
@@ -77,7 +77,7 @@
     "name": "Office Work",
     "emoji": "💼",
     "description": "Workplace routines, appraisals, Monday blues, and meetings.",
-    "count": 7
+    "count": 18
   },
   {
     "id": "boss-employee",
@@ -93,7 +93,7 @@
     "name": "Doctor Patient",
     "emoji": "🩺",
     "description": "Clinic visits, bizarre symptoms, medical advice, and hilarious prescriptions.",
-    "count": 8
+    "count": 71
   },
   {
     "id": "engineer",
@@ -101,7 +101,7 @@
     "name": "Engineer",
     "emoji": "🛠️",
     "description": "B.Tech life, backlogs, jugaad, and engineer identity.",
-    "count": 4
+    "count": 6
   },
   {
     "id": "programmer-tech",
@@ -133,7 +133,7 @@
     "name": "WhatsApp",
     "emoji": "💬",
     "description": "Good morning forwards, family groups, blue ticks, and DP drama.",
-    "count": 4
+    "count": 46
   },
   {
     "id": "shopping",
@@ -165,7 +165,7 @@
     "name": "Desi Life",
     "emoji": "🇮🇳",
     "description": "Quintessential Indian lifestyle quirks, gestures, and daily habits.",
-    "count": 3
+    "count": 6
   },
   {
     "id": "marriage",
@@ -173,7 +173,7 @@
     "name": "Marriage",
     "emoji": "💍",
     "description": "Shaadi season, rishtedaars, matrimonial profiles, and wedding feasts.",
-    "count": 3
+    "count": 30
   },
   {
     "id": "single-life",
@@ -229,7 +229,7 @@
     "name": "Exam Study",
     "emoji": "📝",
     "description": "Night before exams, invigilator stares, hall tickets, and question papers.",
-    "count": 3
+    "count": 4
   },
   {
     "id": "pappu-style",
@@ -237,7 +237,7 @@
     "name": "Pappu Style",
     "emoji": "🤪",
     "description": "Classic goofy Pappu character humor and innocent silliness.",
-    "count": 3
+    "count": 45
   },
   {
     "id": "santa-banta-style",
@@ -245,7 +245,7 @@
     "name": "Santa Banta Style",
     "emoji": "👳",
     "description": "Classic folklore double-act jokes and witty folk confusion.",
-    "count": 6
+    "count": 127
   },
   {
     "id": "question-answer",
@@ -293,7 +293,7 @@
     "name": "Clean Family Friendly",
     "emoji": "✨",
     "description": "Gentle, wholesome humor suitable for all ages.",
-    "count": 3
+    "count": 199
   },
   {
     "id": "festival",

@@ -53,6 +53,15 @@ class DatasetManager:
         self.sources = self.load_sources()
         self.total_duplicates_filtered = 0
         self.total_rejected_items = 0
+        self._cache = []
+        self.precompute_cache()
+
+    def precompute_cache(self):
+        self._cache = []
+        for j in self.master_jokes:
+            norm = normalize_text_for_dedup(j["content"])
+            words = set(norm.split())
+            self._cache.append((j["id"], norm, words))
 
     def load_master_jokes(self):
         if os.path.exists(MASTER_JSON_PATH):
@@ -82,13 +91,26 @@ class DatasetManager:
 
     def check_duplicate(self, content):
         norm_incoming = normalize_text_for_dedup(content)
-        for existing in self.master_jokes:
-            norm_existing = normalize_text_for_dedup(existing["content"])
+        if not norm_incoming:
+            return True, None, 1.0
+        words_incoming = set(norm_incoming.split())
+        len_in = len(words_incoming)
+        if len_in == 0:
+            return True, None, 1.0
+
+        for existing_id, norm_existing, words_existing in self._cache:
             if norm_incoming == norm_existing:
-                return True, existing["id"], 1.0
-            sim = compute_similarity(content, existing["content"])
-            if sim >= 0.82:
-                return True, existing["id"], sim
+                return True, existing_id, 1.0
+            len_ex = len(words_existing)
+            if len_ex == 0:
+                continue
+            if min(len_in, len_ex) / max(len_in, len_ex) < 0.70:
+                continue
+            intersection = len(words_incoming.intersection(words_existing))
+            union = len_in + len_ex - intersection
+            if union > 0 and (intersection / union) >= 0.82:
+                return True, existing_id, intersection / union
+
         return False, None, 0.0
 
     def add_source_if_new(self, source_name, source_url, source_type, category, notes=""):
@@ -173,6 +195,8 @@ class DatasetManager:
                 "notes": cand.get("notes", "")
             }
             self.master_jokes.append(record)
+            norm_c = normalize_text_for_dedup(content)
+            self._cache.append((joke_id, norm_c, set(norm_c.split())))
             accepted_count += 1
 
         print(f"Category [{category_id}]: {accepted_count} accepted, {duplicate_count} duplicates skipped.")
