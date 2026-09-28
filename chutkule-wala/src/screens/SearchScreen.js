@@ -82,20 +82,31 @@ export default function SearchScreen({ colors }) {
       </View>
 
       {/* Suggested Keywords / Categories */}
-      {query.length === 0 && suggestions.length > 0 && (
+      {query.length === 0 && (
         <View style={styles.suggestWrapper}>
           <Text style={[styles.suggestLabel, { color: colors.textMuted }]}>
-            Popular Categories:
+            🔥 Trending Searches:
           </Text>
           <View style={styles.tagWrap}>
-            {suggestions.map((cat) => (
+            {[
+              { label: '👫 Pati Patni', q: 'pati patni' },
+              { label: '😉 Naughty', q: 'naughty' },
+              { label: '🎅 Santa Banta', q: 'santa banta' },
+              { label: '👶 Pappu', q: 'pappu' },
+              { label: '💑 Couple / GF', q: 'boyfriend' },
+              { label: '🩺 Doctor', q: 'doctor' },
+              { label: '💼 Office', q: 'office' },
+              { label: '🎓 Masterji', q: 'teacher' },
+              { label: '💍 Shaadi', q: 'shaadi' },
+              { label: '🤝 Dosti', q: 'dosti' },
+            ].map((item, idx) => (
               <TouchableOpacity
-                key={cat.id}
+                key={idx}
                 style={[styles.tag, { backgroundColor: colors.card, borderColor: colors.border }]}
-                onPress={() => setQuery(cat.id)}
+                onPress={() => setQuery(item.q)}
               >
                 <Text style={[styles.tagText, { color: colors.text }]}>
-                  {cat.emoji} #{cat.name}
+                  {item.label}
                 </Text>
               </TouchableOpacity>
             ))}

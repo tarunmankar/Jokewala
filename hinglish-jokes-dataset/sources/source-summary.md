@@ -12,7 +12,7 @@ This document records all web sources, publications, portals, and archives resea
 | Source ID | Source Name | Domain / URL | Type | Categories Covered | Date Accessed |
 |---|---|---|---|---|---|
 | SRC-0001 | LiveHindustan & TopHindiStatus | [https://www.livehindustan.com/lifestyle/story-funny-one-liners...](https://www.livehindustan.com/lifestyle/story-funny-one-liners-and-desi-chutkule-for-whatsapp-status.html) | news_portal | one-liners | 2026-09-27 |
-| SRC-0002 | LiveHindustan & Amar Ujala | [https://www.livehindustan.com/lifestyle/story-funny-husband-wi...](https://www.livehindustan.com/lifestyle/story-funny-husband-wife-jokes-in-hindi-pati-patni-ke-chutkule.html) | news_portal | husband-wife | 2026-09-27 |
+| SRC-0002 | LiveHindustan & Amar Ujala | [https://www.livehindustan.com/lifestyle/story-funny-husband-wi...](https://www.livehindustan.com/lifestyle/story-funny-husband-wife-jokes-in-hindi-pati-patni-ke-chutkule.html) | news_portal | husband-wife, adult-clean | 2026-09-27 |
 | SRC-0003 | LiveHindustan & Amar Ujala | [https://www.livehindustan.com/lifestyle/story-funny-boyfriend-...](https://www.livehindustan.com/lifestyle/story-funny-boyfriend-girlfriend-jokes-in-hindi-chutkule.html) | news_portal | boyfriend-girlfriend | 2026-09-27 |
 | SRC-0004 | Amar Ujala | [https://www.amarujala.com/humour-jokes/teacher-student-jokes-i...](https://www.amarujala.com/humour-jokes/teacher-student-jokes-in-hindi-pappu-and-masterji-chutkule) | news_portal | teacher-student | 2026-09-27 |
 | SRC-0005 | LiveHindustan & MajedarJokes | [https://www.livehindustan.com/lifestyle/story-college-campus-a...](https://www.livehindustan.com/lifestyle/story-college-campus-and-hostel-life-funny-jokes.html) | news_portal | school-college | 2026-09-27 |

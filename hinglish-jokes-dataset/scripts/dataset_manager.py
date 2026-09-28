@@ -225,7 +225,8 @@ class DatasetManager:
                 "joke": j["content"],
                 "language": j["language"],
                 "format": j["format"],
-                "clean": j["clean"]
+                "clean": j["clean"],
+                "tags": j.get("tags", [])
             }
             app_all_jokes.append(app_item)
             if j["clean"]:
