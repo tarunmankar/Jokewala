@@ -358,5 +358,13 @@
     "emoji": "🎭",
     "description": "Eclectic miscellaneous humor that defies conventional buckets.",
     "count": 2
+  },
+  {
+    "id": "joke-on-names",
+    "dir": "46-joke-on-names",
+    "name": "Joke on Names",
+    "emoji": "📛",
+    "description": "Popular Indian names (Deepak, Rahul, Rohit, Pooja, Neha, Priya, Amit, etc.) par funny dialogues aur roasts.",
+    "count": 32
   }
 ]

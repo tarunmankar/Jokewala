@@ -89,6 +89,9 @@ export default function SearchScreen({ colors }) {
           </Text>
           <View style={styles.tagWrap}>
             {[
+              { label: '📛 Name Jokes', q: 'names' },
+              { label: '🔥 Deepak', q: 'deepak' },
+              { label: '😎 Rahul', q: 'rahul' },
               { label: '👫 Pati Patni', q: 'pati patni' },
               { label: '😉 Naughty', q: 'naughty' },
               { label: '🎅 Santa Banta', q: 'santa banta' },

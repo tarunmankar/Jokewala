@@ -341,6 +341,7 @@ class DatasetManager:
                         md_content += j['content'] + "\n"
                         md_content += "```\n\n"
 
+            os.makedirs(os.path.dirname(md_path), exist_ok=True)
             with open(md_path, "w", encoding="utf-8") as f:
                 f.write(md_content)
 

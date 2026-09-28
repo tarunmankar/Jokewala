@@ -29177,5 +29177,558 @@
       "romance",
       "saas"
     ]
+  },
+  {
+    "id": "HJ-001373",
+    "category": "joke-on-names",
+    "subcategory": "deepak",
+    "joke": "Deepak naam sunke flower samjha hai kya? Fire hai apun! Lekin problem yeh hai ki tez hawa aate hi Deepak bujh bhi sabse pehle jata hai! 😂🔥",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "deepak",
+      "flower",
+      "fire",
+      "pushpa",
+      "attitude",
+      "roast"
+    ]
+  },
+  {
+    "id": "HJ-001374",
+    "category": "joke-on-names",
+    "subcategory": "rahul",
+    "joke": "Shahrukh Khan ne kaha tha: 'Rahul, naam toh suna hi hoga!' Lekin tragedy yeh hai ki Rahul ne khud school me teacher ka lecture kabhi dhyan se nahi suna! 🤣",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "rahul",
+      "shahrukh",
+      "school",
+      "teacher",
+      "roast"
+    ]
+  },
+  {
+    "id": "HJ-001375",
+    "category": "joke-on-names",
+    "subcategory": "rohit",
+    "joke": "Rohit ka alag hi swag hai: Cricket match me 200 run maare ya pehli ball pe zero pe out ho, par dosto ki udhari me Rohit hamesha 99 pe not out rehta hai! 🏏💸",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "rohit",
+      "cricket",
+      "udhari",
+      "rohit-sharma"
+    ]
+  },
+  {
+    "id": "HJ-001376",
+    "category": "joke-on-names",
+    "subcategory": "aman",
+    "joke": "Aman ka naam sunke lagta hai shanti ka doot hoga... Lekin sachai yeh hai ki WhatsApp group me aag lagane aur dange karwane ka theka hamesha Aman ke paas hi hota hai! 🔥📱",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "aman",
+      "shanti",
+      "whatsapp",
+      "group",
+      "lafda"
+    ]
+  },
+  {
+    "id": "HJ-001377",
+    "category": "joke-on-names",
+    "subcategory": "pooja",
+    "joke": "Pooja se jab bhi pucho: 'Kya kar rahi ho?', bolti hai 'Bas thoda busy hoon'... Baad me pata chalta hai 3 ghante se Instagram reels pe lipstick review dekh rahi thi! 💄💅",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "pooja",
+      "instagram",
+      "busy",
+      "reels"
+    ]
+  },
+  {
+    "id": "HJ-001378",
+    "category": "joke-on-names",
+    "subcategory": "neha",
+    "joke": "Neha har doosre ladke ki ex hoti hai, aur teesre ladke ki 'It's complicated' wali crush! Neha ke chakkar se bachna aasan nahi hai boss! 🙈💔",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "neha",
+      "crush",
+      "ex",
+      "complicated"
+    ]
+  },
+  {
+    "id": "HJ-001379",
+    "category": "joke-on-names",
+    "subcategory": "priya",
+    "joke": "Priya jab gusse me hoti hai toh NASA ke top scientist bhi decode nahi kar paate ki baat kya hai! Bas ek hi dialogue bolti hai: 'Leave it, tum nahi samjhoge!' 🤦‍♂️🛰️",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "priya",
+      "gussa",
+      "nasa",
+      "mood"
+    ]
+  },
+  {
+    "id": "HJ-001380",
+    "category": "joke-on-names",
+    "subcategory": "ankit",
+    "joke": "Ankit har trip ke plan me bolta hai: 'Main 5 minute me nikal raha hoon!' Aur tab wo ghar pe sofe pe letkar banyan me chai ki chuski le raha hota hai! ☕🛋️",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "ankit",
+      "late",
+      "chai",
+      "plan"
+    ]
+  },
+  {
+    "id": "HJ-001381",
+    "category": "joke-on-names",
+    "subcategory": "amit",
+    "joke": "Har mohalle me ek Amit zaroor hota hai jiska ek dost police me hota hai, ek neta ka bhatija hota hai... par khud apni Splendor me 50 ka petrol dalwata hai! 🛵⛽",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "amit",
+      "police",
+      "neta",
+      "petrol",
+      "splendor"
+    ]
+  },
+  {
+    "id": "HJ-001382",
+    "category": "joke-on-names",
+    "subcategory": "vikas",
+    "joke": "Desh me sab puchte hain: 'Vikas kab aayega?'... Bhai Vikas toh coaching ke bahar tapri pe sutte aur chai pe gyaan pel raha hai! ☕🚬",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "vikas",
+      "coaching",
+      "chai",
+      "tapri"
+    ]
+  },
+  {
+    "id": "HJ-001383",
+    "category": "joke-on-names",
+    "subcategory": "simran",
+    "joke": "Bauji ne Simran ko bola tha: 'Jaa Simran jee le apni zindagi!' Aur Simran tab se Zomato aur Swiggy pe 60% discount coupon dhoondh rahi hai! 🍕🛵",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "simran",
+      "ddlj",
+      "bauji",
+      "zomato",
+      "swiggy"
+    ]
+  },
+  {
+    "id": "HJ-001384",
+    "category": "joke-on-names",
+    "subcategory": "kunal",
+    "joke": "Kunal har party me entry maar ke bolta hai: 'Aaj gaadi tera bhai chalayega!' Aur party khatam hone ke baad bolta hai: 'Bhai koi 100 rupaye Paytm karo, Uber book karni hai!' 🚗💸",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "kunal",
+      "party",
+      "gaadi",
+      "uber",
+      "paytm"
+    ]
+  },
+  {
+    "id": "HJ-001385",
+    "category": "joke-on-names",
+    "subcategory": "sneha",
+    "joke": "Sneha typing... Sneha typing... Sneha typing... 20 minute ke wait ke baad Sneha ka final reply aata hai: 'K'. Sneha ji ke is 'K' ke liye pura mohalla tension me rehta hai! 📱💔",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "sneha",
+      "typing",
+      "whatsapp",
+      "k"
+    ]
+  },
+  {
+    "id": "HJ-001386",
+    "category": "joke-on-names",
+    "subcategory": "rohan",
+    "joke": "Rohan har exam hall ke bahar ro kar bolta hai: 'Bhai meri toh back pakki hai, kuch nahi padha!' Aur result wale din 95% lake class me top kar jata hai! Aise Rohan se dosti se darr lagta hai! 📚😭",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "rohan",
+      "exam",
+      "topper",
+      "padhai"
+    ]
+  },
+  {
+    "id": "HJ-001387",
+    "category": "joke-on-names",
+    "subcategory": "pankaj",
+    "joke": "Pankaj ka swabhav: Agar do dosto me ladai ho jaye toh pehle aage aake 'Ruk ja, main sambhalta hoon' bolega, aur jab haatha-paayi shuru ho toh sabse pehle wahan se 9-2-gyarah ho jayega! 🏃‍♂️💨",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "pankaj",
+      "dosti",
+      "ladai",
+      "bhaagna"
+    ]
+  },
+  {
+    "id": "HJ-001388",
+    "category": "joke-on-names",
+    "subcategory": "sonu",
+    "joke": "Sonu ki ek hi universal problem hai: 'Sonu, tujhe meri yaad nahi aati kya?' Aur Sonu ka phone pichle 3 saal se hamesha silent mode pe rehta hai! 📵🤷‍♂️",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "sonu",
+      "silent",
+      "phone",
+      "yaad"
+    ]
+  },
+  {
+    "id": "HJ-001389",
+    "category": "joke-on-names",
+    "subcategory": "monu",
+    "joke": "Monu se pucho career plan kya hai: 'Bhai pehle graduation ho jaye, fir dosto ke sath Goa jayenge, fir aage ka dekhenge!' Monu ka Goa trip pichle 7 saal se pending chal raha hai! 🏖️✈️",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "monu",
+      "goa",
+      "career",
+      "plan"
+    ]
+  },
+  {
+    "id": "HJ-001390",
+    "category": "joke-on-names",
+    "subcategory": "ritu",
+    "joke": "Ritu har Instagram photo pe pout bana kar caption likhti hai: 'Totally candid click yaar!', bhale hi bechare photographer ne 58 retakes liye ho! 📸💄",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "ritu",
+      "instagram",
+      "candid",
+      "pout",
+      "photo"
+    ]
+  },
+  {
+    "id": "HJ-001391",
+    "category": "joke-on-names",
+    "subcategory": "gaurav",
+    "joke": "Gaurav ko gym join kiye huye 2 din nahi hote aur wo protein shake ke aise gun-gaan gaata hai jaise aane wale Olympics me Arnold Schwarzenegger ko yahi replace karega! 💪🥤",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "gaurav",
+      "gym",
+      "protein",
+      "fitness"
+    ]
+  },
+  {
+    "id": "HJ-001392",
+    "category": "joke-on-names",
+    "subcategory": "manish",
+    "joke": "Manish se jab bhi dosti me udhari maango: 'Bhai kal hi company se bonus aane wala hai, parso subah Google Pay kar dunga!' Manish ka parso pichle 6 mahine se nahi aaya! 💸📱",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "manish",
+      "udhari",
+      "google-pay",
+      "salary"
+    ]
+  },
+  {
+    "id": "HJ-001393",
+    "category": "joke-on-names",
+    "subcategory": "shweta",
+    "joke": "Online meeting me mic on chhod kar saare secret leak karne wali Shweta ke charche poore desh me famous hain! Shweta ka mic band karwao pehle! 🎙️🔊🤣",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "shweta",
+      "mic",
+      "zoom",
+      "viral"
+    ]
+  },
+  {
+    "id": "HJ-001394",
+    "category": "joke-on-names",
+    "subcategory": "sanjay",
+    "joke": "Sanjay har match me TV ke saamne baithkar bolta hai: 'Dhoni ko meri jagah 6 number pe bhejna chahiye tha!' Sanjay bhai khud gully cricket me pehli ball pe clean bowled hote hain! 🏏📺",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "sanjay",
+      "cricket",
+      "dhoni",
+      "match"
+    ]
+  },
+  {
+    "id": "HJ-001395",
+    "category": "joke-on-names",
+    "subcategory": "kavita",
+    "joke": "Kavita jab WhatsApp status pe shayariyaan lagati hai toh aisa lagta hai jaise Mirza Ghalib aur Gulzar dono ka ek sath dil toot gaya ho! ✍️🥀",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "kavita",
+      "shayari",
+      "status",
+      "whatsapp"
+    ]
+  },
+  {
+    "id": "HJ-001396",
+    "category": "joke-on-names",
+    "subcategory": "sunil",
+    "joke": "Sunil ka wedding rule: Shaadi ke buffet counter pe Sunil aise टूट-ta hai jaise kal subah se poori dharti pe anaj aur paneer ki supply band hone wali ho! 🍲🍛",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "sunil",
+      "shaadi",
+      "buffet",
+      "khana",
+      "paneer"
+    ]
+  },
+  {
+    "id": "HJ-001397",
+    "category": "joke-on-names",
+    "subcategory": "rajesh",
+    "joke": "Rajesh uncle jab subah 5 baje Good Morning message bhejte hain, toh usme 12 gulab ke phool, 6 jalte huye diye aur 4 cup chai hoti hai... Phone ka storage hi bhar jata hai! 🌺☕",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "rajesh",
+      "good-morning",
+      "whatsapp",
+      "uncle"
+    ]
+  },
+  {
+    "id": "HJ-001398",
+    "category": "joke-on-names",
+    "subcategory": "divya",
+    "joke": "Divya jab bolti hai: 'Bas 2 minute me ready ho kar neeche aa rahi hoon!', toh samajh jao calendar me agle mahine ki date dekhne ka time aa gaya hai! ⏳👗",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "divya",
+      "ready",
+      "makeup",
+      "late"
+    ]
+  },
+  {
+    "id": "HJ-001399",
+    "category": "joke-on-names",
+    "subcategory": "mohit",
+    "joke": "Mohit har Saturday night ko kasam khata hai: 'Aaj raat bhar jaag kar syllabus khatam karunga!' Aur 11:15 baje YouTube pe bhutiya kahani dekh kar kambal me so jata hai! 🛌👻",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "mohit",
+      "padhai",
+      "youtube",
+      "neend"
+    ]
+  },
+  {
+    "id": "HJ-001400",
+    "category": "joke-on-names",
+    "subcategory": "ananya",
+    "joke": "Ananya ko lagta hai duniya ka har nakhra aur 'OMG, so aesthetic!' bolne ka patent usi ke paas hai! Bina iced latte ke Ananya ka din start hi nahi hota! ☕💅",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "ananya",
+      "aesthetic",
+      "latte",
+      "nakhra"
+    ]
+  },
+  {
+    "id": "HJ-001401",
+    "category": "joke-on-names",
+    "subcategory": "vijay",
+    "joke": "Vijay ka favourite dialogue: 'Haar kar jeetne wale ko baazigar kehte hain!' Par jab khud gully cricket me haarne lagta hai, toh apna bat leke ghar bhaag jata hai! 🏏🏃‍♂️",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "vijay",
+      "cricket",
+      "bat",
+      "baazigar"
+    ]
+  },
+  {
+    "id": "HJ-001402",
+    "category": "joke-on-names",
+    "subcategory": "ramesh-suresh",
+    "joke": "5 Star chocolate ke Ramesh aur Suresh jab milte hain, toh pitaji ki patloon chhoti ho jati hai aur recharge khatam ho jata hai! Extra dimaag mat chalao! 🍫😂",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "ramesh",
+      "suresh",
+      "5star",
+      "chocolate"
+    ]
+  },
+  {
+    "id": "HJ-001403",
+    "category": "joke-on-names",
+    "subcategory": "ajay",
+    "joke": "Ajay jab bhi bike chalata hai toh lagta hai do bike pe pair rakh ke 'Phool Aur Kaante' ka stunt maarne wala hai, par pehle hi speed-breaker pe balance bigad jata hai! 🏍️🕺",
+    "language": "hinglish",
+    "format": "one-liner",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "ajay",
+      "bike",
+      "stunt",
+      "phool-aur-kaante"
+    ]
+  },
+  {
+    "id": "HJ-001404",
+    "category": "joke-on-names",
+    "subcategory": "deepak-extra",
+    "joke": "Dost: Deepak, bhai tu itna chamak kyu raha hai aaj? Deepak: Kyunki kal hi beauty parlour se facial karwaya hai! Dost: Wah Deepak bhai, deepak jalne ke bajaye ab glowing cream pe chal raha hai! ✨🤣",
+    "language": "hinglish",
+    "format": "dialogue",
+    "clean": true,
+    "tags": [
+      "joke-on-names",
+      "names",
+      "deepak",
+      "facial",
+      "glow",
+      "chamak"
+    ]
   }
 ]
