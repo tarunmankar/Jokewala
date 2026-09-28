@@ -1533,12 +1533,8 @@ sains Teacher : class mein so rahe ho kya ?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Pappu : nahi Teacher gurutvakarshan se Sir neeche gir raha hai.
-Teacher and Student jokes in hindi
-teacher and student jokes in hindi 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?fit=768%2C384&ssl=1" class="alignnone wp-image-1575 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?resize=768%2C384&ssl=1" alt=" teacher and student jokes in hindi" width="768" height="384" title="Top 10 Teacher and Student Funny Jokes in Hindi 4" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> teacher and student jokes in hindi 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?fit=768%2C384&ssl=1" class="lazyload alignnone wp-image-1575 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?resize=768%2C384&ssl=1" alt=" teacher and student jokes in hindi" width="768" height="384" title="Top 10 Teacher and Student Funny Jokes in Hindi 4" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-and-student-jokes-in-hindi.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
-sains Teacher class mein padha rahi thi…..
+Teacher: Pappu, class mein baar baar sar neeche kyu gira rahe ho, neend aa rahi hai kya?
+Pappu: Nahi teacher, gurutvakarshan (gravity) se sar neeche gir raha hai, mera koi dosh nahi hai!
 ```
 
 ### Joke `HJ-001286`
@@ -1563,14 +1559,9 @@ Teacher – are jo aata hai vahi bata.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Pappu – zinda rahane ke liye teri kasam,
-Ek mulakat jaruri hai sanam
-de thappad de thappad…
-jokes in hindi teacher student 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?fit=768%2C384&ssl=1" class="alignnone wp-image-1576 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?resize=768%2C384&ssl=1" alt=" jokes in hindi teacher student" width="768" height="384" title="Top 10 Teacher and Student Funny Jokes in Hindi 5" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> jokes in hindi teacher student 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?fit=768%2C384&ssl=1" class="lazyload alignnone wp-image-1576 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?resize=768%2C384&ssl=1" alt=" jokes in hindi teacher student" width="768" height="384" title="Top 10 Teacher and Student Funny Jokes in Hindi 5" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/jokes-in-hindi-teacher-student.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
-vijnyan ke Teacher ne Pappu se pucha…
-“eloveera” kya hota hai ?
+Teacher: Pappu, tum roz late kyu aate ho? Kuch bolo!
+Pappu: Zinda rehne ke liye teri kasam, ek mulakat zaroori hai sanam!
+(Phir kya... de thappad de thappad!) 😂
 ```
 
 ### Joke `HJ-001289`
@@ -1615,13 +1606,8 @@ lekin tumhe deri kyu hui ?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-adhyapak : agar tumhara Best Friend aur Girlfriend donon doob rahe ho
-toh tum kise bachaoge
-stoodent : doob jane Do salon ko
-aakhir woh donon Ek saath kar kya rahe the !
-teacher vs student jokes in hindi 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?fit=768%2C383&ssl=1" class="alignnone wp-image-1579 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?resize=768%2C383&ssl=1" alt="teacher vs student jokes in hindi" width="768" height="383" title="Top 10 Teacher and Student Funny Jokes in Hindi 9" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> teacher vs student jokes in hindi 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?fit=768%2C383&ssl=1" class="lazyload alignnone wp-image-1579 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?resize=768%2C383&ssl=1" alt="teacher vs student jokes in hindi" width="768" height="383" title="Top 10 Teacher and Student Funny Jokes in Hindi 9" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-vs-student-jokes-in-hindi.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
+Adhyapak: Agar tumhara best friend aur girlfriend dono nadi mein doob rahe ho, toh tum kise bachaoge?
+Student: Doob jaane do saalon ko, aakhir woh dono ek saath nadi kinare kar kya rahe the!
 ```
 
 ### Joke `HJ-001294`

@@ -2262,36 +2262,8 @@ Patni: aapke bina ji nahi lagata hai
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Pati: are pagali Zee nahi lagata toh,
-Star aur Sony laga kar dekh liya kar,
-woh bhi acche chainal hai...
-😃😃😜😃😎😃
-***********************
-Pati Patni jokes in hindi latest
-zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="alignnone wp-image-1153 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="Best Top 20 (Pati Patni) Pati Patni jokes in hindi latest 4" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="lazyload alignnone wp-image-1153 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="Best Top 20 (Pati Patni) Pati Patni jokes in hindi latest 4" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
-hansate raho, hasate raho !
-doston aaj ke samay mein hum sab apane apane kamo mein itane vyast hai kee har vaqt tenshan se ghire rahate hai. par jaise acchi hava, accha khan pan, hamari sehat ke liye jaruri hai, theek vaise hi hamari hansi bhi humko svasth rakhane mein bhoomika nibhati hai. humko kaayi bimariyon se bachane ke liye hansane kee aadat dalani hogi. iseelie hum aapke liye late rahate hai hansi mazaak vale joks, jise padhane ke bad aap hansate hansate lotapot ho jayenge. toh aaei padhate hai hansi vale joks woh bhi hindi men.
-aaj ramayan dekhate aankh
-bhar aayi.
-dasharath ji Teen patniyon ko
-aaram se samajha rahe the.
-aur yahan toh Ek ko bhi
-samajhana mushkil hai.
-😃😃😜😃😎😃
-***********************
-Pati Patni karwa chauth jokes
-yeh beeviyan bhi bahut
-ajeeb hoti hai…!
-364 din Pati ko jeene nahi deti
-aur 1 din karava chauth ka vrat kar
-marane bhi nahi deti.
-😃😃😜😃😎😃
-***********************
-( Pati Patni jokes in hindi latest )
-Biwi suno ji aaj office se jaldi aa
-jaana movie dekhane chalenge
+Patni: TV pe Zee TV nahi aa raha hai!
+Pati: Are pagli Zee nahi lagta toh Star aur Sony laga kar dekh liya kar, woh bhi acche channel hain!
 ```
 
 ### Joke `HJ-001201`
@@ -2668,17 +2640,8 @@ lekar aaye ho.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati: theek hai…
-toh vapis so jaa… aur pahan le….
-😲😃😃😄😜😎😃
-***********************
-zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="alignnone wp-image-1153 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="150+ majedar Pati Patni joks | Best Pati Patni Jokes in Hindi 5" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="lazyload alignnone wp-image-1153 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="150+ majedar Pati Patni joks | Best Pati Patni Jokes in Hindi 5" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
-doston aaj ke samay mein hum sab apane apane kamo mein itane vyast hai kee har vaqt tenshan se ghire rahate hai. par jaise acchi hava, accha khan pan, hamari sehat ke liye jaruri hai, theek vaise hi hamari hansi bhi humko svasth rakhane mein bhoomika nibhati hai.
-humko kaayi bimariyon se bachane ke liye hansane kee aadat dalani hogi. iseelie hum aapke liye late rahate hai hansi mazaak vale joks, jise padhane ke bad aap hansate hansate lotapot ho jayenge. toh aaei padhate hai hansi vale joks woh bhi hindi men.
-Read: Teacher and Student Funny Jokes in hindi
-***********************
+Patni (raat ko): Suniye ji, maine ek sapna dekha ki aapne mere liye sone ka haar khareed liya hai!
+Pati: Theek hai pagli, toh wapis so jaa aur pehan le!
 ```
 
 ### Joke `HJ-001229`
@@ -3211,20 +3174,9 @@ Pati – “ari sunati ho… bhagyavan ! yeh jo tumane sabji banaayi hai ise kya
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni – “kyu kis liye poochh rahe ho?”
-Pati – are Bhai mujhse bhi toh svarg mein pucha jayega, aakhir kya khakar mare the? 😂😂😂😂
-😲😲😃😄😜😎
-***********************
-Pati Patni Jokes Image 
-" data-image-caption=" Pati Patni Jokes Image 
-" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?fit=768%2C384&ssl=1" class="size-full wp-image-4884 aligncenter" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?resize=768%2C384&ssl=1" alt="Pati Patni Jokes Image" width="768" height="384" title="150+ majedar Pati Patni joks | Best Pati Patni Jokes in Hindi 19" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> Pati Patni Jokes Image 
-" data-image-caption=" Pati Patni Jokes Image 
-" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?fit=768%2C384&ssl=1" class="lazyload size-full wp-image-4884 aligncenter" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?resize=768%2C384&ssl=1" alt="Pati Patni Jokes Image" width="768" height="384" title="150+ majedar Pati Patni joks | Best Pati Patni Jokes in Hindi 19" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/10/Pati-Patni-Jokes-Image.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
-Pati Patni Jokes Image
-bachapan mein daraya jaata tha ki mendhak ko patthar maroge… toh goongi Patni milegi,
-kitna darate the tab, ab lagata hai, kash…. patthar mar diya hota….! 😂😂😂😂
-😲😲😃😄😜😎
-***********************
+Pati (subah subah): Aaj naashte mein kya banaya hai ji?
+Patni: Kyun, kis liye poochh rahe ho?
+Pati: Are bhagwan, mujhse bhi toh upar swarg mein poochha jayega ki aakhir kya kha kar mare the! 😂😂😂
 ```
 
 ### Joke `HJ-001276`
@@ -3297,50 +3249,7 @@ Notify me of new posts by email.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/funny-dosti-jokes-in-hindi/)
 
 ```text
-bol Dost, tumako kya upahar doon
-dosti chahiye ya phir jan var doon,
-Alto Car bahut hai ya phir Jaguar doon,
-itana hi kaphi hai ya phir 2-4 gappen aur mar doon.
-Say friend, what gift should I give you
-Need friendship or should I die
-Alto Car is very or shall I Jaguar,
-That’s enough or 2-4 gossip and kill.
-Dosti jokes
-agar koi aapse baat kare,
-aapki zyada tareef kare,
-ya phir aapko smart kahe, toh use zor se thappad marana,
-uski himmat kaise huyi, mere Dost ko “aprail phool” banane kee, woh bhi julaayi mein…!
-If someone talks to you,
-Praise you more,
-Or if you are smart, slap it hard,
-How dare he, to make my friend April Fool, that too in July…!
-funny Dosti jokes
-Dost aur Biwi ko kabhi vishvas dilane kee jarurat nahi hoti,
-kyonki Dost kabhi shak nahi karta,
-aur Biwi kabhi yakeen nahi karti,,,,,
-yeh bhi padhen: Pati Patni jokes in hindi latest
-Friend and wife never need convincing,
-Because friend never doubts,
-and wife never believes ,,,,
-Very funny Dosti jokes in hindi
-mere Dost ke paradada ji ka phone aaya tha, bol rahe the
-kee jitane pap karane hai kar lo,
-kyonki narak mein jagah hi nahi hai
-hum khud deevar pe baithe hai.
-My friend’s great grandfather received a call, he was speaking
-To commit as many sins as possible
-Because there is no place in hell
-We are sitting on the wall ourselves.
-Very funny Dosti jokes
-baki Dost
-sanbhal kar jaana, pahunch kar kol karna yad se…
-mera Dost
-raste mein mar mat jaeeo….!
-Other Friend:
-Be careful, reach out and remember to call…
-My best friend:
-Do not die on the way….!
-Funny Dosti jokes images
+Dost aur Biwi ko kabhi vishwas dilane ki zaroorat nahi hoti... kyunki sachha dost kabhi shak nahi karta, aur biwi kabhi yaqeen nahi karti!
 ```
 
 ### Joke `HJ-001319`
@@ -3507,35 +3416,8 @@ aapka Dost in sabhi ko dekhega toh kya sochega?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Pati: usko dekhane ke liye hi toh bula raha hoon,
-daraasal woh bhi sadi karane vala hain.
-usko bhi pata chalana chahiye ki shaadi-shuda log kaise rahate hain.
-😲😃😃😄😜😎😃
-Ek kanjoos seth tha, jo apane bachchon ko band ghi ke dabbe se ragad ragad kar khana khilata tha.
-Ek din woh seth us dabbe ko alamari mein band kar bahar chala gaya. raat ko ghar aakar puchha..
-kanjoos seth: bachchon khana liya tum logo ne.
-Bacche: ha Papa! humne kha liya.
-kanjoos seth: par ghi ka dabba toh alamari mein band tha.
-Bacche: pitaji aaj humne roteeyan alamari ke hendal se ragad kar kha lee.
-kanjoos seth: nalayako tum Ek din bhi ghi ke bina nahi rah sakte.
-😲😃😃😄😜😎😃
-pintu: Papa main jeevan mein aage badhane ke liye kya karoon?
-Papa: Ek patthar utha aur pahale apana fon tod.
-😲😃😃😄😜😎😃
-tilu roz apane ganit ke Teacher ke ghar fon karta hain?
-hamesha unki Patni fon uthati hain aur kahati hain – kitni baar bataya tumako ki woh mar chuke hain. baar baar fon kyu karte hon?
-tilu, sunakar accha lagata hain.
-😲😃😃😄😜😎😃
-kisi ne bataya tha ki chaval ko ubalakar phes par lagane se gaure ho jaate hain.
-satyanash ho uska yeh nahi bataya tha ki thande karake lagane hain.
-😲😃😃😄😜😎😃
-Read: Hindi Moral Story
-tilu Ek barat mein gaya tha.
-tilu ko baar baar paani paros diya jaata tha.
-pareshann hokar tilu bola gale mein paani atak gaya hain koi rasagulla de Do.
-😲😃😃😄😜😎😃
-yeh post PRAVEEN KUMAR SIRVI (pasandhai) hindi blog dvara hamare blog par likhi gayi hai. agar aap bhi hamare blog par post likhana chahate hai toh aap Free of Cost hamare Hindi Tech Blog par Guest Post kar sakte hai. hame behad khushi hogi. Thanks !
-yeh bhi padhen
+Pintu: Papa, main jeevan mein aage badhne ke liye sabse pehle kya karoon?
+Papa: Ek patthar utha aur pehle apna smartphone phod, tab aage badhega!
 ```
 
 ### Joke `HJ-001341`
@@ -3543,16 +3425,10 @@ yeh bhi padhen
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
 
 ```text
-Husband Wife 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?fit=768%2C384&ssl=1" class="alignnone wp-image-1166 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?resize=768%2C384&ssl=1" alt="Husband Wife" width="768" height="384" title="Best jokes in hindi for husband and wife 2023 3" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> Husband Wife 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?fit=768%2C384&ssl=1" class="lazyload alignnone wp-image-1166 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?resize=768%2C384&ssl=1" alt="Husband Wife" width="768" height="384" title="Best jokes in hindi for husband and wife 2023 3" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0114.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
-Husband : aaj toh garmi si lag rahi hai.
-Wife : han garmi hone lagi hai…..
-Husband : chalo chhat par thandi hava kha ke aate hai…
-Wife : aap chalo, main plet aur chammach lekar aati hoon…!!!
-zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="alignnone wp-image-1153 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="Best jokes in hindi for husband and wife 2023 4" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="lazyload alignnone wp-image-1153 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="Best jokes in hindi for husband and wife 2023 4" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
+Husband: Aaj toh bohot garmi si lag rahi hai.
+Wife: Haan ji, garmi toh bohot badh gayi hai.
+Husband: Chalo chhat par chalte hain, thandi hawa kha ke aate hain.
+Wife: Aap chalo, main plate aur chammach lekar aati hoon!
 ```
 
 ### Joke `HJ-001342`

@@ -2,12 +2,12 @@
 
 ## 1. Executive Summary
 - **Dataset Title**: Jokewala Hinglish & Hindi Jokes Dataset
-- **Date Generated**: 2026-09-28 15:19:19
+- **Date Generated**: 2026-09-28 15:28:54
 - **Total Verified Web Sources**: 50
 - **Total Unique Jokes in Master**: 1423
 - **Clean / Family-Safe Jokes**: 1423
 - **Adult / Flagged Sensitive Jokes**: 0
-- **Total Filtered Duplicates**: 32
+- **Total Filtered Duplicates**: 0
 - **Total Active Categories Researched**: 46 / 46
 - **Attribution Integrity**: 100% (Every record contains verified real source URL and platform name; 0 fabricated URLs)
 

@@ -531,64 +531,9 @@ Dost: vah! Bhai kya baat huyi?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/funny-dosti-jokes-in-hindi/)
 
 ```text
-The boy jumped happily as soon as he reached college
-Friend: What happened, why are you so happy?
-Boy: Today for the first time a girl talked to me in the metro.
-Friend: Wow! Brother, what happened?
-Boy: I was just sitting here saying girl get up this is ladies seat.
-Funny Dosti jokes pics
-2 shabd,  jo aapki dosti gahari kar de,
-2 shabd, jo roothe doston ko mana de,
-2 shabd, jo naye Dost bana de,
-2 shabd jo kam bana de,
-“biyar piyega”
-2 words that deepens your friendship
-2 words, which forbids angry friends,
-2 words that make new friends,
-2 words that make work
-“Will drink beer”
-Dosti jokes in hindi
-aaj ka suvichar
-bhagavan jisaki mati
-har leta hai….
-usko shreemati de
-deta hai….!
-Today’s wise thought
-God whose wish
-Takes every….
-Give her a smile
-gives….!
-Jokes on friendship in hindi
-Dost: Yaar dadhi rakha kar
-accha lagata hai
-man: sheving kar le.
-jangali lag raha hai.
-sheving karane ke bad
-man: ab insan lag raha hai mera Beta,
-Dost: chhakka lag raha hai kameene.
-Dude: dude shave it
-feels good
-Mother: Get shaving done.
-Feeling wild.
-After shaving
-Mother: Now my son is feeling human,
-Dude: feeling six bastard.
-Dosti ke Chutkule
-kuchh Dost toh sale paida hi,
-yahi bolane ke liye hue hai kee,
-tere garlaphrend kee kisi Dost se seting karava de yara.
-Some friends are born,
-That’s what I meant to say,
-Get your girlfriend to set up a friend.
-Jokes on Dosti
-Ek aadmi, 5 mint mein 10 baar toilet ho aaye…
-Dost ne puchha: ankil ji aapko chain nahi hai kya?
-aadmi: oye  pape hai toh sahi!
-par sali khul nahi rahi…!
-One man, toilets 10 times in 5 mint…
-Friend asked: Ankil ji, don’t you have peace?
-Man: Oh, my father is right!
-But the sister-in-law is not opening…!
+Boy (khush hoke): Aaj pehli baar metro mein ek sundar ladki ne mujhse baat ki!
+Dost: Wah bhai! Kya baat ki?
+Boy: Boli- Oye hero, khade ho jao, yeh ladies seat hai!
 ```
 
 ### Joke `HJ-001309`

@@ -347,10 +347,8 @@ toh kahata hai….  “e  lo  veera” !!!
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Pappu : beti par dhyan Do, toh pata chale !
-zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="alignnone wp-image-1153 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="Top 10 Teacher and Student Funny Jokes in Hindi 7" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> zee talwara 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?fit=768%2C150&ssl=1" class="lazyload alignnone wp-image-1153 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=768%2C150&ssl=1" alt="zee talwara" width="768" height="150" title="Top 10 Teacher and Student Funny Jokes in Hindi 7" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/zee-talwara.jpg?resize=300%2C59&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
+Teacher: Pappu, tumhara padhai mein bilkul dhyan nahi rehta!
+Pappu: Sir, aap apni beti par dhyan do, tab pata chalega mera dhyan kahan rehta hai!
 ```
 
 ### Joke `HJ-001303`
@@ -367,10 +365,8 @@ aur doosara Papa ke !
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Pappu : liye Sir bahut liye !
-teacher student jokes in hindi 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?fit=768%2C384&ssl=1" class="alignnone wp-image-1582 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?resize=768%2C384&ssl=1" alt="teacher student jokes in hindi " width="768" height="384" title="Top 10 Teacher and Student Funny Jokes in Hindi 12" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> teacher student jokes in hindi 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?fit=768%2C384&ssl=1" class="lazyload alignnone wp-image-1582 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?resize=768%2C384&ssl=1" alt="teacher student jokes in hindi " width="768" height="384" title="Top 10 Teacher and Student Funny Jokes in Hindi 12" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/09/teacher-student-jokes-in-hi.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
+Teacher: Pappu, kabhi zindagi mein kisi se koi seekh li hai tumne?
+Pappu: Li hai sir, bahut seekh li hai... tabhi toh fail hoke bhi khush rehta hoon!
 ```
 
 ### Joke `HJ-001337`

@@ -176,13 +176,7 @@ Ek kanpani ka Boss nayi BMW car khareed kar laya. uske jooniyar karmachariyon ne
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
 
 ```text
-Husband :    aisi chai banao kee peete hi tan badan jhoomane lage, aur man nachane lage,
-Wife          :     hamare yahan bhains ka doodh aata hai, nagin ka naheen. 😆😆😆
-jaise kee aap sab janate hai kee, aaj ke chalate daur mein hum sab apane apane kamo mein bayast rahate hai, aur kaayi tenshano se ghire rahate hai. jaise acchi hava, accha khan pan, hamari sehat ke liye jaruri hai, theek vaise hi hamari hansi bhi humko svasth rakhane bhoomika nibhati hai. humko bimariyon se bachane ke liye hasane kee aadat dalani hogi. iseelie hum aapke liye laye hai kuchh aise hi majedar chutakule, jise padhane ke bad aap hansate hansate lotapot jayenge. toh chalie maja lete hai kuchh aise hi majedar chutakulon ka.
-Husband Wife 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?fit=768%2C384&ssl=1" class="aligncenter wp-image-1165 size-full" src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=768%2C384&ssl=1" alt="Husband Wife" width="768" height="384" title="Best jokes in hindi for husband and wife 2023 2" srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=300%2C150&ssl=1 300w" sizes="(max-width: 768px) 100vw, 768px"> Husband Wife 
-" data-image-caption="" data-large-file="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?fit=768%2C384&ssl=1" class="lazyload aligncenter wp-image-1165 size-full" data-src="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=768%2C384&ssl=1" alt="Husband Wife" width="768" height="384" title="Best jokes in hindi for husband and wife 2023 2" data-srcset="https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?w=768&ssl=1 768w, https://i0.wp.com/www.zeetalwara.com/wp-content/uploads/2020/07/0111.jpg?resize=300%2C150&ssl=1 300w" data-sizes="(max-width: 768px) 100vw, 768px">
-Employee : sahib, aap office mein shaadi shuda aadamion ko hi kyu rakhate ho?
-sahib : kyonki unhe beijjati sahane kee aadat hoti hai aur ghar jane kee jaldi bhi nahi hoti.😆😆😆
+Husband: Aisi kadak chai banao ki peete hi tan-badan jhoomne lage aur mann naachne lage!
+Wife: Hamare yahan bhains ka doodh aata hai ji, naagin ka nahi! 😆😆
 ```
 

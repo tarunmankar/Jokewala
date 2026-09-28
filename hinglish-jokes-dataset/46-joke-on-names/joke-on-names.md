@@ -243,7 +243,7 @@ Kavita jab WhatsApp status pe shayariyaan lagati hai toh aisa lagta hai jaise Mi
 - **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.scoopwhoop.com/humour/desi-names-funny-roasts-and-dialogues/)
 
 ```text
-Sunil ka wedding rule: Shaadi ke buffet counter pe Sunil aise टूट-ta hai jaise kal subah se poori dharti pe anaj aur paneer ki supply band hone wali ho! 🍲🍛
+Sunil ka wedding rule: Shaadi ke buffet counter pe Sunil aise toot-ta hai jaise kal subah se poori dharti pe anaj aur paneer ki supply band hone wali ho! 🍲🍛
 ```
 
 ## Subcategory: `Rajesh`
