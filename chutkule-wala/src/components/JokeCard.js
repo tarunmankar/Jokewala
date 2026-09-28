@@ -12,7 +12,7 @@ export default function JokeCard({ joke, onToggleFav, colors }) {
   const isSpeaking = activeSpeakingId === joke.id;
   const meta = getCategoryMeta(joke.category);
 
-  const shareText = `${joke.text}\n\n😂 Haso aur hasao! Chutkule Wala App se`;
+  const shareText = `${joke.text}\n\n😂 Haso aur hasao! Jokewala App se`;
 
   const shareJoke = async () => {
     try {

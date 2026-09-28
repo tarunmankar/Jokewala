@@ -124,7 +124,7 @@ export default function HomeScreen({ colors }) {
       {/* Floating / Top Surprise Me Bar */}
       <View style={styles.topBar}>
         <Text style={[styles.jokeCountText, { color: colors.textMuted }]}>
-          {jokes.length} चुटकले
+          {jokes.length} Desi Jokes
         </Text>
         <TouchableOpacity
           style={[styles.surpriseBtn, { backgroundColor: colors.primaryLight }]}

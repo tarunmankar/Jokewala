@@ -1,16 +1,17 @@
 {
   "expo": {
-    "name": "Chutkule Wala",
-    "slug": "chutkule-wala",
+    "name": "Jokewala: Desi Jokes & Masti",
+    "slug": "jokewala",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tarunmankar.jokewala"
     },
     "android": {
-      "package": "com.tarunmankar.chutkulewala",
+      "package": "com.tarunmankar.jokewala",
       "adaptiveIcon": {
         "backgroundColor": "#FF8A00",
         "foregroundImage": "./assets/android-icon-foreground.png",

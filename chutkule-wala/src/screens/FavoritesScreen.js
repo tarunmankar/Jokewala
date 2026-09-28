@@ -40,7 +40,7 @@ export default function FavoritesScreen({ colors }) {
       {favorites.length > 0 && (
         <View style={styles.header}>
           <Text style={[styles.headerCount, { color: colors.textMuted }]}>
-            {favorites.length} पसंदीदा चुटकले
+            {favorites.length} Favorite Jokes
           </Text>
         </View>
       )}
@@ -64,10 +64,10 @@ export default function FavoritesScreen({ colors }) {
           <View style={styles.emptyContainer}>
             <Text style={{ fontSize: 50, marginBottom: 12 }}>❤️</Text>
             <Text style={[styles.emptyTitle, { color: colors.text }]}>
-              कोई पसंदीदा चुटकला नहीं है
+              Koi Favorite Joke Nahi Hai
             </Text>
             <Text style={[styles.emptySubtitle, { color: colors.textMuted }]}>
-              होम या सर्च स्क्रीन पर किसी भी जोक के नीचे दिए गए ❤️ Like बटन को दबाकर उसे यहां सेव करें।
+              Home ya Search screen par kisi bhi joke ke niche diye ❤️ Like button ko dabakar use yahan save karein.
             </Text>
           </View>
         }

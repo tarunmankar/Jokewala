@@ -135,7 +135,7 @@ export default function App() {
           <Tab.Screen
             name="HomeTab"
             options={{
-              title: 'चुटकले वाला',
+              title: 'Jokewala',
               tabBarLabel: 'Home',
             }}
           >

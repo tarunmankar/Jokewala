@@ -120,7 +120,7 @@ export default function SearchScreen({ colors }) {
       {/* Results Header */}
       {query.length > 0 && (
         <Text style={[styles.resultCount, { color: colors.textMuted }]}>
-          {loading ? 'Dhoondh rahe hain...' : `${results.length} चुटकले मिले`}
+          {loading ? 'Dhoondh rahe hain...' : `${results.length} Jokes mile`}
         </Text>
       )}
 
@@ -144,14 +144,14 @@ export default function SearchScreen({ colors }) {
                 Koi joke nahi mila
               </Text>
               <Text style={[styles.emptySubtitle, { color: colors.textMuted }]}>
-                Kuch aur keyword search karein (jaise 'doctor', 'paisa', 'school', 'shadi')
+                Kuch aur keyword search karein (jaise 'doctor', 'deepak', 'school', 'shadi')
               </Text>
             </View>
           ) : !loading && query.length === 0 ? (
             <View style={styles.emptyContainer}>
               <Text style={{ fontSize: 44, marginBottom: 10 }}>🔍</Text>
               <Text style={[styles.emptyTitle, { color: colors.text }]}>
-                मनपसंद चुटकला खोजें
+                Apne Manpasand Jokes Khojein
               </Text>
               <Text style={[styles.emptySubtitle, { color: colors.textMuted }]}>
                 Upar diye search bar me koi bhi shabda type karein ya kisi category par click karein.

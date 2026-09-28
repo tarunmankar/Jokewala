@@ -14,7 +14,7 @@ export const getCategoryMeta = (catId) =>
 
 export async function initDB() {
   if (!db) {
-    db = await SQLite.openDatabaseAsync('chutkule.db');
+    db = await SQLite.openDatabaseAsync('jokewala.db');
   }
 
   await db.execAsync(`
