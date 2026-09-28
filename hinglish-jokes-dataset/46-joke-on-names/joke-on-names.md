@@ -2,7 +2,7 @@
 
 > **Category ID**: `joke-on-names`  
 > **Description**: Popular Indian names (Deepak, Rahul, Rohit, Pooja, Neha, Priya, Amit, etc.) par funny dialogues aur roasts.  
-> **Total Jokes**: 32  
+> **Total Jokes**: 51  
 
 ---
 
@@ -324,5 +324,195 @@ Ajay jab bhi bike chalata hai toh lagta hai do bike pe pair rakh ke 'Phool Aur K
 
 ```text
 Dost: Deepak, bhai tu itna chamak kyu raha hai aaj? Deepak: Kyunki kal hi beauty parlour se facial karwaya hai! Dost: Wah Deepak bhai, deepak jalne ke bajaye ab glowing cream pe chal raha hai! ✨🤣
+```
+
+## Subcategory: `Deepak Roshni`
+
+### Joke `HJ-001405`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Naam me kya rakha hai: Deepak naam tha uska, par usne 8-10 ladkiyo ko andhere me rakha! Udhar Roshni bhi aisi hi thi, usne bhi 4 ladko ko andhere me rakha! 😂💡
+```
+
+## Subcategory: `Disha`
+
+### Joke `HJ-001406`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Naam me kya rakha hai... Rasta toh wo bhi theek se nahi bata paati jiska naam Disha hai! 'Bhaiya seedhe jaake right mud jaana, shayad wahi hoga!' 🗺️🤦‍♂️
+```
+
+## Subcategory: `Varsha`
+
+### Joke `HJ-001407`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Naam me kya rakha hai: Varsha naam ki ladki bhi zindagi me aag laga deti hai, aur barish hone ke bajaye taano ki barsaat hoti hai! 🌧️🔥
+```
+
+## Subcategory: `Komal`
+
+### Joke `HJ-001408`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Naam Komal hai, par dil se aisi pathar-dil nikli ki kal sham ko breakup hua aur aaj subah Instagram story pe dosto ke sath pizza party daal rahi hai! 🍕💔
+```
+
+## Subcategory: `Karan Arjun`
+
+### Joke `HJ-001409`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Maa kehti thi: 'Mere Karan Arjun aayenge!'... Lekin yahan Karan credit card ki EMI bharne me phasa hai aur Arjun IT company me night shift me bugs fix kar raha hai! 💻💸
+```
+
+## Subcategory: `Kabir`
+
+### Joke `HJ-001410`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Kabir Singh banne ke chakkar me Kabir ne bina helmet Bullet daudayi... Traffic police ne jab 5000 ka chalan kaata, toh Kabir ko direct Kabir Das ke dohe yaad aa gaye! 🏍️📝
+```
+
+## Subcategory: `Bunty`
+
+### Joke `HJ-001411`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Bunty ka sabun hamesha slow hota hai: Dosto ne Monday ko joke maara tha, Bunty ko Thursday ko hassi aayi jab teacher class me viva le rahi thi! 🧼⏱️🤣
+```
+
+## Subcategory: `Guddu`
+
+### Joke `HJ-001412`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Mirzapur dekh ke Guddu apne aap ko bahubali samajhne laga tha... Sham ko mummy ne jhaadu utha li toh chupchap 10 rupaye leke dukan se dhaniya lene bhaag gaya! 🧹🌿😂
+```
+
+## Subcategory: `Munna`
+
+### Joke `HJ-001413`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Munna Bhai banne ke chakkar me Munna pados wali gussa aunty ko 'Jadoo ki jhappi' dene gaya tha... Aunty ne pehle jhappi li, fir chappal nikal li! 🫂🩴🤣
+```
+
+## Subcategory: `Suraj`
+
+### Joke `HJ-001414`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Gharwalo ne ladke ka naam Suraj rakha taaki ghar me roshni laaye... Aur Suraj roz dopahar 12 baje se pehle kambal se nikalne ka naam nahi leta! ☀️🛏️
+```
+
+## Subcategory: `Aakash`
+
+### Joke `HJ-001415`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Naam Aakash hai par jab dhabe pe dosto ke sath chai-samosa ka hisab hota hai, toh zameen pe baith kar 2 rupaye ki extra chutney ka hisab mangne lagta hai! ☁️🪙
+```
+
+## Subcategory: `Baburao`
+
+### Joke `HJ-001416`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Baburao ka alag hi level hai: 'Utha le re baba, utha le... Mereko nahi re, in sab WhatsApp group walo ko ek sath utha le!' 👓😂
+```
+
+## Subcategory: `Sweety`
+
+### Joke `HJ-001417`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Naam Sweety hai, par jab subah muh kholti hai toh uske taane sunkar karela aur neem bhi aapas me bolte hain: 'Bhai hum toh iske aage mehenge amrit hain!' 🥒🐝
+```
+
+## Subcategory: `Shanti`
+
+### Joke `HJ-001418`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Naam Shanti aunty hai, par jaise hi mohalle me entry leti hain, pados ki 4 biwiyo aur saas ke beech teesra vishwa yuddh chhidwa deti hain! 📢🕊️🔥
+```
+
+## Subcategory: `Sharma Ji`
+
+### Joke `HJ-001419`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Papa: Dekh Sharma ji ka beta Google me 50 lakh ka package le gaya! Beta: Papa, par Sharma ji ka beta ghar aake khana toh Swiggy se hi mangwata hai, aur main toh mummy ke haath ki roti khata hoon! 👨‍💼🍕
+```
+
+## Subcategory: `Anil`
+
+### Joke `HJ-001420`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Anil har wedding me dulha-dulhan ke camera man ke theek peeche khada rehta hai, taaki album ki har doosri photo me Anil ka aadha chehra zaroor chamke! 📸🤵
+```
+
+## Subcategory: `Kavya`
+
+### Joke `HJ-001421`
+- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Kavya Instagram bio me likhti hai: 'Simple girl with big dreams 🌸', par sham ko dosto ke sath momos khate waqt 12 baar extra mayonnaise aur tissue paper mangwati hai! 🥟💅
+```
+
+## Subcategory: `Hardik`
+
+### Joke `HJ-001422`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Hardik jab bolta hai: 'Aaj match main akele jitaunga!', toh padosi pehle TV band kar dete hain aur inverter ka switch on kar lete hain! 🏏⚡
+```
+
+## Subcategory: `Poonam`
+
+### Joke `HJ-001423`
+- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
+- **Source**: [Indian Popular Names Humor & Viral Roasts](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html)
+
+```text
+Poonam se pucha: 'Poonam ki raat ko chaand kitna sundar lagta hai na?' Poonam: 'Haan, par wo sab chhod, Zomato pe 50% flat off ka coupon mil raha hai kya?' 🌕🍕
 ```
 

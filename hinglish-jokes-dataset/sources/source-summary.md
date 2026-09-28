@@ -60,8 +60,9 @@ This document records all web sources, publications, portals, and archives resea
 | SRC-0047 | ZeeTalwara Humour | [https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/) | humour_portal | clean-family-friendly, husband-wife, doctor-patient, pappu-style | 2026-09-28 |
 | SRC-0048 | ZeeTalwara Humour | [https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and...](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/) | humour_portal | office-work, husband-wife, marriage, pappu-style | 2026-09-28 |
 | SRC-0049 | Indian Popular Names Humor & Viral Roasts | [https://www.scoopwhoop.com/humour/desi-names-funny-roasts-and-...](https://www.scoopwhoop.com/humour/desi-names-funny-roasts-and-dialogues/) | digital_media | joke-on-names | 2026-09-28 |
+| SRC-0050 | Indian Popular Names Humor & Viral Roasts | [https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jok...](https://www.webdunia.com/hindi-jokes/naam-me-kya-rakha-hai-jokes.html) | digital_media | joke-on-names | 2026-09-28 |
 
 ---
 
 ## Source Category Distribution
-- **Total Verified Sources**: 49
+- **Total Verified Sources**: 50

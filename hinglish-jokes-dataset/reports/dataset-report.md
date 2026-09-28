@@ -2,10 +2,10 @@
 
 ## 1. Executive Summary
 - **Dataset Title**: Jokewala Hinglish & Hindi Jokes Dataset
-- **Date Generated**: 2026-09-28 15:15:50
-- **Total Verified Web Sources**: 49
-- **Total Unique Jokes in Master**: 1404
-- **Clean / Family-Safe Jokes**: 1404
+- **Date Generated**: 2026-09-28 15:19:19
+- **Total Verified Web Sources**: 50
+- **Total Unique Jokes in Master**: 1423
+- **Clean / Family-Safe Jokes**: 1423
 - **Adult / Flagged Sensitive Jokes**: 0
 - **Total Filtered Duplicates**: 32
 - **Total Active Categories Researched**: 46 / 46
@@ -62,7 +62,7 @@
 | `kids` | Kids | 👶 | 3 | Completed |
 | `adult-clean` | Adult Clean | 🍸 | 23 | Completed |
 | `other` | Other | 🎭 | 2 | Completed |
-| `joke-on-names` | Joke on Names | 📛 | 32 | Completed |
+| `joke-on-names` | Joke on Names | 📛 | 51 | Completed |
 
 ---
 
@@ -70,9 +70,9 @@
 
 | Format | Count | Percentage |
 |---|---|---|
-| `dialogue` | 1187 | 84.5% |
-| `one-liner` | 161 | 11.5% |
-| `monologue` | 50 | 3.6% |
+| `dialogue` | 1197 | 84.1% |
+| `one-liner` | 170 | 11.9% |
+| `monologue` | 50 | 3.5% |
 | `qa` | 6 | 0.4% |
 
 ---
@@ -81,7 +81,7 @@
 
 | Language | Count | Percentage |
 |---|---|---|
-| `hinglish` | 1404 | 100.0% |
+| `hinglish` | 1423 | 100.0% |
 
 ---
 
