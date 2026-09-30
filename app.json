@@ -33,6 +33,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f8b41f2b-f202-4dc6-9a8d-81d30f599646"
+      }
+    },
+    "owner": "tarunmankar04"
   }
 }
