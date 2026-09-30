@@ -1,18 +1,27 @@
 # Dependencies
 node_modules/
-chutkule-wala/node_modules/
 
 # Expo
 .expo/
-chutkule-wala/.expo/
 dist/
 web-build/
+expo-env.d.ts
 
 # Native & Builds
-chutkule-wala/android/
-chutkule-wala/ios/
+/ios/
+/android/
 *.apk
 *.aab
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
 
 # OS & Logs
 .DS_Store
@@ -20,6 +29,11 @@ Thumbs.db
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.pem
+
+# Environment & TypeScript
+.env*.local
+*.tsbuildinfo
 
 # Python
 __pycache__/

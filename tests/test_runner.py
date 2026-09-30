@@ -16,7 +16,7 @@ from datetime import datetime
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 DATASET_DIR = os.path.join(BASE_DIR, "hinglish-jokes-dataset")
-APP_DIR = os.path.join(BASE_DIR, "chutkule-wala")
+APP_DIR = BASE_DIR
 TESTS_DIR = os.path.join(BASE_DIR, "tests")
 
 sys.path.insert(0, os.path.join(DATASET_DIR, "scripts"))
