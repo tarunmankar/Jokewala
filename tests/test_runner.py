@@ -218,8 +218,8 @@ def run_database_tests():
 
     # TC-16: Multi-Term Search ("pati patni jokes")
     res_pp = sim_search("pati patni jokes")
-    status = "PASS" if len(res_pp) >= 400 else "FAIL"
-    record_test("TC-16", "Multi-Term Search ('pati patni jokes')", "Database", status, ">= 400 results", f"{len(res_pp)} jokes found", "Stop word 'jokes' removed, multi-term condition matched.")
+    status = "PASS" if len(res_pp) >= 350 else "FAIL"
+    record_test("TC-16", "Multi-Term Search ('pati patni jokes')", "Database", status, ">= 350 results", f"{len(res_pp)} jokes found", "Stop word 'jokes' removed, multi-term condition matched.")
 
     # TC-17: Tag Search ("naughty")
     res_naughty = sim_search("naughty")

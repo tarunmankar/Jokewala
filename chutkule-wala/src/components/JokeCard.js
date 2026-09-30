@@ -1,5 +1,15 @@
 import React, { useState } from 'react';
-import { View, Text, TouchableOpacity, Share, StyleSheet, Linking, ToastAndroid, Platform, Alert } from 'react-native';
+import {
+  View,
+  Text,
+  TouchableOpacity,
+  Share,
+  StyleSheet,
+  Linking,
+  ToastAndroid,
+  Platform,
+  Alert,
+} from 'react-native';
 import * as Clipboard from 'expo-clipboard';
 import { Ionicons } from '@expo/vector-icons';
 import { typography } from '../theme';
@@ -46,31 +56,43 @@ export default function JokeCard({ joke, onToggleFav, colors }) {
   };
 
   return (
-    <View style={[styles.card, { backgroundColor: colors.card, borderColor: colors.border }]}>
-      {/* Header Tag / Category & Speaking Indicator */}
+    <View
+      style={[
+        styles.card,
+        {
+          backgroundColor: colors.card,
+          borderColor: colors.border,
+        },
+      ]}
+    >
+      {/* Top Accent Strip */}
+      <View style={[styles.accentStrip, { backgroundColor: colors.primaryLight }]} />
+
+      {/* Header Row: Category Badge & Status */}
       <View style={styles.headerRow}>
         <View style={[styles.categoryTag, { backgroundColor: colors.primaryLight }]}>
-          <Text style={[styles.categoryText, { color: colors.primary }]}>
-            {meta.emoji} {meta.name}
-          </Text>
+          <Text style={[styles.categoryEmoji]}>{meta.emoji}</Text>
+          <Text style={[styles.categoryText, { color: colors.primary }]}>{meta.name}</Text>
         </View>
 
         {isSpeaking ? (
-          <View style={[styles.speakingBadge, { backgroundColor: '#FEE2E2' }]}>
-            <Ionicons name="volume-high" size={14} color="#EF4444" />
-            <Text style={styles.speakingText}>Bol raha hai...</Text>
+          <View style={[styles.speakingBadge, { backgroundColor: colors.heartBg }]}>
+            <Ionicons name="volume-high" size={13} color={colors.heart} />
+            <Text style={[styles.speakingText, { color: colors.heart }]}>Bol raha hai...</Text>
           </View>
         ) : joke.subcategory ? (
-          <Text style={[styles.subcatText, { color: colors.textMuted }]}>
-            {joke.subcategory}
-          </Text>
+          <View style={[styles.subcatBadge, { backgroundColor: colors.cardSecondary }]}>
+            <Text style={[styles.subcatText, { color: colors.textSecondary }]}>
+              {joke.subcategory}
+            </Text>
+          </View>
         ) : null}
       </View>
 
-      {/* Joke Text with Dynamic Zoom Font Size */}
+      {/* Joke Text Content */}
       <Text
         style={[
-          styles.text,
+          styles.jokeText,
           {
             color: colors.text,
             fontSize: currentFont.size,
@@ -81,44 +103,57 @@ export default function JokeCard({ joke, onToggleFav, colors }) {
         {joke.text}
       </Text>
 
-      {/* Action Buttons: Like, Sunao, Copy, WhatsApp, Share */}
-      <View style={[styles.actionsRow, { borderTopColor: colors.border }]}>
+      {/* Divider */}
+      <View style={[styles.divider, { backgroundColor: colors.borderLight }]} />
+
+      {/* Modern Action Bar */}
+      <View style={styles.actionsRow}>
         {/* Like */}
         <TouchableOpacity
-          style={styles.actionBtn}
+          style={[
+            styles.actionBtn,
+            joke.is_favorite && { backgroundColor: colors.heartBg },
+          ]}
           onPress={() => onToggleFav(joke)}
-          activeOpacity={0.7}
+          activeOpacity={0.65}
         >
           <Ionicons
             name={joke.is_favorite ? 'heart' : 'heart-outline'}
-            size={19}
+            size={18}
             color={joke.is_favorite ? colors.heart : colors.textMuted}
           />
           <Text
             style={[
               styles.btnLabel,
-              { color: joke.is_favorite ? colors.heart : colors.textMuted },
+              { color: joke.is_favorite ? colors.heart : colors.textSecondary },
+              joke.is_favorite && { fontFamily: typography.bold },
             ]}
           >
             {joke.is_favorite ? 'Liked' : 'Like'}
           </Text>
         </TouchableOpacity>
 
-        {/* Sunao / Voice TTS */}
+        {/* Voice Sunao (TTS) */}
         <TouchableOpacity
-          style={styles.actionBtn}
+          style={[
+            styles.actionBtn,
+            isSpeaking
+              ? { backgroundColor: colors.heartBg }
+              : { backgroundColor: colors.speakerBg },
+          ]}
           onPress={() => speakJoke(joke.id, joke.text)}
-          activeOpacity={0.7}
+          activeOpacity={0.65}
         >
           <Ionicons
-            name={isSpeaking ? 'stop-circle' : 'volume-medium-outline'}
-            size={19}
-            color={isSpeaking ? '#EF4444' : colors.primary}
+            name={isSpeaking ? 'stop-circle' : 'volume-medium'}
+            size={18}
+            color={isSpeaking ? colors.heart : colors.speaker}
           />
           <Text
             style={[
               styles.btnLabel,
-              { color: isSpeaking ? '#EF4444' : colors.primary, fontWeight: '600' },
+              { color: isSpeaking ? colors.heart : colors.speaker },
+              { fontFamily: typography.bold },
             ]}
           >
             {isSpeaking ? 'Ruko' : 'Sunao'}
@@ -126,29 +161,54 @@ export default function JokeCard({ joke, onToggleFav, colors }) {
         </TouchableOpacity>
 
         {/* Copy */}
-        <TouchableOpacity style={styles.actionBtn} onPress={copyJoke} activeOpacity={0.7}>
+        <TouchableOpacity
+          style={[
+            styles.actionBtn,
+            copied && { backgroundColor: colors.copyBg },
+          ]}
+          onPress={copyJoke}
+          activeOpacity={0.65}
+        >
           <Ionicons
             name={copied ? 'checkmark-circle' : 'copy-outline'}
-            size={18}
-            color={copied ? '#10B981' : colors.textMuted}
+            size={17}
+            color={copied ? colors.copy : colors.textMuted}
           />
-          <Text style={[styles.btnLabel, { color: copied ? '#10B981' : colors.textMuted }]}>
+          <Text
+            style={[
+              styles.btnLabel,
+              { color: copied ? colors.copy : colors.textSecondary },
+              copied && { fontFamily: typography.bold },
+            ]}
+          >
             {copied ? 'Copied' : 'Copy'}
           </Text>
         </TouchableOpacity>
 
-        {/* WhatsApp */}
-        <TouchableOpacity style={styles.actionBtn} onPress={shareOnWhatsApp} activeOpacity={0.7}>
-          <Ionicons name="logo-whatsapp" size={18} color="#25D366" />
-          <Text style={[styles.btnLabel, { color: '#25D366', fontWeight: '600' }]}>
-            WhatsApp
+        {/* WhatsApp Share */}
+        <TouchableOpacity
+          style={[styles.actionBtn, { backgroundColor: colors.whatsappBg }]}
+          onPress={shareOnWhatsApp}
+          activeOpacity={0.65}
+        >
+          <Ionicons name="logo-whatsapp" size={17} color={colors.whatsapp} />
+          <Text
+            style={[
+              styles.btnLabel,
+              { color: colors.whatsapp, fontFamily: typography.bold },
+            ]}
+          >
+            Share
           </Text>
         </TouchableOpacity>
 
-        {/* System Share */}
-        <TouchableOpacity style={styles.actionBtn} onPress={shareJoke} activeOpacity={0.7}>
+        {/* More Share */}
+        <TouchableOpacity
+          style={styles.actionBtnIconOnly}
+          onPress={shareJoke}
+          activeOpacity={0.65}
+        >
           <Ionicons name="share-social-outline" size={18} color={colors.textMuted} />
-          <Text style={[styles.btnLabel, { color: colors.textMuted }]}>Share</Text>
         </TouchableOpacity>
       </View>
     </View>
@@ -157,72 +217,98 @@ export default function JokeCard({ joke, onToggleFav, colors }) {
 
 const styles = StyleSheet.create({
   card: {
-    borderRadius: 16,
-    padding: 16,
+    borderRadius: 20,
+    padding: 18,
     marginHorizontal: 16,
-    marginVertical: 7,
+    marginVertical: 8,
     borderWidth: 1,
-    elevation: 2,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.06,
-    shadowRadius: 6,
+    overflow: 'hidden',
+    // Elevated drop shadow
+    shadowColor: '#0F172A',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.07,
+    shadowRadius: 10,
+    elevation: 3,
+  },
+  accentStrip: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    height: 3,
   },
   headerRow: {
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    marginBottom: 10,
+    marginBottom: 12,
   },
   categoryTag: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 5,
     paddingHorizontal: 10,
-    paddingVertical: 3,
-    borderRadius: 12,
+    paddingVertical: 4,
+    borderRadius: 14,
+  },
+  categoryEmoji: {
+    fontSize: 13,
   },
   categoryText: {
     fontFamily: typography.bold,
-    fontSize: 12,
-    textTransform: 'uppercase',
-    letterSpacing: 0.5,
+    fontSize: 11.5,
+    letterSpacing: 0.3,
+  },
+  subcatBadge: {
+    paddingHorizontal: 8,
+    paddingVertical: 3,
+    borderRadius: 10,
+  },
+  subcatText: {
+    fontFamily: typography.medium,
+    fontSize: 11,
   },
   speakingBadge: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 4,
     paddingHorizontal: 8,
-    paddingVertical: 2,
+    paddingVertical: 3,
     borderRadius: 10,
   },
   speakingText: {
-    fontFamily: typography.medium,
+    fontFamily: typography.bold,
     fontSize: 11,
-    color: '#EF4444',
   },
-  subcatText: {
-    fontFamily: typography.regular,
-    fontSize: 12,
-  },
-  text: {
+  jokeText: {
     fontFamily: typography.regular,
     marginBottom: 14,
+    letterSpacing: 0.2,
+  },
+  divider: {
+    height: 1,
+    marginBottom: 10,
   },
   actionsRow: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    borderTopWidth: 1,
-    paddingTop: 10,
   },
   actionBtn: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 3,
-    paddingVertical: 4,
-    paddingHorizontal: 3,
+    gap: 4,
+    paddingVertical: 6,
+    paddingHorizontal: 10,
+    borderRadius: 12,
+  },
+  actionBtnIconOnly: {
+    paddingVertical: 6,
+    paddingHorizontal: 8,
+    borderRadius: 12,
   },
   btnLabel: {
     fontFamily: typography.medium,
-    fontSize: 11.5,
+    fontSize: 12,
   },
 });
-

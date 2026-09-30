@@ -2,7 +2,7 @@
 
 > **Category ID**: `pappu-style`  
 > **Description**: Classic goofy Pappu character humor and innocent silliness.  
-> **Total Jokes**: 45  
+> **Total Jokes**: 41  
 
 ---
 
@@ -213,8 +213,8 @@ Pappu jangal mein jaa raha tha tabhi Ek sanp ne pair par kat liya. Pappu ko guss
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-vhatsapp joks in hindi 
- teeti ne Pappu ko pletaphorm pe pakad liya, teeti – ticket dikha, Pappu – are main train mein aaya hi nahi, teeti- kya saboot hai? Pappu – ab saboot yahi hai ki mere paas ticket nahi hai? 😂😂😂😂😂
+vhatsapp joks in hindi
+teeti ne Pappu ko pletaphorm pe pakad liya, teeti – ticket dikha, Pappu – are main train mein aaya hi nahi, teeti- kya saboot hai? Pappu – ab saboot yahi hai ki mere paas ticket nahi hai? 😂😂😂😂😂
 ```
 
 ### Joke `HJ-000968`
@@ -222,8 +222,8 @@ vhatsapp joks in hindi
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-WhatsApp hindi chutkula 
- pyar mein kutta ban gaya WhatsApp joks ladaki Pappu se : aap ka kutta toh taigar jaisa dikhata hai, kya khilate hain aap ! Pappu : yeh kameena taigar hi hai, pyar vyar ke chakkar mein pad gaya shakal kutte jaisi ho gayi hai. 🤣🤣🤣🤣🤣🤣
+WhatsApp hindi chutkula
+pyar mein kutta ban gaya WhatsApp joks ladaki Pappu se : aap ka kutta toh taigar jaisa dikhata hai, kya khilate hain aap ! Pappu : yeh kameena taigar hi hai, pyar vyar ke chakkar mein pad gaya shakal kutte jaisi ho gayi hai. 🤣🤣🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000969`
@@ -279,8 +279,8 @@ Ek boodhi aurat ai ti em ke paas Pappu se boli : Beta mera bailans chek karna ! 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-Short Jokes in Hindi 
- Pappu kee naukari chali gayi… Pappu roz Boss ke ghar ke bahar potti kar aata… Boss:- yeh kya harakat hai..?? Pappu:- yeh batana chahata hoon ki.. bhookha nahi mar raha hoon…!! 😝😝😝😝😝😝
+Short Jokes in Hindi
+Pappu kee naukari chali gayi… Pappu roz Boss ke ghar ke bahar potti kar aata… Boss:- yeh kya harakat hai..?? Pappu:- yeh batana chahata hoon ki.. bhookha nahi mar raha hoon…!! 😝😝😝😝😝😝
 ```
 
 ### Joke `HJ-001049`
@@ -309,29 +309,6 @@ Pappu ne gali ke kone mein kachara phek diya ! thodi der bad woh ghoom phir kar 
 
 ## Subcategory: `Zeetalwara Curated`
 
-### Joke `HJ-001281`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pappu ke 3 the,
-usne wife se kaha,
-pados ke 2 mere hai unko leke
-aata hoon…!!
-(lane ke bad)
-```
-
-### Joke `HJ-001282`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pappu – apane 3 kahan gaye ?
-wife – jinake the woh le gaye…!
-😃😃😃😃😜😃
-***********************
-```
-
 ### Joke `HJ-001301`
 - **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
@@ -349,15 +326,6 @@ toh kahata hai….  “e  lo  veera” !!!
 ```text
 Teacher: Pappu, tumhara padhai mein bilkul dhyan nahi rehta!
 Pappu: Sir, aap apni beti par dhyan do, tab pata chalega mera dhyan kahan rehta hai!
-```
-
-### Joke `HJ-001303`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Pappu – mera Ek joota Mummy ke hath mein tha
-aur doosara Papa ke !
 ```
 
 ### Joke `HJ-001304`
@@ -383,20 +351,10 @@ Papa: kya mazaak kar rahe ho?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Pappu: shuru kisne kiya.
-😲😃😃😄😜😎😃
-Papa: dekho agar tum is baar bhi phail ho gaye toh mujhe Baap mat bolana.
-Exam ke bad
-Beta tumhare rijalt ka kya huaa.
-```
-
-### Joke `HJ-001339`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Pappu: dimag kharab mat karo giradhari lal aapane Baap kahane ka haq kho diya.
-😲😃😃😄😜😎😃
+Papa: Dekho beta, agar tum is baar bhi fail ho gaye toh mujhe Papa mat bolna!
+Exam result ke baad...
+Papa: Beta, tumhare result ka kya hua?
+Pappu: Dimaag kharab mat karo Girdhari Lal! Aapne Papa kehne ka haq kho diya hai! 😂😂😂
 ```
 
 ### Joke `HJ-001352`
@@ -406,12 +364,7 @@ Pappu: dimag kharab mat karo giradhari lal aapane Baap kahane ka haq kho diya.
 ```text
 Pappu ne darate darate Ek pari se pucha kya main tumhara hath choom sakta hoon?
 woh boli, kameene, mere honthon 💋par jahar laga hai😂😂🤣🤣
-*******************************
+
 jo meri ichchha poori karega, main use 1 lakh rupaye doonga. . . . . mujhe 2 lakh rupaye chahie. 😂😂🤣🤣
-Loading… Leave a Comment Cancel reply Comment
-Save my name, email, and website in this browser for the next time I comment.
-Notify me of follow-up comments by email.
-Notify me of new posts by email.
-Δ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 ```
 

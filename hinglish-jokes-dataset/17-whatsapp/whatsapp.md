@@ -2,7 +2,7 @@
 
 > **Category ID**: `whatsapp`  
 > **Description**: Good morning forwards, family groups, blue ticks, and DP drama.  
-> **Total Jokes**: 46  
+> **Total Jokes**: 45  
 
 ---
 
@@ -112,8 +112,8 @@ Gareeb Aadmi Majaak Jokes Ek gareeb aadmi bola:- aisi jindagi se toh maut acchi.
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Latest WhatsApp jokes Images 
- Baccha :-nal se aate paani ko dekhakar bola, Papa yeh paani kahan se aata hai ? Papa .- Beta nadi se…. Beta .-toh phir mujhe nadi dekhani hai. Papa use nadi dikhane le jaate hain. Baccha unhe nadi mein dhakka marakar gira deta hai. aur bhagata huaa ghar aakar man ko kahata hai. Mummy jaldi se nal kholo ,Papa aate honge 🤣🤣🤣🤣🤣🤣
+Latest WhatsApp jokes Images
+Baccha :-nal se aate paani ko dekhakar bola, Papa yeh paani kahan se aata hai ? Papa .- Beta nadi se…. Beta .-toh phir mujhe nadi dekhani hai. Papa use nadi dikhane le jaate hain. Baccha unhe nadi mein dhakka marakar gira deta hai. aur bhagata huaa ghar aakar man ko kahata hai. Mummy jaldi se nal kholo ,Papa aate honge 🤣🤣🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000876`
@@ -153,8 +153,8 @@ phani deshi WhatsApp joks in hindi Ek baar Ek videshi kutta bharat aa gaya… . 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Hindi WhatsApp Joke 
- main: hailo, pizza hat? woh: Yes sir, how can I help you? main: 3 bade aur 1 chhota pijza bhej do. vaha: kisake nam par? main: bhagavan ke nam par 😝😝😂😂😂😂
+Hindi WhatsApp Joke
+main: hailo, pizza hat? woh: Yes sir, how can I help you? main: 3 bade aur 1 chhota pijza bhej do. vaha: kisake nam par? main: bhagavan ke nam par 😝😝😂😂😂😂
 ```
 
 ### Joke `HJ-000881`
@@ -170,8 +170,8 @@ Hindi WhatsApp Joke
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Whatsapp Funny Messages in Hindi 
- 1 chhote Bacche ne kabhi apana pichhavada nahi dekha… 1 din medam ne uske pichhavade pe khoob mara.. Baccha ghar ke aaine mein pichhavade dekhate hue bola ale Baap le – Do tukale kar diye.. 👶👶😂😂😂😂
+Whatsapp Funny Messages in Hindi
+1 chhote Bacche ne kabhi apana pichhavada nahi dekha… 1 din medam ne uske pichhavade pe khoob mara.. Baccha ghar ke aaine mein pichhavade dekhate hue bola ale Baap le – Do tukale kar diye.. 👶👶😂😂😂😂
 ```
 
 ### Joke `HJ-000883`
@@ -187,7 +187,7 @@ Pita beti vhatsaepajoks Pita :- apani beti se beti, pahale tum mujhe Papa bulati
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-veri phani WhatsApp joks in hindi agar aap English padhana janate ho toh ise phataphat padh ke dikhao Мy А Мy They My A My They My They They My A My They They A My A My They They My , maf karo chhutta nahi hai doosare grup mein jao.😝😝 maja aaya bheekh mangane me naya Bhikhari dhoodhane ke liye jaldi kisi aur ko phoravard kar Do 🤣🤣🤣🤣🤣🤣🤣
+agar aap English padhana janate ho toh ise phataphat padh ke dikhao Мy А Мy They My A My They My They They My A My They They A My A My They They My , maf karo chhutta nahi hai doosare grup mein jao.😝😝 maja aaya bheekh mangane me naya Bhikhari dhoodhane ke liye jaldi kisi aur ko phoravard kar Do 🤣🤣🤣🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000885`
@@ -219,8 +219,8 @@ naye WhatsApp joks naye sanskara: yadi aapke ghar koi padharen toh use paani poo
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Funny Jokes In Hindi For WhatsApp 
- mere Ek shubhachintak ne mujhe yeh sujhav diya ki wife se bahas se nahi jeeto, balki apani muskan se harao. mainne prayas kiya….. Wife boli-bahut zyada hansi aa rahi hai tumako ojakala??lagata hai. tumhara bhoot utarana padega .. 🤣🤣🤣
+Funny Jokes In Hindi For WhatsApp
+mere Ek shubhachintak ne mujhe yeh sujhav diya ki wife se bahas se nahi jeeto, balki apani muskan se harao. mainne prayas kiya….. Wife boli-bahut zyada hansi aa rahi hai tumako ojakala??lagata hai. tumhara bhoot utarana padega .. 🤣🤣🤣
 ```
 
 ### Joke `HJ-000889`
@@ -260,7 +260,7 @@ hindi Ladka Ladki WhatsApp joks Ladka Ladki dekhane gaya: unko baat karane ke li
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-phani WhatsApp joks in hindi kuchh log Whatsapp par bus Do hi stetas post karte hain. pahala:– Good Morning doosara:– Good Night . aisa lagata hai, jaise Whatsapp kee dukaan ka shatar kholane aur band karane kee jimmedari inaki hai aur mal khareedane bechane kee jimmedari hamari 😆😆😆😂😂😂😂
+kuchh log Whatsapp par bus Do hi stetas post karte hain. pahala:– Good Morning doosara:– Good Night . aisa lagata hai, jaise Whatsapp kee dukaan ka shatar kholane aur band karane kee jimmedari inaki hai aur mal khareedane bechane kee jimmedari hamari 😆😆😆😂😂😂😂
 ```
 
 ### Joke `HJ-000894`
@@ -300,8 +300,7 @@ deshi WhatsApp joks in hindi Ek bhains jangal mein ghabaraayi hui bhagi jaa rahi
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-WhatsApp ke chutakule 
- bevakoof angrez phani WhatsApp joks angrej sipahi se,- is aadmi ka kan kat Do aadmi – nahi mera kan mat kato nahi toh main andha ho jaoonga angrej- bevakoof koi kan katane se andha hota hai. aadmi – are bevakoof kan kat dega toh chashma kya tere Baap ke kan par lagaunga 😝😝😂😂😂🤣🤣🤣
+bevakoof angrez phani WhatsApp joks angrej sipahi se,- is aadmi ka kan kat Do aadmi – nahi mera kan mat kato nahi toh main andha ho jaoonga angrej- bevakoof koi kan katane se andha hota hai. aadmi – are bevakoof kan kat dega toh chashma kya tere Baap ke kan par lagaunga 😝😝😂😂😂🤣🤣🤣
 ```
 
 ### Joke `HJ-000899`
@@ -317,8 +316,7 @@ Mummy Beta phani WhatsApp joks Beta : Mummy aap jaise mujhe marati ho vaise nani
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-hasy chutakule hindi mein 
- kharagosh aur lohar phani WhatsApp joks Ek kharagosh roz Ek lohar kee dukaan par jaata aur poochhata gajar hai??? lohar inkar kar deta. Ek din lohar ko bahut gussa aaya aur usne pakadakar kharagosh ke dant tod die. aur kaha ab tu"gajar kha ke dikha? phir ?phir kya agale din kharagosh aaya aur poochhane laga “gajar ka halava hai kya???” ise kahate hain attitude 😝😝😝😂😂😂🤣🤣🤣
+kharagosh aur lohar phani WhatsApp joks Ek kharagosh roz Ek lohar kee dukaan par jaata aur poochhata gajar hai??? lohar inkar kar deta. Ek din lohar ko bahut gussa aaya aur usne pakadakar kharagosh ke dant tod die. aur kaha ab tu"gajar kha ke dikha? phir ?phir kya agale din kharagosh aaya aur poochhane laga “gajar ka halava hai kya???” ise kahate hain attitude 😝😝😝😂😂😂🤣🤣🤣
 ```
 
 ### Joke `HJ-000901`
@@ -342,8 +340,7 @@ phani aalasi WhatsApp chutakule bharat mein kul 22546464372 log aalasi hain .. i
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-WhatsApp Jokes Status 
- nepali naukar phani WhatsApp chutkula nepali naukar : (subah subah)- o shab ji!! motar kharab ho gaayi.. sahab ji bada pareshan ab kya karun?? is kambakht motar ko bhi subah hi kharab hona tha. naukara: kya karoon shab ji phaink den ishako kya? sahab ji : pagal hai kya, karavata hoon shaam tak theek. naukar : theek hai shab ji toh phir aaj aalu mein motar ke badale gobi dal deta hoon shab ji ….. sahab : de chappala…de chappal 😝😝😝😂😂😂🤣🤣🤣🤣
+nepali naukar phani WhatsApp chutkula nepali naukar : (subah subah)- o shab ji!! motar kharab ho gaayi.. sahab ji bada pareshan ab kya karun?? is kambakht motar ko bhi subah hi kharab hona tha. naukara: kya karoon shab ji phaink den ishako kya? sahab ji : pagal hai kya, karavata hoon shaam tak theek. naukar : theek hai shab ji toh phir aaj aalu mein motar ke badale gobi dal deta hoon shab ji ….. sahab : de chappala…de chappal 😝😝😝😂😂😂🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000904`
@@ -359,15 +356,9 @@ baniya aur panjabi Bhai phani joks sadak ke is par Ek panjabi Bhai kee dukaan th
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-phani WhatsApp stetas joks police – tumhare samane Chor us Ladki ka. pars chheen raha tha aur tumane uski koi madad nahi ki. . Ladka – mein us Ladki ko janata hoon, . uska WhatsApp stetas hai – “I can handle my problems. Mind your own business… Don’t underestimate the power of woman.”
-```
-
-### Joke `HJ-000906`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
-
-```text
-police – phir theek hai maran de…. 😂😂😂😂😂😂😂😂😂
+Police: Tumhare samne chor us ladki ka purse chheen raha tha aur tumne uski koi madad nahi ki?
+Ladka: Main us ladki ko jaanta hoon... uska WhatsApp status hai – 'I can handle my own problems. Mind your own business!'
+Police: Phir theek hai, maran de! 😂😂😂
 ```
 
 ### Joke `HJ-000907`
@@ -375,8 +366,7 @@ police – phir theek hai maran de…. 😂😂😂😂😂😂😂😂😂
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-WhatsApp Jokes Chutkule in Hindi 
- shaharee Ladka Dehaati Mahila Funny Jokes In Hindi Ek shahari Ladka nadi mein battakhon par nishana laga raha tha nisana chuk gaya aur paani bhar rahi Ek dehati mahila ka ghada phut gaya. woh us stri ke paas gaya aur bola ‘sorry for that’ us aurat ne Ek jhannatedar thappad mara, . “dahijara ke nati ! Ek tau ghada phori dihis oopar se kahat hai ‘sadi phar deb “, are hum tohar kareja nikar leb .. 😝😝😝🤣🤣🤣
+Ek shahari Ladka nadi mein battakhon par nishana laga raha tha nisana chuk gaya aur paani bhar rahi Ek dehati mahila ka ghada phut gaya. woh us stri ke paas gaya aur bola ‘sorry for that’ us aurat ne Ek jhannatedar thappad mara, . “dahijara ke nati ! Ek tau ghada phori dihis oopar se kahat hai ‘sadi phar deb “, are hum tohar kareja nikar leb .. 😝😝😝🤣🤣🤣
 ```
 
 ### Joke `HJ-000908`
@@ -392,7 +382,6 @@ gajab parivar Funny Jokes In Hindi Ek parivar me 5 bahane thi.. Ek ka nam tha -:
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Long WhatsApp Jokes in Hindi 
- Ladka Ladki Funny Jokes In Hindi “Ek ladake ne Ek Ladki ko prapoj kiya toh Ladki ne mana kar diya. ladake ne kaha : main Ek maheene tak tumhare ghar ke neeche khada rah kar tumhara intajar karoonga. Ek maheene bad Ladki ne us ladake se kaha, ‘aayi lav yu.’ Ladka: rahane Do, ab tumhari padosan set ho gayi hai.” 😝😝😂😂🤣🤣🤣
+“Ek ladake ne Ek Ladki ko prapoj kiya toh Ladki ne mana kar diya. ladake ne kaha : main Ek maheene tak tumhare ghar ke neeche khada rah kar tumhara intajar karoonga. Ek maheene bad Ladki ne us ladake se kaha, ‘aayi lav yu.’ Ladka: rahane Do, ab tumhari padosan set ho gayi hai.” 😝😝😂😂🤣🤣🤣
 ```
 

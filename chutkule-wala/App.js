@@ -31,17 +31,19 @@ function FontZoomButton({ colors }) {
       activeOpacity={0.7}
       style={{
         marginRight: 16,
-        paddingHorizontal: 10,
-        paddingVertical: 5,
-        borderRadius: 12,
+        paddingHorizontal: 12,
+        paddingVertical: 6,
+        borderRadius: 16,
         backgroundColor: colors.primaryLight,
         flexDirection: 'row',
         alignItems: 'center',
-        gap: 4,
+        gap: 5,
+        borderWidth: 1,
+        borderColor: colors.borderLight,
       }}
     >
-      <Ionicons name="text" size={14} color={colors.primary} />
-      <Text style={{ fontFamily: typography.bold, fontSize: 13, color: colors.primary }}>
+      <Ionicons name="text" size={13} color={colors.primary} />
+      <Text style={{ fontFamily: typography.bold, fontSize: 12.5, color: colors.primary }}>
         {currentFont.label}
       </Text>
     </TouchableOpacity>

@@ -2,7 +2,7 @@
 
 > **Category ID**: `teacher-student`  
 > **Description**: Classroom wit, clever excuses, and teacher-pupil humor.  
-> **Total Jokes**: 198  
+> **Total Jokes**: 191  
 
 ---
 
@@ -826,8 +826,8 @@ Teacher Santa se main jo bhi poochhoon uska jawab phataphat dena. Teacher – ba
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/santa-banta-jokes-hindi/)
 
 ```text
-Santa Banta Jokes 2023 
- Santa ne eyar port pe phone lagaya, 📲📲 Santa – ha ji Madam, panjab se amerika jane mein kitna time lagata hai.✈️✈️ Ladki – just ….. 1 second sara. Santa (phone pe kahate hue) – chhod Yaar lagata hai pi kar baithi hai. 🤣🤣🤣🤣
+Santa Banta Jokes 2023
+Santa ne eyar port pe phone lagaya, 📲📲 Santa – ha ji Madam, panjab se amerika jane mein kitna time lagata hai.✈️✈️ Ladki – just ….. 1 second sara. Santa (phone pe kahate hue) – chhod Yaar lagata hai pi kar baithi hai. 🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000808`
@@ -867,8 +867,8 @@ eloveera kya hota hai – funny teacher student jokes vijnyan ke Teacher ne Stud
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-Teacher Student Jokes 2025 
- Teacher golu se- Paanch mein se Paanch ghatane par kitne bachenge ?? . golu – pata nahi Madam. . Teacher- agar tere paas 5 bhature hai, aur mein 5 bhature tujhase mai le loon toh tere paas kya bachega ?? . golu- …..chhole. 😂😂😂😂😂😂😂
+Teacher Student Jokes 2025
+Teacher golu se- Paanch mein se Paanch ghatane par kitne bachenge ?? . golu – pata nahi Madam. . Teacher- agar tere paas 5 bhature hai, aur mein 5 bhature tujhase mai le loon toh tere paas kya bachega ?? . golu- …..chhole. 😂😂😂😂😂😂😂
 ```
 
 ### Joke `HJ-000813`
@@ -916,8 +916,8 @@ guruji ne ritayarament le liya – Funny Teacher Student Jokes guruji : aisa kau
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-hindi Teacher stoodent joks 
- adhyapak :- tebal par chai kisne giraayi? ise apani matribhasha me bolo . Student :- matribhasha matalab Mummy kee bhasha mein ? adhyapak :- han . Student :- are chhati koota mhara jeev liyan bina thane chain ni pade ? o kee tharo Baap dholi chai ? adhyapak behosh ! 😜😂😂😂🤣🤣🤣
+hindi Teacher stoodent joks
+adhyapak :- tebal par chai kisne giraayi? ise apani matribhasha me bolo . Student :- matribhasha matalab Mummy kee bhasha mein ? adhyapak :- han . Student :- are chhati koota mhara jeev liyan bina thane chain ni pade ? o kee tharo Baap dholi chai ? adhyapak behosh ! 😜😂😂😂🤣🤣🤣
 ```
 
 ### Joke `HJ-000819`
@@ -965,8 +965,8 @@ buland eerade – majedar Teacher stoodent hindi chutkula Teacher: eerade buland
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-Teacher student jokes in hindi  with answers 
- Teacher : tum parindo ke bare mein sab janate ho ?? Sanju : han Teacher : accha yeh batao kaun sa parinda ud nahi sakta ?? Sanju : mara huaa parinda 😤😆 bhag pagal kaheen ka 😂😂😂
+Teacher student jokes in hindi  with answers
+Teacher : tum parindo ke bare mein sab janate ho ?? Sanju : han Teacher : accha yeh batao kaun sa parinda ud nahi sakta ?? Sanju : mara huaa parinda 😤😆 bhag pagal kaheen ka 😂😂😂
 ```
 
 ### Joke `HJ-000825`
@@ -1014,8 +1014,8 @@ Madam ji ka dehant ho gaya – majedar Teacher stoodent chutkula Madam class ka 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-Student aur adhyapak ke chutakule 
- Teacher : Chipkali kise kehte hai??? Pappu : Chipkali ek garib magarmach hai, jise bachpan me born vita wala dudh nahi mila, jis kaaran woh kuposhan ka shikaar ho gai. 😜😂🤣🤣🤣🤣
+Student aur adhyapak ke chutakule
+Teacher : Chipkali kise kehte hai??? Pappu : Chipkali ek garib magarmach hai, jise bachpan me born vita wala dudh nahi mila, jis kaaran woh kuposhan ka shikaar ho gai. 😜😂🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000831`
@@ -1087,8 +1087,8 @@ kis liye – Master aur babalu phani hindi chutkula Master :- kal skul kyoon nah
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-Teacher Student Jokes Images 
- Teacher :- kaunasa panchhi sabase tez udata hai? stoodet :- Sir, hathi. Teacher :- nalayak, tera Baap kya karta hai? stoodet :- daud ke gaing mein shootar hai. Teacher :- shabasha. likho bachcho hathi. 😜😂😂😂🤣🤣🤣
+Teacher Student Jokes Images
+Teacher :- kaunasa panchhi sabase tez udata hai? stoodet :- Sir, hathi. Teacher :- nalayak, tera Baap kya karta hai? stoodet :- daud ke gaing mein shootar hai. Teacher :- shabasha. likho bachcho hathi. 😜😂😂😂🤣🤣🤣
 ```
 
 ### Joke `HJ-000840`
@@ -1128,8 +1128,8 @@ deevaron ke bhi kan hoten hai – teacher Student hindi Chutkula Masterji:- “d
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-Best Teacher Student Jokes 
- Master – aaj tumako muhavare padhaoonga “hath kangan toh aarasi kya” is muhavare ka arth kaun batayega ? Pappu – main bataoon Master ji Master – han bata Pappu – hath kangan toh aarasi kya… iska matalab jo ladakiyan hath mein kangan pahanakar skooti chalati hain police unse aar si nahi mangati… 🙂 😉 Master behosh… 😜🤣😂😂😂😂😂
+Best Teacher Student Jokes
+Master – aaj tumako muhavare padhaoonga “hath kangan toh aarasi kya” is muhavare ka arth kaun batayega ? Pappu – main bataoon Master ji Master – han bata Pappu – hath kangan toh aarasi kya… iska matalab jo ladakiyan hath mein kangan pahanakar skooti chalati hain police unse aar si nahi mangati… 🙂 😉 Master behosh… 😜🤣😂😂😂😂😂
 ```
 
 ### Joke `HJ-000845`
@@ -1161,8 +1161,8 @@ sag-pat khane vale kee nigahen tej hoti hai – Funny Jokes adhyapak – tum kai
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-Very Funny Teacher Student Jokes in Hindi 
- Teacher – tum kal school kyu nahi aaye the ? Ladka – ji woh, kal mere ghar mein pooja thi Teacher – toh parso kyu nahi aaye the ? Ladka – ji parso mere ghar priya thi 🙂🙂 Teacher behosh 🤣🤣🤣🤣🤣
+Very Funny Teacher Student Jokes in Hindi
+Teacher – tum kal school kyu nahi aaye the ? Ladka – ji woh, kal mere ghar mein pooja thi Teacher – toh parso kyu nahi aaye the ? Ladka – ji parso mere ghar priya thi 🙂🙂 Teacher behosh 🤣🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000849`
@@ -1202,8 +1202,8 @@ nau sau choohe khakar billi – Master aur Pappu majedar hindi joks Master – n
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-Student Teacher Jokes Chutkule 
- adhyapika – kal mainne tujhe kutte par nibandh likhane ko kaha tha! tu likhakar kyu nahi laya? . rakesh – kya karoon Madam, jaise hi mainne kutte par pen rakha, woh bhag gaya! 😂😂😂😂😂😂😂😂
+Student Teacher Jokes Chutkule
+adhyapika – kal mainne tujhe kutte par nibandh likhane ko kaha tha! tu likhakar kyu nahi laya? . rakesh – kya karoon Madam, jaise hi mainne kutte par pen rakha, woh bhag gaya! 😂😂😂😂😂😂😂😂
 ```
 
 ### Joke `HJ-000854`
@@ -1339,7 +1339,7 @@ iljam kee bhi had ho gayi . aaj Ek boodhau hamare pasavale school ke Sir se bol 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Teacher Student Funny Jokes In Hindi Teacher- accha bachchon batao draivar aur kandaktar mein kya phark hota hai? .. guruji, kandaktar so gaya toh kisi ka ticket nahi katega. .. lekin agar draivar so gaya toh sab ka ticket kat jaega 😬😝😂🤣🤣🤣
+Teacher- accha bachchon batao draivar aur kandaktar mein kya phark hota hai? .. guruji, kandaktar so gaya toh kisi ka ticket nahi katega. .. lekin agar draivar so gaya toh sab ka ticket kat jaega 😬😝😂🤣🤣🤣
 ```
 
 ### Joke `HJ-000980`
@@ -1427,8 +1427,8 @@ ram ( Teacher se ) – mera Beta itihas mein kaisa hai? main toh itihas mein bah
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-Teacher Student Funny Chutkule 
- Teacher: batao “aayi lav yu shabd” ka aavishakar kis desh main huaa? student 8 chaina mein 😋 Teacher 8 woh kaise ? 🙄 toodent isamen sare chaineez gun hain na koi garanti, na koi varanti chale toh chand tak, na chale toh shaam tak 😂😂😂😂😂😂😂😂
+Teacher Student Funny Chutkule
+Teacher: batao “aayi lav yu shabd” ka aavishakar kis desh main huaa? student 8 chaina mein 😋 Teacher 8 woh kaise ? 🙄 toodent isamen sare chaineez gun hain na koi garanti, na koi varanti chale toh chand tak, na chale toh shaam tak 😂😂😂😂😂😂😂😂
 ```
 
 ### Joke `HJ-001035`
@@ -1468,8 +1468,8 @@ rasayan shastr kee kaksha mein Teacher: paani ka phormoola batao stoodent: H2O +
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-chutkule hasi ke 
- adhyapika- itane din se kahan the? Student- bard phlu ho gaya tha. adhyapika- par yeh toh bard mein hota hai insanon mein nahi. Student- insan samajha hi kahan aapane…roj toh murga bana deti ho. 😝😝😝😂😂😂😂😂
+chutkule hasi ke
+adhyapika- itane din se kahan the? Student- bard phlu ho gaya tha. adhyapika- par yeh toh bard mein hota hai insanon mein nahi. Student- insan samajha hi kahan aapane…roj toh murga bana deti ho. 😝😝😝😂😂😂😂😂
 ```
 
 ### Joke `HJ-001040`
@@ -1511,21 +1511,10 @@ adhyapak – batao gadhe aur manushy mein kya phark hai? Student – manushy ko 
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Teacher : batao agar Ek chhota grah prithvi se takara jaye toh kya hoga ?
-```
-
-### Joke `HJ-001284`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Pappu : tan tan kee aavaj aaegi.
-Teacher : kyu ?
-Pappu : kyonki ….
-sani liyon ne gaya hai,
-yeh duniya pittal dee…
-yeh duniya pittal dee…
-sains Teacher : class mein so rahe ho kya ?
+Teacher: Batao agar ek chhota grah prithvi se takra jaaye toh kya hoga?
+Pappu: Tann-tann ki aawaz aayegi sir!
+Teacher: Kyun be?
+Pappu: Kyunki Sunny Leone ne gaaya hai - Yeh duniya pittal di! 😂😂😂
 ```
 
 ### Joke `HJ-001285`
@@ -1542,26 +1531,9 @@ Pappu: Nahi teacher, gurutvakarshan (gravity) se sar neeche gir raha hai, mera k
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Teacher ne Pappu se kaha – zinda rahane ke liye kya kya cheezen jaruri hai ?
-```
-
-### Joke `HJ-001287`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Pappu – pata nahi Madam !
-Teacher – are jo aata hai vahi bata.
-```
-
-### Joke `HJ-001288`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Teacher: Pappu, tum roz late kyu aate ho? Kuch bolo!
+Teacher ne Pappu se kaha: Zinda rehne ke liye kya-kya cheezein zaroori hain?
 Pappu: Zinda rehne ke liye teri kasam, ek mulakat zaroori hai sanam!
-(Phir kya... de thappad de thappad!) 😂
+(Phir kya... de thappad de thappad!) 😂😂😂
 ```
 
 ### Joke `HJ-001289`
@@ -1569,18 +1541,12 @@ Pappu: Zinda rehne ke liye teri kasam, ek mulakat zaroori hai sanam!
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Teacher : beerabal kaun tha ?
-Pappu : pata nahi Madam ?
-Teacher : padhaayi par dhyan Do, toh pata chale.
-```
-
-### Joke `HJ-001290`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Pappu : Madam, rajesh, vikki aur saurav kaun hai?
-Teacher : mujhe kya pata.
+Teacher: Birbal kaun tha?
+Pappu: Pata nahi madam.
+Teacher: Padhai par dhyan do toh pata chale!
+Pappu: Achha madam, yeh batao Rajesh, Vicky aur Saurav kaun hain?
+Teacher: Mujhe kya pata!
+Pappu: Apni beti par dhyan do toh pata chale! 😂😂😂
 ```
 
 ### Joke `HJ-001291`
@@ -1588,17 +1554,10 @@ Teacher : mujhe kya pata.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Teacher ne Pappu se let school aane kee vajah puchi,
-Pappu ne kaha – Mummy aur Papa mein ladaayi ho rahi thi ,
-```
-
-### Joke `HJ-001292`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Teacher – ho sakta hai,
-lekin tumhe deri kyu hui ?
+Teacher ne Pappu se late school aane ki wajah poochhi:
+Pappu: Mummy aur Papa mein ladai ho rahi thi sir.
+Teacher: Ho sakta hai, lekin usme tumhe aane mein deri kyu hui?
+Pappu: Sir, mera ek joota mummy ke haath mein tha aur doosra papa ke haath mein! 😂😂😂
 ```
 
 ### Joke `HJ-001293`
@@ -1615,17 +1574,10 @@ Student: Doob jaane do saalon ko, aakhir woh dono ek saath nadi kinare kar kya r
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Teacher Sanju se : tumhare Papa kya karte hain
-Pappu : ji woh roz galiyan khate hain
-```
-
-### Joke `HJ-001295`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Teacher : kya matalab
-Pappu : Sir woh Customer Care Executive hai
+Teacher: Pappu, tumhare papa kya kaam karte hain?
+Pappu: Sir, woh roz gaaliyan khate hain!
+Teacher: Kya matlab?
+Pappu: Sir, woh Customer Care Executive hain! 😂😂😂
 ```
 
 ### Joke `HJ-001296`
@@ -1646,18 +1598,10 @@ varana staph room mein rakh denge
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
 
 ```text
-Master : kal school kyu nahi aaye
-Pappu :  Girlfriend se milane gaya tha
-```
-
-### Joke `HJ-001298`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/teacher-and-student-funny-jokes-in-hindi/)
-
-```text
-Master : kisalie
-Pappu : Yes Sir
-Master : mainne pucha kisalie
+Master: Kal school kyu nahi aaye the?
+Pappu: Girlfriend se milne gaya tha sir.
+Master: Kiss liye?
+Pappu: Yes sir, li thi! 😂😂😂
 ```
 
 ### Joke `HJ-001299`
@@ -1682,9 +1626,5 @@ Teacher: bachchon batao “I Love You” shabd ka aavishkar, kis desh mein huaa 
 Teacher- Sanju yamuna nadi kahan bahati hai ? Sanju –  jameen par… Teacher – nakshe mein bataon kahan bahati hai? Sanju –  nakshe mein kaise bah sakti hai, Sir naksha gal nahi jaega. 🤣🤣🤣🤣😂🤣🤣🤣🤣
 Loading… 1 thought on “Top 10 Teacher and Student Funny Jokes in Hindi” Kamal September 13, 2020 at 11:54 pm Very funny 😅😅😅
 Comment
-Save my name, email, and website in this browser for the next time I comment.
-Notify me of follow-up comments by email.
-Notify me of new posts by email.
-Δ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 ```
 

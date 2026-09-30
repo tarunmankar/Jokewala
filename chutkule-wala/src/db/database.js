@@ -2,7 +2,8 @@ import * as SQLite from 'expo-sqlite';
 import jokesData from '../../assets/jokes.json';
 import categoriesData from '../../assets/categories.json';
 
-let db;
+let db = null;
+let initPromise = null;
 
 const categoryMetaMap = {};
 categoriesData.forEach((c) => {
@@ -13,76 +14,127 @@ export const getCategoryMeta = (catId) =>
   categoryMetaMap[catId] || { id: catId, name: catId, emoji: '😄' };
 
 export async function initDB() {
-  if (!db) {
-    db = await SQLite.openDatabaseAsync('jokewala.db');
-  }
+  if (db) return db;
+  if (initPromise) return initPromise;
 
-  await db.execAsync(`
-    CREATE TABLE IF NOT EXISTS jokes (
-      id TEXT PRIMARY KEY NOT NULL,
-      text TEXT NOT NULL,
-      category TEXT NOT NULL,
-      subcategory TEXT,
-      tags TEXT,
-      is_favorite INTEGER DEFAULT 0,
-      created_at INTEGER DEFAULT (strftime('%s', 'now'))
-    );
-  `);
+  initPromise = (async () => {
+    try {
+      const database = await SQLite.openDatabaseAsync('jokewala_v2.db');
 
-  // Ensure 'tags' column exists if upgraded
-  try {
-    await db.execAsync(`ALTER TABLE jokes ADD COLUMN tags TEXT;`);
-  } catch (e) {
-    // Column already exists
-  }
+      await database.execAsync(`
+        CREATE TABLE IF NOT EXISTS jokes (
+          id TEXT PRIMARY KEY NOT NULL,
+          text TEXT NOT NULL,
+          category TEXT NOT NULL,
+          subcategory TEXT,
+          tags TEXT,
+          is_favorite INTEGER DEFAULT 0,
+          created_at INTEGER DEFAULT (strftime('%s', 'now'))
+        );
+      `);
 
-  // Pehli baar ya dataset update par naye jokes insert karega (favorites intact rahenge)
-  await db.withTransactionAsync(async () => {
-    for (const j of jokesData) {
-      const jokeText = j.text || j.joke || j.content;
-      if (!jokeText) continue;
-      const jokeId = String(j.id);
-      const cat = j.category || 'General';
-      const subcat = j.subcategory || '';
-      const tagsStr = Array.isArray(j.tags) ? j.tags.join(' ') : (j.tags || '');
+      // Check existing jokes count
+      const countResult = await database.getFirstAsync('SELECT count(*) as count FROM jokes');
+      const currentCount = countResult ? countResult.count : 0;
 
-      await db.runAsync(
-        `INSERT OR REPLACE INTO jokes (id, text, category, subcategory, tags, is_favorite) VALUES (?, ?, ?, ?, ?, COALESCE((SELECT is_favorite FROM jokes WHERE id = ?), 0))`,
-        [jokeId, jokeText, cat, subcat, tagsStr, jokeId]
-      );
+      // Sync jokes if count differs
+      if (currentCount !== jokesData.length) {
+        // Clean up any obsolete jokes
+        try {
+          const validIds = new Set(jokesData.map((j) => String(j.id)));
+          const existing = await database.getAllAsync('SELECT id FROM jokes');
+          const obsolete = existing.filter((r) => !validIds.has(r.id)).map((r) => r.id);
+          for (const oldId of obsolete) {
+            await database.runAsync('DELETE FROM jokes WHERE id = ?', [oldId]);
+          }
+        } catch (cleanErr) {
+          console.warn('DB cleanup warning:', cleanErr);
+        }
+
+        // Insert or update jokes in a safe transaction
+        await database.withTransactionAsync(async () => {
+          for (const j of jokesData) {
+            const jokeText = j.text || j.joke || j.content;
+            if (!jokeText) continue;
+            const jokeId = String(j.id);
+            const cat = j.category || 'General';
+            const subcat = j.subcategory || '';
+            const tagsStr = Array.isArray(j.tags) ? j.tags.join(' ') : (j.tags || '');
+
+            await database.runAsync(
+              `INSERT OR REPLACE INTO jokes (id, text, category, subcategory, tags, is_favorite) VALUES (?, ?, ?, ?, ?, COALESCE((SELECT is_favorite FROM jokes WHERE id = ?), 0))`,
+              [jokeId, jokeText, cat, subcat, tagsStr, jokeId]
+            );
+          }
+        });
+
+        // Try migrating favorites from old database if any
+        try {
+          const oldDb = await SQLite.openDatabaseAsync('jokewala.db');
+          const oldFavs = await oldDb.getAllAsync('SELECT id FROM jokes WHERE is_favorite = 1');
+          if (oldFavs && oldFavs.length > 0) {
+            for (const f of oldFavs) {
+              await database.runAsync('UPDATE jokes SET is_favorite = 1 WHERE id = ?', [f.id]);
+            }
+          }
+        } catch (migErr) {
+          // No old database to migrate from
+        }
+      }
+
+      db = database;
+      return db;
+    } catch (err) {
+      console.error('initDB error:', err);
+      initPromise = null;
+      throw err;
     }
-  });
+  })();
 
-  return db;
+  return initPromise;
 }
 
 export const getAllJokes = async () => {
-  if (!db) await initDB();
-  return db.getAllAsync('SELECT * FROM jokes ORDER BY id ASC');
+  const database = await initDB();
+  return database.getAllAsync('SELECT * FROM jokes ORDER BY id ASC');
 };
 
 export const getByCategory = async (category) => {
-  if (!db) await initDB();
-  return db.getAllAsync(
+  const database = await initDB();
+  return database.getAllAsync(
     'SELECT * FROM jokes WHERE category = ? ORDER BY id ASC',
     [category]
   );
 };
 
 export const getFavorites = async () => {
-  if (!db) await initDB();
-  return db.getAllAsync(
+  const database = await initDB();
+  return database.getAllAsync(
     'SELECT * FROM jokes WHERE is_favorite = 1 ORDER BY id DESC'
   );
 };
 
 export const searchJokes = async (query) => {
-  if (!db) await initDB();
+  const database = await initDB();
   const trimmed = query.trim();
   if (!trimmed) return [];
 
-  // Stop words strip karein taaki "pati patni jokes" ya "naughty chutkule" accurately match ho sake
-  const stopWords = new Set(['joke', 'jokes', 'chutkule', 'chutkula', 'ke', 'ka', 'ki', 'ko', 'me', 'mein', 'in', 'hindi', 'hinglish']);
+  // Stop words strip karein
+  const stopWords = new Set([
+    'joke',
+    'jokes',
+    'chutkule',
+    'chutkula',
+    'ke',
+    'ka',
+    'ki',
+    'ko',
+    'me',
+    'mein',
+    'in',
+    'hindi',
+    'hinglish',
+  ]);
   const words = trimmed
     .toLowerCase()
     .split(/\s+/)
@@ -90,7 +142,6 @@ export const searchJokes = async (query) => {
 
   const searchTerms = words.length > 0 ? words : [trimmed.toLowerCase()];
 
-  // Har keyword text, category, subcategory ya tags me match hoga
   const conditions = searchTerms.map(
     () => `(text LIKE ? OR category LIKE ? OR subcategory LIKE ? OR tags LIKE ?)`
   );
@@ -102,32 +153,26 @@ export const searchJokes = async (query) => {
     params.push(p, p, p, p);
   });
 
-  return db.getAllAsync(
+  return database.getAllAsync(
     `SELECT * FROM jokes WHERE ${whereClause} ORDER BY id ASC`,
     params
   );
 };
 
 export const toggleFavorite = async (id, isFav) => {
-  if (!db) await initDB();
-  return db.runAsync(
+  const database = await initDB();
+  return database.runAsync(
     'UPDATE jokes SET is_favorite = ? WHERE id = ?',
     [isFav ? 1 : 0, String(id)]
   );
 };
 
 export const getCategories = async () => {
-  if (!db) await initDB();
-  const rows = await db.getAllAsync(
-    'SELECT DISTINCT category FROM jokes ORDER BY category ASC'
-  );
-  return rows
-    .map((r) => r.category)
-    .filter(Boolean)
-    .map((catId) => getCategoryMeta(catId));
+  // Instantly return the pre-configured categories array with rich emojis
+  return categoriesData;
 };
 
 export const getRandomJoke = async () => {
-  if (!db) await initDB();
-  return db.getFirstAsync('SELECT * FROM jokes ORDER BY RANDOM() LIMIT 1');
+  const database = await initDB();
+  return database.getFirstAsync('SELECT * FROM jokes ORDER BY RANDOM() LIMIT 1');
 };

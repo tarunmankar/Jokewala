@@ -2,7 +2,7 @@
 
 > **Category ID**: `doctor-patient`  
 > **Description**: Clinic visits, bizarre symptoms, medical advice, and hilarious prescriptions.  
-> **Total Jokes**: 71  
+> **Total Jokes**: 67  
 
 ---
 
@@ -397,23 +397,9 @@ Doctor (mareez se) – agar tum meri dava se theek ho gaye toh mujhe kya inam do
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-Mareez – “Doctor sahab, meri daayi tang mein bahot dard raheta hai…”😥
-```
-
-### Joke `HJ-000684`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
-
-```text
-Doctor – “yeh toh umr ka takaja hai…”🙂
-```
-
-### Joke `HJ-000685`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
-
-```text
-Mareez – “lekin meri baayi tang kee bhi toh umr utani hi hai 💁‍♂️
+Mareez: Doctor sahab, meri daayi taang mein bahut dard rehta hai... 😥
+Doctor: Yeh toh umr ka taqaza hai... 🙂
+Mareez: Lekin doctor sahab, meri baayi taang ki bhi toh umr utni hi hai, usme dard kyu nahi?! 😂😂😂
 ```
 
 ### Joke `HJ-000910`
@@ -477,8 +463,8 @@ Doctor-Patient Funny Jokes In Hindi 65 sal ke bujurg ne aspatal mein Doctor se k
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Whatsapp Jokes in Hindi Text 
- Doctor Mareez Funny Jokes In Hindi Doctor : tabiyat kaisi hai..? mareez : pahale se zyada kharab hai. Doctor : davaayi kha lee thi.? mareez khali nahi thi bhari hui thi.. Doctor : mera matalab hai davaayi le lee thi.? mareez : ji aap hi se toh lee thi. daktar : bevakoof !! davaayi pi lee thi.? mareez nahi ji, davaayi neeli thi.. Doctor : abe gadhe !! davaayi ko pi liya tha.? mareez nahi ji., peeliya toh mujhe tha. Doctor : ullu ke patte ! davaayi ko khol ke munh mein rakh liya tha.? mareez : nahi aap hi ne toh kaha tha ki phrij mein rakhana.. Doctor : abe kya mar khayega..? mareez nahi davaayi khaoonga. Doctor : nikal sale, tu pagal kar dega. mareez : jaa raha hoon, phir kab aaoon..? Doctor : marane ke bad.. mareez marane ke kitne din bad.? Doctor behosha. 😝😝😂😂🤣🤣🤣🤣
+Text
+Doctor Mareez Funny Jokes In Hindi Doctor : tabiyat kaisi hai..? mareez : pahale se zyada kharab hai. Doctor : davaayi kha lee thi.? mareez khali nahi thi bhari hui thi.. Doctor : mera matalab hai davaayi le lee thi.? mareez : ji aap hi se toh lee thi. daktar : bevakoof !! davaayi pi lee thi.? mareez nahi ji, davaayi neeli thi.. Doctor : abe gadhe !! davaayi ko pi liya tha.? mareez nahi ji., peeliya toh mujhe tha. Doctor : ullu ke patte ! davaayi ko khol ke munh mein rakh liya tha.? mareez : nahi aap hi ne toh kaha tha ki phrij mein rakhana.. Doctor : abe kya mar khayega..? mareez nahi davaayi khaoonga. Doctor : nikal sale, tu pagal kar dega. mareez : jaa raha hoon, phir kab aaoon..? Doctor : marane ke bad.. mareez marane ke kitne din bad.? Doctor behosha. 😝😝😂😂🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-001174`
@@ -502,8 +488,8 @@ Mareez (Doctor se) – main roz 50 rupaye kee davaayi le raha hoon, par koi phay
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-lotapot majedar chutakule 
- Doctor Mareez ke peechhe bhag raha tha. …. logon ne pucha – kya huaa? …. Doctor bola – ‘Chaar baar aisa ho chuka hai. yeh dimag ka opareshan karavane aata hai aur har baar bal katava ke bhag jaata hai. 😂😂😂😂😂😂
+lotapot majedar chutakule
+Doctor Mareez ke peechhe bhag raha tha. …. logon ne pucha – kya huaa? …. Doctor bola – ‘Chaar baar aisa ho chuka hai. yeh dimag ka opareshan karavane aata hai aur har baar bal katava ke bhag jaata hai. 😂😂😂😂😂😂
 ```
 
 ### Joke `HJ-001177`
@@ -543,8 +529,8 @@ Doctor ne Mareez ka chekaap kiya aur bola – ab main tumhe kal dekhoonga. Maree
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-WhatsApp Chutkule in Hindi 
- Doctor: tabiyat kaisi hai? mareez: pahale se zyada kharab hai… Doctor: davaayi kha lee thi? mareez: khali nahi thi bhari hui thi… Doctor: mera matalab hai davaayi le lee thi ? mareez: ji aap hi se toh lee thi… daktar: bevaqoof !! davaayi pi lee thi? mareez: nahi ji davaayi neeli thi… Doctor: abe gadhe !! davaayi ko pi liya tha? mareez: nahi ji peeliya toh mujhe tha… Doctor: ullu ke patthe !! davaayi ko khol ke munh mein rakh liya tha? mareez: nahi aap hi ne toh kaha tha ki phrij mein rakhana….. Doctor: abe kya mar khayega? mareez: nahi davaayi khaoonga… Doctor: nikal sale, tu pagal kar dega… mareez: jaa raha hoon, phir kab aaoon? Doctor: qayamat ke bad… mareez: qayamat ke kitne din bad? Doctor behosh….. 😝😂😂😂😂😜😜😜😜
+WhatsApp Chutkule in Hindi
+Doctor: tabiyat kaisi hai? mareez: pahale se zyada kharab hai… Doctor: davaayi kha lee thi? mareez: khali nahi thi bhari hui thi… Doctor: mera matalab hai davaayi le lee thi ? mareez: ji aap hi se toh lee thi… daktar: bevaqoof !! davaayi pi lee thi? mareez: nahi ji davaayi neeli thi… Doctor: abe gadhe !! davaayi ko pi liya tha? mareez: nahi ji peeliya toh mujhe tha… Doctor: ullu ke patthe !! davaayi ko khol ke munh mein rakh liya tha? mareez: nahi aap hi ne toh kaha tha ki phrij mein rakhana….. Doctor: abe kya mar khayega? mareez: nahi davaayi khaoonga… Doctor: nikal sale, tu pagal kar dega… mareez: jaa raha hoon, phir kab aaoon? Doctor: qayamat ke bad… mareez: qayamat ke kitne din bad? Doctor behosh….. 😝😂😂😂😂😜😜😜😜
 ```
 
 ### Joke `HJ-001182`
@@ -581,32 +567,15 @@ Ek aadmi ko sardi jukam ne buri tarah jakad liya. uske Doctor ne use kuchh goliy
 
 ## Subcategory: `Zeetalwara Curated`
 
-### Joke `HJ-001280`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Doctor ne aurat ke muhan mein
-tharmameetar rakha, aur kuchh der
-muhan band rakhane ko kaha…
-```
-
 ### Joke `HJ-001334`
 - **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Doctor ne dekha aur kaha Ek lambi sans leejiye.
-tauji ne Ek lambi aur gahari sans lee.
-```
-
-### Joke `HJ-001335`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Doctor: kaisa lag raha hain?
-tauji: vah Doctor! aaj kaunasa paraphyoom laga kar aayi ho.
+Doctor ne checkup kiya aur kaha: Tau ji, ek lambi saans leejiye.
+Tau ji ne ek lambi aur gehri saans li.
+Doctor: Kaisa lag raha hai?
+Tau ji: Wah doctor sahiba! Aaj kaunsa perfume laga kar aayi ho?! 😂😂😂
 ```
 
 ### Joke `HJ-001336`

@@ -2,7 +2,7 @@
 
 > **Category ID**: `friends`  
 > **Description**: Dosti, roasting buddies, and hilarious friend group moments.  
-> **Total Jokes**: 64  
+> **Total Jokes**: 62  
 
 ---
 
@@ -293,8 +293,8 @@ Ladka apani garlaphrend se.. “mere paas mere Dost jaisi car nahi par tumhe pal
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-Very Funny Jokes in Hindi 2024 
- mama:– tujhe itani mar kyu padi ? bhanja:– barat mein galat bol gaya. mama:– kya ? bhanja:– “vari varasi khatan gyasi , khatake le aanda tar . bhaganda tabhi sajega, jab nache kudi ka Yaar…….! mama:– phir toh mar padani hi thi. bhanja:– mujhe toh sirph mar hi padi, jo banda nacha uski toh parso terahaveen hai. 😂😂😂😂😂
+Very Funny Jokes in Hindi 2024
+mama:– tujhe itani mar kyu padi ? bhanja:– barat mein galat bol gaya. mama:– kya ? bhanja:– “vari varasi khatan gyasi , khatake le aanda tar . bhaganda tabhi sajega, jab nache kudi ka Yaar…….! mama:– phir toh mar padani hi thi. bhanja:– mujhe toh sirph mar hi padi, jo banda nacha uski toh parso terahaveen hai. 😂😂😂😂😂
 ```
 
 ### Joke `HJ-000676`
@@ -302,8 +302,8 @@ Very Funny Jokes in Hindi 2024
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-Best Hindi Jokes 2024 
- teetu ka sir phat gaya mitt: Yaar, yeh kaise ho gaya teetu: ab kya bataoon Yaar, main pahale joote se eent phod raha tha tabhi loolu Sharabi ne kaha kabhi apani khopadi bhi kam mein le liya karo, phir kya khopadi hi phoot gayi 🤕🤕😛😝😝🤣😝
+Best Hindi Jokes 2024
+teetu ka sir phat gaya mitt: Yaar, yeh kaise ho gaya teetu: ab kya bataoon Yaar, main pahale joote se eent phod raha tha tabhi loolu Sharabi ne kaha kabhi apani khopadi bhi kam mein le liya karo, phir kya khopadi hi phoot gayi 🤕🤕😛😝😝🤣😝
 ```
 
 ### Joke `HJ-000959`
@@ -508,24 +508,6 @@ Do purane Dost bade lanbe arase ke bad mile. Ek doosare ka halachal poochhane pa
 
 ## Subcategory: `Zeetalwara Curated`
 
-### Joke `HJ-001306`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/funny-dosti-jokes-in-hindi/)
-
-```text
-Ladka college pahunchate hi khushi ke mare uchhalane laga
-Dost: kya huaa itana khush kyu ho ?
-```
-
-### Joke `HJ-001307`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/funny-dosti-jokes-in-hindi/)
-
-```text
-Ladka: aaj pahali baar mujhse kisi Ladki ne metro mein baat ki.
-Dost: vah! Bhai kya baat huyi?
-```
-
 ### Joke `HJ-001308`
 - **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/funny-dosti-jokes-in-hindi/)
@@ -551,14 +533,10 @@ Mother – My son is one in a million.
 Father: Whose son is this?
 Friend: Except for nothing,
 When will the party.
-Loading… 3 thoughts on “New 12 Funny “Dosti Jokes” in hindi” student May 31, 2021 at 9:04 pm bahut ache jokes the aage aur laana
+Loading… 3 thoughts on “
 bahut hi badhiya hai
 Thanks
 Comment
-Save my name, email, and website in this browser for the next time I comment.
-Notify me of follow-up comments by email.
-Notify me of new posts by email.
-Δ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
 ```
 
 ### Joke `HJ-001315`

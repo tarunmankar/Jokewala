@@ -66,7 +66,7 @@ Ek baar injeeniyaring ke sabhi prophesar ko Ek plen mein baithaya gaya. phir ana
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/teacher-student-jokes-hindi/)
 
 ```text
-skoolon mein bole jane vale chutakule 
- deevar ke aar-par dekhane vali cheej – majedar injeeniyaring stoodent chutkula injeeniyaring ke stoodent – Sir, humne college mein Ek aisi cheej banaayi hai…jisaki sahayata se aap deevar ke aar-par dekh sakte hain… Sir (khush hote hue) – vah ! kya baat hai…kya cheej hai woh 😊😊? student – chhed…😂😂😂 Sir – de thappad… de thappad… 🤣🤣🤣🤣🤣🤣🤣🤣
+skoolon mein bole jane vale chutakule
+deevar ke aar-par dekhane vali cheej – majedar injeeniyaring stoodent chutkula injeeniyaring ke stoodent – Sir, humne college mein Ek aisi cheej banaayi hai…jisaki sahayata se aap deevar ke aar-par dekh sakte hain… Sir (khush hote hue) – vah ! kya baat hai…kya cheej hai woh 😊😊? student – chhed…😂😂😂 Sir – de thappad… de thappad… 🤣🤣🤣🤣🤣🤣🤣🤣
 ```
 

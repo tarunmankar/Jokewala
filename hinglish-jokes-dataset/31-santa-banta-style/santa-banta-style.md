@@ -668,8 +668,8 @@ Santa ka Beta panv phailakar so raha tha.🛌🛌 Santa – uth be.. Beta – ky
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/santa-banta-jokes-hindi/)
 
 ```text
-Santa Banta ke Chutkule 
- Santa ke hath pair pe patti bandhi hui thi.🤕🤕 Banta – kya huaa Bhai? Santa – maine badamashi ka kam shuru kar diya tha. Banta – toh? Santa – maine Ek aadmi se kaha jo kuchh bhi hai bahar nikal de. usne desi 🔫katta nikal kar meri kanapatti pe rakh diya. 🤣🤣🤣🤣
+Santa Banta ke Chutkule
+Santa ke hath pair pe patti bandhi hui thi.🤕🤕 Banta – kya huaa Bhai? Santa – maine badamashi ka kam shuru kar diya tha. Banta – toh? Santa – maine Ek aadmi se kaha jo kuchh bhi hai bahar nikal de. usne desi 🔫katta nikal kar meri kanapatti pe rakh diya. 🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000709`
@@ -733,8 +733,8 @@ Santa bajar jaa raha tha, use achanak zor se susu lagi.😅 Ek deevar pe likha t
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/santa-banta-jokes-hindi/)
 
 ```text
-Santa Banta Jokes for WhatsApp 
- Santa Ek Microsoft kanpani mein intaravyu dene gaya, intaravyookarta – java ke Chaar varjan bataie. Santa – mar java, mit java, lut java, aur sadake java. intaravyookarta- shabash, ab 🏠ghar java. 😂😂😂😂
+Santa Banta Jokes for WhatsApp
+Santa Ek Microsoft kanpani mein intaravyu dene gaya, intaravyookarta – java ke Chaar varjan bataie. Santa – mar java, mit java, lut java, aur sadake java. intaravyookarta- shabash, ab 🏠ghar java. 😂😂😂😂
 ```
 
 ### Joke `HJ-000717`
@@ -798,8 +798,8 @@ Santa bus mein khada tha.. 🚌🚌 brek lagi toh Ek Ladki pe jaa gira. Ladki �
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/santa-banta-jokes-hindi/)
 
 ```text
-Santa Banta Funny Jokes 
- Santa ko buri tarah dast ho gaya. Doctor – neenbu ka istemal karo. Santa – theek hai. 2 din bad Doctor – ab dast kaisa hai. Santa ka khataranak jawab, bola – neenbu hatate hi shuru ho jaata hai. 😂😂😂😂😂
+Santa Banta Funny Jokes
+Santa ko buri tarah dast ho gaya. Doctor – neenbu ka istemal karo. Santa – theek hai. 2 din bad Doctor – ab dast kaisa hai. Santa ka khataranak jawab, bola – neenbu hatate hi shuru ho jaata hai. 😂😂😂😂😂
 ```
 
 ### Joke `HJ-000725`

@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from 'react';
+import React, { useEffect, useState, useCallback, useMemo } from 'react';
 import {
   FlatList,
   View,
@@ -7,6 +7,7 @@ import {
   StyleSheet,
   ActivityIndicator,
   RefreshControl,
+  ScrollView,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import JokeCard from '../components/JokeCard';
@@ -19,13 +20,14 @@ import {
 } from '../db/database';
 import { typography } from '../theme';
 
-export default function HomeScreen({ colors }) {
+export default function HomeScreen({ colors, navigation }) {
   const [jokes, setJokes] = useState([]);
   const [categories, setCategories] = useState([]);
   const [activeCategory, setActiveCategory] = useState('Sab');
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
-  const [randomJokeModal, setRandomJokeModal] = useState(null);
+  const [jokeOfTheDay, setJokeOfTheDay] = useState(null);
+  const [randomJoke, setRandomJoke] = useState(null);
 
   const loadCategories = async () => {
     try {
@@ -43,12 +45,19 @@ export default function HomeScreen({ colors }) {
           ? await getAllJokes()
           : await getByCategory(activeCategory);
       setJokes(list);
+
+      // Pick a featured Joke of the Day on first load
+      if (!jokeOfTheDay && list.length > 0) {
+        // Pick an entertaining one with good length
+        const candidate = list.find((j) => j.text.length > 80 && j.text.length < 250) || list[0];
+        setJokeOfTheDay(candidate);
+      }
     } catch (err) {
       console.log('Error fetching jokes:', err);
     } finally {
       setLoading(false);
     }
-  }, [activeCategory]);
+  }, [activeCategory, jokeOfTheDay]);
 
   useEffect(() => {
     loadCategories();
@@ -74,101 +83,145 @@ export default function HomeScreen({ colors }) {
         item.id === joke.id ? { ...item, is_favorite: newFav ? 1 : 0 } : item
       )
     );
-  };
-
-  const handleRandomJoke = async () => {
-    const joke = await getRandomJoke();
-    if (joke) {
-      setRandomJokeModal(joke);
+    if (jokeOfTheDay && jokeOfTheDay.id === joke.id) {
+      setJokeOfTheDay((prev) => ({ ...prev, is_favorite: newFav ? 1 : 0 }));
+    }
+    if (randomJoke && randomJoke.id === joke.id) {
+      setRandomJoke((prev) => ({ ...prev, is_favorite: newFav ? 1 : 0 }));
     }
   };
 
-  return (
-    <View style={[styles.container, { backgroundColor: colors.bg }]}>
-      {/* Category Chips Bar */}
-      <View style={{ backgroundColor: colors.card, borderBottomWidth: 1, borderBottomColor: colors.border }}>
-        <FlatList
+  const handleRandomJoke = async () => {
+    const rJoke = await getRandomJoke();
+    if (rJoke) {
+      setRandomJoke(rJoke);
+    }
+  };
+
+  // List Header with Joke of the Day & Category Chips
+  const renderHeader = () => (
+    <View style={styles.headerContainer}>
+      {/* Category Pills Bar */}
+      <View style={[styles.categoriesWrapper, { backgroundColor: colors.card, borderBottomColor: colors.border }]}>
+        <ScrollView
           horizontal
-          data={[{ id: 'Sab', name: 'Sab', emoji: '✨' }, ...categories]}
-          keyExtractor={(item) => item.id}
           showsHorizontalScrollIndicator={false}
-          contentContainerStyle={styles.chipList}
-          renderItem={({ item }) => {
+          contentContainerStyle={styles.chipScroll}
+        >
+          {[{ id: 'Sab', name: 'Sab', emoji: '✨' }, ...categories].map((item) => {
             const isActive = activeCategory === item.id;
             return (
               <TouchableOpacity
+                key={item.id}
                 onPress={() => setActiveCategory(item.id)}
-                activeOpacity={0.8}
+                activeOpacity={0.75}
                 style={[
                   styles.chip,
                   {
                     backgroundColor: isActive ? colors.chipActiveBg : colors.chipBg,
-                    borderColor: isActive ? colors.chipActiveBg : colors.border,
+                    borderColor: isActive ? colors.chipActiveBg : colors.chipBorder,
                   },
                 ]}
               >
+                <Text style={styles.chipEmoji}>{item.emoji}</Text>
                 <Text
                   style={[
                     styles.chipText,
-                    { color: isActive ? colors.chipActiveText : colors.chipText },
+                    {
+                      color: isActive ? colors.chipActiveText : colors.chipText,
+                      fontFamily: isActive ? typography.bold : typography.medium,
+                    },
                   ]}
                 >
-                  {item.emoji} {item.name}
+                  {item.name}
                 </Text>
               </TouchableOpacity>
             );
-          }}
-        />
+          })}
+        </ScrollView>
       </View>
 
-      {/* Floating / Top Surprise Me Bar */}
-      <View style={styles.topBar}>
-        <Text style={[styles.jokeCountText, { color: colors.textMuted }]}>
-          {jokes.length} Desi Jokes
-        </Text>
+      {/* Sub Header: Counter & Surprise Me Button */}
+      <View style={styles.statsBar}>
+        <View style={styles.statsLeft}>
+          <Text style={[styles.statsTitle, { color: colors.text }]}>
+            {activeCategory === 'Sab' ? 'Sabhi Desi Chutkule' : activeCategory}
+          </Text>
+          <Text style={[styles.statsSubtitle, { color: colors.textMuted }]}>
+            {jokes.length} मजेदार चुटकले
+          </Text>
+        </View>
+
         <TouchableOpacity
-          style={[styles.surpriseBtn, { backgroundColor: colors.primaryLight }]}
+          style={[styles.randomBtn, { backgroundColor: colors.primaryLight, borderColor: colors.primary }]}
           onPress={handleRandomJoke}
-          activeOpacity={0.8}
+          activeOpacity={0.7}
         >
           <Ionicons name="sparkles" size={15} color={colors.primary} />
-          <Text style={[styles.surpriseText, { color: colors.primary }]}>
+          <Text style={[styles.randomBtnText, { color: colors.primary }]}>
             Random Joke
           </Text>
         </TouchableOpacity>
       </View>
 
       {/* Random Joke Preview Card if triggered */}
-      {randomJokeModal && (
-        <View style={styles.randomBannerContainer}>
-          <View style={styles.randomHeader}>
-            <Text style={[styles.randomTitle, { color: colors.primary }]}>
-              🎲 Surprise Joke (Random)
-            </Text>
-            <TouchableOpacity onPress={() => setRandomJokeModal(null)}>
+      {randomJoke && (
+        <View style={[styles.randomCardWrapper, { backgroundColor: colors.heroBg, borderColor: colors.heroBorder }]}>
+          <View style={styles.randomCardHeader}>
+            <View style={styles.randomBadge}>
+              <Text style={{ fontSize: 13 }}>🎲</Text>
+              <Text style={[styles.randomBadgeText, { color: colors.heroText }]}>
+                Surprise Joke
+              </Text>
+            </View>
+            <TouchableOpacity
+              onPress={() => setRandomJoke(null)}
+              hitSlop={{ top: 10, bottom: 10, left: 10, right: 10 }}
+            >
               <Ionicons name="close-circle" size={22} color={colors.textMuted} />
             </TouchableOpacity>
           </View>
-          <JokeCard
-            joke={randomJokeModal}
-            onToggleFav={handleToggleFav}
-            colors={colors}
-          />
+          <JokeCard joke={randomJoke} onToggleFav={onToggleFav} colors={colors} />
         </View>
       )}
 
-      {/* Main Jokes Feed */}
+      {/* Joke of the Day Highlight Banner (only on 'Sab' tab and when no random card is showing) */}
+      {activeCategory === 'Sab' && jokeOfTheDay && !randomJoke && (
+        <View style={styles.heroSection}>
+          <View style={[styles.heroCard, { backgroundColor: colors.heroBg, borderColor: colors.heroBorder }]}>
+            <View style={styles.heroHeader}>
+              <View style={styles.heroBadge}>
+                <Ionicons name="star" size={13} color={colors.gold} />
+                <Text style={[styles.heroBadgeText, { color: colors.heroText }]}>
+                  JOKE OF THE DAY
+                </Text>
+              </View>
+              <TouchableOpacity onPress={handleRandomJoke} style={styles.shuffleHeroBtn}>
+                <Ionicons name="shuffle" size={15} color={colors.heroText} />
+                <Text style={[styles.shuffleHeroText, { color: colors.heroText }]}>बदलें</Text>
+              </TouchableOpacity>
+            </View>
+            <JokeCard joke={jokeOfTheDay} onToggleFav={onToggleFav} colors={colors} />
+          </View>
+        </View>
+      )}
+    </View>
+  );
+
+  return (
+    <View style={[styles.container, { backgroundColor: colors.bg }]}>
       {loading ? (
         <View style={styles.centerContainer}>
           <ActivityIndicator size="large" color={colors.primary} />
           <Text style={[styles.loadingText, { color: colors.textMuted }]}>
-            चुटकले लोड हो रहे हैं...
+            हंसी के चुटकले लोड हो रहे हैं...
           </Text>
         </View>
       ) : (
         <FlatList
           data={jokes}
           keyExtractor={(j) => String(j.id)}
+          ListHeaderComponent={renderHeader}
           renderItem={({ item }) => (
             <JokeCard joke={item} onToggleFav={onToggleFav} colors={colors} />
           )}
@@ -180,76 +233,145 @@ export default function HomeScreen({ colors }) {
               colors={[colors.primary]}
             />
           }
-          contentContainerStyle={{ paddingBottom: 24 }}
+          contentContainerStyle={{ paddingBottom: 80 }}
         />
       )}
+
+      {/* Floating Action Button for Next Random Joke */}
+      <TouchableOpacity
+        style={[styles.fab, { backgroundColor: colors.primary }]}
+        onPress={handleRandomJoke}
+        activeOpacity={0.85}
+      >
+        <Ionicons name="dice" size={22} color="#FFFFFF" />
+        <Text style={styles.fabText}>Agla Joke</Text>
+      </TouchableOpacity>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1 },
-  chipList: {
-    paddingHorizontal: 12,
+  container: {
+    flex: 1,
+  },
+  headerContainer: {
+    marginBottom: 6,
+  },
+  categoriesWrapper: {
     paddingVertical: 10,
+    borderBottomWidth: 1,
+  },
+  chipScroll: {
+    paddingHorizontal: 14,
     gap: 8,
   },
   chip: {
-    paddingHorizontal: 16,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 5,
+    paddingHorizontal: 14,
     paddingVertical: 7,
-    borderRadius: 20,
+    borderRadius: 22,
     borderWidth: 1,
   },
-  chipText: {
-    fontFamily: typography.medium,
+  chipEmoji: {
     fontSize: 13,
   },
-  topBar: {
+  chipText: {
+    fontSize: 12.5,
+  },
+  statsBar: {
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    paddingHorizontal: 16,
-    paddingVertical: 8,
+    paddingHorizontal: 18,
+    paddingTop: 14,
+    paddingBottom: 8,
   },
-  jokeCountText: {
+  statsLeft: {
+    flex: 1,
+  },
+  statsTitle: {
+    fontFamily: typography.bold,
+    fontSize: 16,
+  },
+  statsSubtitle: {
     fontFamily: typography.regular,
-    fontSize: 13,
+    fontSize: 12,
+    marginTop: 2,
   },
-  surpriseBtn: {
+  randomBtn: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 5,
     paddingHorizontal: 12,
-    paddingVertical: 5,
-    borderRadius: 14,
+    paddingVertical: 6,
+    borderRadius: 16,
+    borderWidth: 1,
   },
-  surpriseText: {
+  randomBtnText: {
     fontFamily: typography.bold,
     fontSize: 12,
   },
-  randomBannerContainer: {
-    paddingHorizontal: 16,
-    marginBottom: 6,
+  heroSection: {
+    paddingHorizontal: 14,
+    paddingVertical: 6,
   },
-  randomCard: {
-    borderWidth: 1.5,
-    borderRadius: 14,
-    padding: 14,
+  heroCard: {
+    borderRadius: 22,
+    borderWidth: 1,
+    overflow: 'hidden',
+    paddingTop: 10,
   },
-  randomHeader: {
+  heroHeader: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginBottom: 6,
+    paddingHorizontal: 16,
+    paddingBottom: 4,
   },
-  randomTitle: {
+  heroBadge: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 5,
+  },
+  heroBadgeText: {
     fontFamily: typography.bold,
-    fontSize: 13,
+    fontSize: 11,
+    letterSpacing: 0.8,
   },
-  randomText: {
-    fontFamily: typography.regular,
-    fontSize: 15,
-    lineHeight: 24,
+  shuffleHeroBtn: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 3,
+  },
+  shuffleHeroText: {
+    fontFamily: typography.bold,
+    fontSize: 11,
+  },
+  randomCardWrapper: {
+    marginHorizontal: 14,
+    marginVertical: 8,
+    borderRadius: 22,
+    borderWidth: 1,
+    paddingTop: 10,
+    overflow: 'hidden',
+  },
+  randomCardHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 16,
+    paddingBottom: 4,
+  },
+  randomBadge: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+  },
+  randomBadgeText: {
+    fontFamily: typography.bold,
+    fontSize: 12,
   },
   centerContainer: {
     flex: 1,
@@ -260,5 +382,26 @@ const styles = StyleSheet.create({
   loadingText: {
     fontFamily: typography.medium,
     fontSize: 14,
+  },
+  fab: {
+    position: 'absolute',
+    bottom: 20,
+    right: 18,
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 7,
+    paddingVertical: 12,
+    paddingHorizontal: 18,
+    borderRadius: 28,
+    elevation: 6,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.25,
+    shadowRadius: 8,
+  },
+  fabText: {
+    fontFamily: typography.bold,
+    color: '#FFFFFF',
+    fontSize: 13,
   },
 });

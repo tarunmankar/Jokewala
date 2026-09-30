@@ -37,7 +37,7 @@ export default function SearchScreen({ colors }) {
   useEffect(() => {
     const delayDebounceFn = setTimeout(() => {
       performSearch(query);
-    }, 250);
+    }, 200);
 
     return () => clearTimeout(delayDebounceFn);
   }, [query]);
@@ -54,14 +54,17 @@ export default function SearchScreen({ colors }) {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.bg }]}>
-      {/* Search Bar */}
+      {/* Search Bar Input Container */}
       <View
         style={[
           styles.searchBox,
-          { backgroundColor: colors.card, borderColor: colors.border },
+          {
+            backgroundColor: colors.card,
+            borderColor: colors.border,
+          },
         ]}
       >
-        <Ionicons name="search" size={20} color={colors.textMuted} style={styles.searchIcon} />
+        <Ionicons name="search" size={20} color={colors.primary} style={styles.searchIcon} />
         <TextInput
           placeholder="Joke, topic ya keyword search karein..."
           placeholderTextColor={colors.textMuted}
@@ -76,17 +79,20 @@ export default function SearchScreen({ colors }) {
             onPress={() => setQuery('')}
             hitSlop={{ top: 10, bottom: 10, left: 10, right: 10 }}
           >
-            <Ionicons name="close-circle" size={18} color={colors.textMuted} />
+            <Ionicons name="close-circle" size={19} color={colors.textMuted} />
           </TouchableOpacity>
         )}
       </View>
 
-      {/* Suggested Keywords / Categories */}
+      {/* Suggested Keywords / Trending Categories */}
       {query.length === 0 && (
         <View style={styles.suggestWrapper}>
-          <Text style={[styles.suggestLabel, { color: colors.textMuted }]}>
-            🔥 Trending Searches:
-          </Text>
+          <View style={styles.suggestHeader}>
+            <Ionicons name="flame" size={16} color={colors.primary} />
+            <Text style={[styles.suggestLabel, { color: colors.textSecondary }]}>
+              Trending Searches
+            </Text>
+          </View>
           <View style={styles.tagWrap}>
             {[
               { label: '📛 Name Jokes', q: 'names' },
@@ -96,7 +102,7 @@ export default function SearchScreen({ colors }) {
               { label: '😉 Naughty', q: 'naughty' },
               { label: '🎅 Santa Banta', q: 'santa banta' },
               { label: '👶 Pappu', q: 'pappu' },
-              { label: '💑 Couple / GF', q: 'boyfriend' },
+              { label: '💑 Boyfriend / GF', q: 'girlfriend' },
               { label: '🩺 Doctor', q: 'doctor' },
               { label: '💼 Office', q: 'office' },
               { label: '🎓 Masterji', q: 'teacher' },
@@ -105,8 +111,15 @@ export default function SearchScreen({ colors }) {
             ].map((item, idx) => (
               <TouchableOpacity
                 key={idx}
-                style={[styles.tag, { backgroundColor: colors.card, borderColor: colors.border }]}
+                style={[
+                  styles.tag,
+                  {
+                    backgroundColor: colors.card,
+                    borderColor: colors.border,
+                  },
+                ]}
                 onPress={() => setQuery(item.q)}
+                activeOpacity={0.7}
               >
                 <Text style={[styles.tagText, { color: colors.text }]}>
                   {item.label}
@@ -119,9 +132,11 @@ export default function SearchScreen({ colors }) {
 
       {/* Results Header */}
       {query.length > 0 && (
-        <Text style={[styles.resultCount, { color: colors.textMuted }]}>
-          {loading ? 'Dhoondh rahe hain...' : `${results.length} Jokes mile`}
-        </Text>
+        <View style={styles.resultHeader}>
+          <Text style={[styles.resultCount, { color: colors.textMuted }]}>
+            {loading ? 'खोज रहे हैं...' : `${results.length} चुटकले मिले`}
+          </Text>
+        </View>
       )}
 
       {loading && (
@@ -139,7 +154,7 @@ export default function SearchScreen({ colors }) {
         ListEmptyComponent={
           !loading && query.length > 0 ? (
             <View style={styles.emptyContainer}>
-              <Text style={{ fontSize: 44, marginBottom: 10 }}>🧐</Text>
+              <Text style={{ fontSize: 44, marginBottom: 12 }}>🧐</Text>
               <Text style={[styles.emptyTitle, { color: colors.text }]}>
                 Koi joke nahi mila
               </Text>
@@ -149,12 +164,12 @@ export default function SearchScreen({ colors }) {
             </View>
           ) : !loading && query.length === 0 ? (
             <View style={styles.emptyContainer}>
-              <Text style={{ fontSize: 44, marginBottom: 10 }}>🔍</Text>
+              <Text style={{ fontSize: 44, marginBottom: 12 }}>🔍</Text>
               <Text style={[styles.emptyTitle, { color: colors.text }]}>
                 Apne Manpasand Jokes Khojein
               </Text>
               <Text style={[styles.emptySubtitle, { color: colors.textMuted }]}>
-                Upar diye search bar me koi bhi shabda type karein ya kisi category par click karein.
+                Upar diye search bar me koi bhi shabda type karein ya kisi trending tag par tap karein.
               </Text>
             </View>
           ) : null
@@ -165,18 +180,28 @@ export default function SearchScreen({ colors }) {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, paddingTop: 6 },
+  container: {
+    flex: 1,
+    paddingTop: 6,
+  },
   searchBox: {
     flexDirection: 'row',
     alignItems: 'center',
     marginHorizontal: 16,
     marginVertical: 10,
-    paddingHorizontal: 14,
-    height: 50,
-    borderRadius: 25,
+    paddingHorizontal: 16,
+    height: 52,
+    borderRadius: 26,
     borderWidth: 1,
+    shadowColor: '#0F172A',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.05,
+    shadowRadius: 8,
+    elevation: 2,
   },
-  searchIcon: { marginRight: 8 },
+  searchIcon: {
+    marginRight: 10,
+  },
   input: {
     flex: 1,
     fontFamily: typography.regular,
@@ -185,13 +210,18 @@ const styles = StyleSheet.create({
   },
   suggestWrapper: {
     paddingHorizontal: 18,
-    marginVertical: 8,
+    marginVertical: 10,
+  },
+  suggestHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+    marginBottom: 10,
   },
   suggestLabel: {
     fontFamily: typography.bold,
-    fontSize: 12,
-    marginBottom: 8,
-    textTransform: 'uppercase',
+    fontSize: 13,
+    letterSpacing: 0.4,
   },
   tagWrap: {
     flexDirection: 'row',
@@ -199,31 +229,33 @@ const styles = StyleSheet.create({
     gap: 8,
   },
   tag: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 16,
+    paddingHorizontal: 13,
+    paddingVertical: 7,
+    borderRadius: 18,
     borderWidth: 1,
   },
   tagText: {
     fontFamily: typography.medium,
-    fontSize: 12,
+    fontSize: 12.5,
+  },
+  resultHeader: {
+    paddingHorizontal: 20,
+    paddingVertical: 6,
   },
   resultCount: {
     fontFamily: typography.medium,
-    marginHorizontal: 20,
-    marginVertical: 4,
     fontSize: 13,
   },
   emptyContainer: {
     alignItems: 'center',
     justifyContent: 'center',
     marginTop: 60,
-    paddingHorizontal: 30,
+    paddingHorizontal: 36,
   },
   emptyTitle: {
     fontFamily: typography.bold,
     fontSize: 18,
-    marginBottom: 6,
+    marginBottom: 8,
   },
   emptySubtitle: {
     fontFamily: typography.regular,

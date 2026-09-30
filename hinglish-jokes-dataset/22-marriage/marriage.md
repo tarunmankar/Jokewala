@@ -2,7 +2,7 @@
 
 > **Category ID**: `marriage`  
 > **Description**: Shaadi season, rishtedaars, matrimonial profiles, and wedding feasts.  
-> **Total Jokes**: 30  
+> **Total Jokes**: 29  
 
 ---
 
@@ -138,14 +138,6 @@ Ek aadmi medikal shop par zahar lene gaya. aadmi: Ek zahar kee botal dena Dukand
 
 ## Subcategory: `Funkylife Viral`
 
-### Joke `HJ-000686`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
-
-```text
-santa – na Beta, aur na beti, maine dusari shaadi kar lee hai .😜😂😂
-```
-
 ### Joke `HJ-000687`
 - **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
@@ -223,8 +215,8 @@ Ek ladake ko raat me barah bajeek Ladki ka phone aata hain !!. . Ladka:- Hello, 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-aaj ke majedar joks 
- sunil – batao anil, log akl se kam len toh kya hoga ? anil – toh unhe talak nahi dena padega. sunil – agar zyada buddhi se kam len toh ? anil – toh shaadi kee naubat hi kyu aaengi. 😂😂😂😂😂😂
+aaj ke majedar joks
+sunil – batao anil, log akl se kam len toh kya hoga ? anil – toh unhe talak nahi dena padega. sunil – agar zyada buddhi se kam len toh ? anil – toh shaadi kee naubat hi kyu aaengi. 😂😂😂😂😂😂
 ```
 
 ### Joke `HJ-001190`

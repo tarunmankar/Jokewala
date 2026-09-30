@@ -2,7 +2,7 @@
 
 > **Category ID**: `husband-wife`  
 > **Description**: Classic Pati-Patni household banter and comic situations.  
-> **Total Jokes**: 375  
+> **Total Jokes**: 320  
 
 ---
 
@@ -946,8 +946,8 @@ shishy – gurooji, aisi Patni ko kya kahate hain jo gori ho, lanbi ho, sundar h
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-Latest Jokes in Hindi 
- Patni Pati se: aji sunate ho, pados kee pinki ko maths mein 100 mein se 99 marks milen hain.. Pati: accha, toh 1 mark kahan gaya? Patni: apana Beta le ke aaya hai 😂😂😂😂😂
+Latest Jokes in Hindi
+Patni Pati se: aji sunate ho, pados kee pinki ko maths mein 100 mein se 99 marks milen hain.. Pati: accha, toh 1 mark kahan gaya? Patni: apana Beta le ke aaya hai 😂😂😂😂😂
 ```
 
 ### Joke `HJ-000650`
@@ -971,8 +971,8 @@ bahut purani baat hai …. Ek aadivasi apane parivar ke saath jangal mein hi rah
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-joks in hindi 
- Ek din bhagavan ne Ek aadmi kee memori dileet kar dee. phir usse pucha kya tumhe kuchh yad hai? aadmi ne apani Patni ka nam bata diya…. bhagavan hansakar bole – “poora sistam phormet kar diya par vayaras phir bhi rah gaya…. !” 😂😝🤣🤣😝😝
+joks in hindi
+Ek din bhagavan ne Ek aadmi kee memori dileet kar dee. phir usse pucha kya tumhe kuchh yad hai? aadmi ne apani Patni ka nam bata diya…. bhagavan hansakar bole – “poora sistam phormet kar diya par vayaras phir bhi rah gaya…. !” 😂😝🤣🤣😝😝
 ```
 
 ### Joke `HJ-000653`
@@ -988,8 +988,8 @@ Husband aadhi raat ko apani moti Biwi ko jaga kar bola.. ghut-ghut kar marana sa
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-hindi mein majedar chutakule 
- Sharabi:- agar mere hath mein sarakar hoti toh main desh kee takadeer badal deta. Sharabi kee Patni:- are, pahale apana pajama toh badal le karam jale .., subah se meri salavar pahan kar ghoom raha he… 😂😂🤣🤣🤣🤣🤣🤣
+hindi mein majedar chutakule
+Sharabi:- agar mere hath mein sarakar hoti toh main desh kee takadeer badal deta. Sharabi kee Patni:- are, pahale apana pajama toh badal le karam jale .., subah se meri salavar pahan kar ghoom raha he… 😂😂🤣🤣🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000655`
@@ -1005,8 +1005,8 @@ hindi mein majedar chutakule
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-Hindi Jokes Story 
- Pati – mere seene mein bahut dard ho raha hai jaldi se embulens ke liye phone lagao Patni – han lagati hoon jaldi apane mobaeel ka pasavard batao Pati – rahane Do ab thoda theek lag raha hai. 😝😂😂🤣🤣🤣🤣
+Hindi Jokes Story
+Pati – mere seene mein bahut dard ho raha hai jaldi se embulens ke liye phone lagao Patni – han lagati hoon jaldi apane mobaeel ka pasavard batao Pati – rahane Do ab thoda theek lag raha hai. 😝😂😂🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000657`
@@ -1054,8 +1054,8 @@ pathan kee Biwi draivar ke saath bhag gayi sindhi – ab kya karoge? pathan – 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/hindi-jokes/)
 
 ```text
-Funny Chutkule in Hindi 
- Patni ne Pati ko phone kiya. Pati: jaldi bolo, main bahut biji hoon. Patni: Ek acchi aur Ek buri khabar hai. Pati: sirph acchi khabar suna Do… buri khabar sunane ka time nahi hai. Patni: theek hai. acchi khabar yeh hai ki hamari nayi gaadi ke eyarabaig bilkul sahi se kam karte hain. 😄😂😄😂😄😂
+Funny Chutkule in Hindi
+Patni ne Pati ko phone kiya. Pati: jaldi bolo, main bahut biji hoon. Patni: Ek acchi aur Ek buri khabar hai. Pati: sirph acchi khabar suna Do… buri khabar sunane ka time nahi hai. Patni: theek hai. acchi khabar yeh hai ki hamari nayi gaadi ke eyarabaig bilkul sahi se kam karte hain. 😄😂😄😂😄😂
 ```
 
 ### Joke `HJ-000663`
@@ -1111,8 +1111,8 @@ sanjana teesari baar draiving laisens ka intaravyu dene pahunchi officer – aga
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/santa-banta-jokes-hindi/)
 
 ```text
-Latest Satna Banta Jokes 
- Santa – parso meri Biwi kuen mein gir gayi thi, bahut chot lagi, bahut chilla rahi thi. Banta – ab kaisi hai? Santa – ab theek hai, kal se kuen se aavaj ni aaayi. 🤭🤭🤭
+Latest Satna Banta Jokes
+Santa – parso meri Biwi kuen mein gir gayi thi, bahut chot lagi, bahut chilla rahi thi. Banta – ab kaisi hai? Santa – ab theek hai, kal se kuen se aavaj ni aaayi. 🤭🤭🤭
 ```
 
 ### Joke `HJ-000747`
@@ -1216,8 +1216,7 @@ lanbi lanbi chhodanevala Pati – Jokes Pati – “tum bahut haseen ho … “P
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-Funny Hindi Jokes 
- shak kee intaha toh dekho Patni : tumhari shart mein toh Ek bhi bal nahi milata hai. Pati : han toh kya huaa main poochhati hoon kaun hai woh takali? 😝😝😝😂😂😂😂
+shak kee intaha toh dekho Patni : tumhari shart mein toh Ek bhi bal nahi milata hai. Pati : han toh kya huaa main poochhati hoon kaun hai woh takali? 😝😝😝😂😂😂😂
 ```
 
 ### Joke `HJ-000760`
@@ -1257,8 +1256,8 @@ shaadi kee 10veen sahagirah – Husband Wife Jokes In Hindi shaadi kee 10veen sa
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-Pati Patni joks in hindi phor vhatsaepp 
- Ek aadmi apani Biwi ko daphana ke ghar jaa raha tha ki achanak bijali chamaki badal garaje zor kee toophani barish shuru hui ! mahaul apharataphari vala ho gaya… dukhi aadmi aasaman kee taraph dekhate hue bola lagata hain pahunch gayi 😂😂😂🤣🤣🤣🤣
+Pati Patni joks in hindi phor vhatsaepp
+Ek aadmi apani Biwi ko daphana ke ghar jaa raha tha ki achanak bijali chamaki badal garaje zor kee toophani barish shuru hui ! mahaul apharataphari vala ho gaya… dukhi aadmi aasaman kee taraph dekhate hue bola lagata hain pahunch gayi 😂😂😂🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000765`
@@ -1298,8 +1297,8 @@ hoshiyar Patni – Hindi Jokes Pati baik lekar ghar se nikal raha tha… patni: 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-Hindi Jokes 
- pooja ke samay Patni ne Pati se pucha : suno ji aapko aarati yad hai na Pati : han.. woh patali si kali okhon vali sundar si vahi na ? phir pahale Pati kee pooja hui satyanarayanan bhagavan bad mein pooje gaye 😝😝😝🤣🤣🤣🤣
+Hindi Jokes
+pooja ke samay Patni ne Pati se pucha : suno ji aapko aarati yad hai na Pati : han.. woh patali si kali okhon vali sundar si vahi na ? phir pahale Pati kee pooja hui satyanarayanan bhagavan bad mein pooje gaye 😝😝😝🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000770`
@@ -1347,8 +1346,8 @@ sat phere lete vaqt vachan – Jokes Pati – shaadi ke samay sat phere lete vak
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-Pati Patni ke khataranak chutakule 
- Patni : aay lav yu, tumhare pyar mein mar jaoongi, mit jaoongi zahar pi loogi, phana ho jaoongi.. Pati : dekh lo jaisa tumako theek lage…! 😝😝😝🤣🤣🤣🤣
+Pati Patni ke khataranak chutakule
+Patni : aay lav yu, tumhare pyar mein mar jaoongi, mit jaoongi zahar pi loogi, phana ho jaoongi.. Pati : dekh lo jaisa tumako theek lage…! 😝😝😝🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000776`
@@ -1396,8 +1395,8 @@ kam ka Sharabi Pati – Pati Patni Jokes Patni- jab tum sharab peekar aate ho to
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-majedar chutakule Pati Patni ke 
- Pati – din bhar soti rahati ho. Patni – toh kya aaram bhi na karoon. Pati – chai bana Do jaldi se. Patni – khud bana lo na! Pati – mere Sir mein tej dard hai. Patni – han toh mere bhi gale mein dard hai. Pati – theek hai idhar aao, tum mera Sir daba Do, aur main tumhara gala daba deta hoon. 😝😝😂😂😂🤣🤣🤣
+majedar chutakule Pati Patni ke
+Pati – din bhar soti rahati ho. Patni – toh kya aaram bhi na karoon. Pati – chai bana Do jaldi se. Patni – khud bana lo na! Pati – mere Sir mein tej dard hai. Patni – han toh mere bhi gale mein dard hai. Pati – theek hai idhar aao, tum mera Sir daba Do, aur main tumhara gala daba deta hoon. 😝😝😂😂😂🤣🤣🤣
 ```
 
 ### Joke `HJ-000782`
@@ -1445,8 +1444,8 @@ nark jaa raha – Pati Patni Jokes Pati :’ dubaayi jaa raha hoon. Patni :’ m
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-Husband Wife Jokes in Hindi 
- Pati kee kabr par Patni rote hue boli : Beta “lepatop” mang raha hai main kya karoon ?? beti “mobile” kee pharamaish kar rahi hai kahan se laoon ?? khud mere paas kapade nahi hai. kya karoon ?? kabr se ghuti ghuti si aavaz aayi : mar gaya hoon “dubaayi” nahi gaya hoon... 😝😝😝😂😂😂😂
+Husband Wife Jokes in Hindi
+Pati kee kabr par Patni rote hue boli : Beta “lepatop” mang raha hai main kya karoon ?? beti “mobile” kee pharamaish kar rahi hai kahan se laoon ?? khud mere paas kapade nahi hai. kya karoon ?? kabr se ghuti ghuti si aavaz aayi : mar gaya hoon “dubaayi” nahi gaya hoon... 😝😝😝😂😂😂😂
 ```
 
 ### Joke `HJ-000788`
@@ -1486,8 +1485,8 @@ chudail Patni – Hindi Jokes Biwi ne nayi sim khareedi aur socha ki Pati ko sar
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-Husband Wife Jokes in Hindi for WhatsApp 
- Pati bal katavakar ghar lauta toh Patni se bola dekho main tumse das sal chhota lagata hoon ya nahi hajir javabi Patni boli: mudan karava lete aisa lagata abhi abhi paida hue ho 😝😝😝😂😂😂
+Husband Wife Jokes in Hindi for WhatsApp
+Pati bal katavakar ghar lauta toh Patni se bola dekho main tumse das sal chhota lagata hoon ya nahi hajir javabi Patni boli: mudan karava lete aisa lagata abhi abhi paida hue ho 😝😝😝😂😂😂
 ```
 
 ### Joke `HJ-000793`
@@ -1527,8 +1526,8 @@ Patni ke rishtedar – Jokes Patni chilla kar boli- aaj shaam ko jaldi ghar aa j
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
 
 ```text
-New Husband Wife Jokes in Hindi 2025 
- Pati- mere seene mein bahut dard ho raha hain, jaldi se embulens ke liye kol lagao.. … Patni- han, lagati hoon, apane mobaeel ka pasavard batao.. Pati- rahane Do, ab thoda theek lag raha hai, shaam ko dikha denge... 😝😝😂😂😂😂😂
+New Husband Wife Jokes in Hindi 2025
+Pati- mere seene mein bahut dard ho raha hain, jaldi se embulens ke liye kol lagao.. … Patni- han, lagati hoon, apane mobaeel ka pasavard batao.. Pati- rahane Do, ab thoda theek lag raha hai, shaam ko dikha denge... 😝😝😂😂😂😂😂
 ```
 
 ### Joke `HJ-000798`
@@ -1603,19 +1602,6 @@ sona jaruri hai – Pati Patni Jokes Ek aadmi kee tabiyat kharab hone par usne D
 Pati ka sher – Jokes patni: koi naya sher sunao? Pati: sangamaramar se tarasha, khuda ne tere badan ko.. Patni (khushi se): aage? pati: baki bacha patthar usne teri akl pe rakh diya. 😝😝🤣🤣🤣🤣🤣
 ```
 
-### Joke `HJ-000807`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/pati-patni-jokes/)
-
-```text
-Hindi Jokes >> 
- See Also: 
- hindi chutakule 
- Teacher Student Jokes in Hindi 
- WhatsApp Jokes in Hindi 
- Funny Quotes Hindi
-```
-
 ### Joke `HJ-000918`
 - **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
@@ -1669,8 +1655,8 @@ Damad Sasur phani WhatsApp joks Sasur: meri beti ka khyal rakhana, iski aankhon 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-New WhatsApp Jokes in Hindi 2023 
- Pati Patni se priye, main tumse bahut pyar karta hoon. Patni- toh kya main aapko nahi karti? main toh aapke liye sari duniya se lad sakti hoon. . Pati- lekin tum toh din-raat mujhse hi ladati rahati ho? Patni- janu, aap hi toh meri duniya ho! 😝😝🤣🤣🤣
+New WhatsApp Jokes in Hindi 2023
+Pati Patni se priye, main tumse bahut pyar karta hoon. Patni- toh kya main aapko nahi karti? main toh aapke liye sari duniya se lad sakti hoon. . Pati- lekin tum toh din-raat mujhse hi ladati rahati ho? Patni- janu, aap hi toh meri duniya ho! 😝😝🤣🤣🤣
 ```
 
 ### Joke `HJ-000925`
@@ -1702,8 +1688,8 @@ Pati Patni WhatsApp Joke In Hindi Patni :- kahan par ho?? Pati:- skootar se gir 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Very Funny Jokes For WhatsApp 
- yeh hota hai pyar Patni:- kahan jaa rahe ho? Pati:- marane Patni:- kaheen bhi jao lekin svetar pahanakar jana. bahar bahut thand hai, beemar hue toh tumhari khair nahi. 😝😝😝🤣🤣
+Very Funny Jokes For WhatsApp
+yeh hota hai pyar Patni:- kahan jaa rahe ho? Pati:- marane Patni:- kaheen bhi jao lekin svetar pahanakar jana. bahar bahut thand hai, beemar hue toh tumhari khair nahi. 😝😝😝🤣🤣
 ```
 
 ### Joke `HJ-000929`
@@ -1799,8 +1785,8 @@ Pati Patni Funny Jokes In Hindi mayake gayi hui Patni ne apane Pati ko phone kiy
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Most Funny WhatsApp Jokes 
- Doctor Funny Jokes In Hindi Ek aadmi ravivar ko Doctor ke paas gaya aadmi: Doctor saheb meri Patni mujhe kuchh samajhati hi nahi hai har samay chidachid karti rahati hai. meri zara bhi nahi sunati kya aap use shant kar sakte hai? Doctor- abe yeh sab itana aasan hota toh kya main ravivar ko klinik khol kar baitha hota. 😐😬😝😝😂🤣🤣
+Most Funny WhatsApp Jokes
+Doctor Funny Jokes In Hindi Ek aadmi ravivar ko Doctor ke paas gaya aadmi: Doctor saheb meri Patni mujhe kuchh samajhati hi nahi hai har samay chidachid karti rahati hai. meri zara bhi nahi sunati kya aap use shant kar sakte hai? Doctor- abe yeh sab itana aasan hota toh kya main ravivar ko klinik khol kar baitha hota. 😐😬😝😝😂🤣🤣
 ```
 
 ### Joke `HJ-000941`
@@ -1944,8 +1930,8 @@ Patni- aaj maine tumhare liye speshal dish banaayi hai… khate hi garmi gayab �
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-2023 ke majedar chutakule 
- Vakeel: tumhare Pati kee maut kaise hui? mahila: jahar peene se. Vakeel: phir yeh chot ke nishan kaise hain? mahila: peene se mana kar rahe the na ! 😝😝😂😂😂😂
+2023 ke majedar chutakule
+Vakeel: tumhare Pati kee maut kaise hui? mahila: jahar peene se. Vakeel: phir yeh chot ke nishan kaise hain? mahila: peene se mana kar rahe the na ! 😝😝😂😂😂😂
 ```
 
 ### Joke `HJ-000997`
@@ -2001,8 +1987,8 @@ Santa kee Patni (Santa se): suno….! aaj mujhe kisi mahangi jagah ghumane le ch
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-chatapate joks chutakule 
- Santa kee shaadi ho gayi ! Santa suhag raat par apani Patni ko bade pyar se samajha raha tha. Santa: sabase pyar se rahna, sabaki ijzat karna, unka vishvas jeetana, unka dhyan rakhana, accha khana banana aur hamesha sach bolana. Santa kee baat sun dulhan fatafat bistar se uthi aur kamare ka daravaza khol kar chilla kar boli, “sab fatafat andar aa jao yahan baba ji ka pravachan chal raha hai.” 😂😂😂😂😂😂😂
+chatapate joks chutakule
+Santa kee shaadi ho gayi ! Santa suhag raat par apani Patni ko bade pyar se samajha raha tha. Santa: sabase pyar se rahna, sabaki ijzat karna, unka vishvas jeetana, unka dhyan rakhana, accha khana banana aur hamesha sach bolana. Santa kee baat sun dulhan fatafat bistar se uthi aur kamare ka daravaza khol kar chilla kar boli, “sab fatafat andar aa jao yahan baba ji ka pravachan chal raha hai.” 😂😂😂😂😂😂😂
 ```
 
 ### Joke `HJ-001004`
@@ -2066,8 +2052,8 @@ Pati aur Patni kaheen jaa rahe the. tabhi Ek Bhikhari vahan se gujara aur aavaj 
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-Facebook ke Chutkule in Hindi 
- Pati ne nayi car khareedi aur socha ki Biwi ko sarapraij diya jae. ghar mein pahunchate hi Biwi ko zor se aavaj dete hue bola, ‘darling, tumhara itane salon ka sapna aaj poora ho gaya.’ Biwi daudati hui rasoeeghar se bahar aayi aur chillaayi: hay, hay! mami ji ko kya ho gaya? 😝😝😜🤣🤣🤣
+Facebook ke Chutkule in Hindi
+Pati ne nayi car khareedi aur socha ki Biwi ko sarapraij diya jae. ghar mein pahunchate hi Biwi ko zor se aavaj dete hue bola, ‘darling, tumhara itane salon ka sapna aaj poora ho gaya.’ Biwi daudati hui rasoeeghar se bahar aayi aur chillaayi: hay, hay! mami ji ko kya ho gaya? 😝😝😜🤣🤣🤣
 ```
 
 ### Joke `HJ-001012`
@@ -2195,19 +2181,8 @@ Pati: maf keejiyega sahib,
 khushi ke mare samajh nahi aa raha
 kidhar jaoon….!!
 😃😃😄😜😎😃
-***********************
+
 (Pati Patni jokes)
-```
-
-### Joke `HJ-001194`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Pati: phir rone de
-main kaun sa ise barat mein lekar gaya tha…
-😜😃😃😄😎😃
-***********************
 ```
 
 ### Joke `HJ-001195`
@@ -2215,46 +2190,10 @@ main kaun sa ise barat mein lekar gaya tha…
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Pati Patni se
-priye, main tumse bahut pyar karta hu.
-```
-
-### Joke `HJ-001196`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Patni – toh kya main aapko nahi karti?
-main toh aapke liye sari duniya se
-lad sakti hoon.
-```
-
-### Joke `HJ-001197`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Pati- lekin tum toh din-raat mujhse hi
-ladati rahati ho.
-```
-
-### Joke `HJ-001198`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Patni- janu aap hi toh meri duniya ho !!!
-😜😃😃😄😎😃
-***********************
-```
-
-### Joke `HJ-001199`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-mayake se Patni ka phone aaya
-Patni: aapke bina ji nahi lagata hai
+Pati (patni se): Priye, main tumse bahut pyar karta hoon.
+Patni: Toh kya main aapko nahi karti? Main toh aapke liye saari duniya se lad sakti hoon!
+Pati: Lekin tum toh din-raat mujhse hi ladti rehti ho?
+Patni: Janu, aap hi toh meri duniya ho! 😜😂😂
 ```
 
 ### Joke `HJ-001200`
@@ -2271,27 +2210,8 @@ Pati: Are pagli Zee nahi lagta toh Star aur Sony laga kar dekh liya kar, woh bhi
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Pati: nahi aaya toh !!!
-Biwi: agar time se aaye toh BJP ke chunav chinh se swagat karungi.
-aur der kari, toh phir, Congress ke chunav chinh se..!
-aur zyada der kari toh phir…
-Kejriwal ka
-chunav chinh darwaje ke peechhe rakha hai… dhyan rahe…!
-😃😃😜😃😎😃
-***********************
-Patni jokes
-Ek aadmi ne apani Biwi ko sunami mein aayi badh mein kho diya,
-Ek din samundar kinare daru peekar tun khada tha..!
-laharen uske pairon ko chhu rahi thi
-achanak woh bol pada….
-dekho samundar Bhai ! ab tum kitne bhi
-pair pakado, main apani Biwi ko vapis
-lene vala nahi hoon tumhari galati thi
-ab tum hi nipato…..!!
-😃😃😜😃😎😃
-***********************
-Read : Best top 25 Pati Patni jokes in hindi
-Pati Patni na jokes
+Pati: Agar main ghar aane mein late hua toh?
+Biwi: Agar time se aaye toh BJP ke chunav chinh (kamal ke phool) se swagat karungi. Thoda late huye toh Congress ke chunav chinh (panje/thappad) se... aur agar zyada late huye toh Kejriwal ka chunav chinh (jhaadu) darwaze ke peeche rakha hai, yaad rakhna! 😂😂😂
 ```
 
 ### Joke `HJ-001202`
@@ -2303,7 +2223,7 @@ Patni kee 5 mis kol ho toh…!
 Pati  sochata hai, pata nahi
 aaj mere saath  kya hoga?
 😃😃😜😃😎😃
-***********************
+
 Paati Patni jokes in hindi latest
 ```
 
@@ -2315,7 +2235,7 @@ Paati Patni jokes in hindi latest
 Pati: pagali khoon ke rishte mein
 shadiyan kahan hoti hai….!!
 😃😃😜😃😎😃
-***********************
+
 Pati Patni comedy jokes
 ```
 
@@ -2324,20 +2244,8 @@ Pati Patni comedy jokes
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Patni:  aap bahut bhole hain…
-aapko koi bhi bewakoof
-bana deta hai
-```
-
-### Joke `HJ-001205`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Pati:   shuruaat toh tere Baap ne kee thi…!!
-😃😃😜😃😎😃
-***********************
-(Pati Pati jokes in hindi latest)
+Patni: Aap bahut bhole hain ji... aapko koi bhi aakar bewakoof bana deta hai!
+Pati: Shuruaat toh tere baap ne ki thi! 😂😂😂
 ```
 
 ### Joke `HJ-001206`
@@ -2350,7 +2258,7 @@ gobar jaisa…..!
 Patni: he bhagavan is aadmi
 ne har cheez chakh rakhi hai….!!!
 😃😃😜😃😎😃
-***********************
+
 Pati Patni joke image
 kuchh ladakiyan toh itani lipastik lagati hai kee
 unak muhan ghar kee deevaron par ragad
@@ -2358,7 +2266,6 @@ diya jaye toh…
 NEROLAC pent jaisi kampaniyan
 band ho jaye…!!!
 😜😃😃😃😎😃
-***********************
 ```
 
 ### Joke `HJ-001207`
@@ -2366,8 +2273,9 @@ band ho jaye…!!!
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Patni: “agar main aapko 4-5 din na dikhoon toh….
-kaisa lagega?
+Patni: Agar main aapko 4-5 din na dikhoon toh aapko kaisa lagega?
+Pati: Bahut achha lagega!
+(Phir kya... Somwar ko nahi dikhi, Mangalwar ko nahi dikhi, Budhwar ko thoda-thoda dikhna shuru hua jab aankh ki sujan kam hui!) 😂😂😂
 ```
 
 ### Joke `HJ-001208`
@@ -2375,33 +2283,8 @@ kaisa lagega?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Patni: shaadi ke pahale tum,
-bahut mandir jaate the,
-ab  kya ho gaya?
-```
-
-### Joke `HJ-001209`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Pati: phir tumse shaadi ho  gayi
-aur mera bhagavan par se
-bharosa hi uth gaya…!!!
-😜😃😃😃😎😃
-***********************
-Pati jokes
-agar Patni bahut kir kir kare,
-magaj kharab kare….
-toh chappal uthao….
-aur pahan kar bahar nikal jao,
-baki jo aapane abhi socha tha,
-uske liye toh Bhai jigara chahiye jigara… !!!
-😜😃😃😃😎😃
-***********************
-Pati Patni jokes in hindi latest
-Sharabi daru peene ke bad,
-apani Patni se: aap kaun ho?
+Patni: Shaadi ke pehle tum roz mandir jaate the, ab kya ho gaya?
+Pati: Phir tumse shaadi ho gayi... aur mera bhagwan par se bharosa hi uth gaya! 😂😂😂
 ```
 
 ### Joke `HJ-001210`
@@ -2414,7 +2297,7 @@ apani Biwi ko bhool gaye!
 Sharabi: nasha har gam bhula deta hai
 Behen ji…. !!!
 😜😃😃😃😎😃
-***********************
+
 Husband Wife jokes in hindi
 ```
 
@@ -2423,9 +2306,10 @@ Husband Wife jokes in hindi
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Pati: kal mere khvab mein Ek,
-Ladki aayi thi,
-vah! kya Ladki thi,
+Pati: Kal mere khwab mein ek bahut khoobsurat ladki aayi thi... wah kya ladki thi!
+Patni: Akele aayi thi ya pati ke saath?
+Pati: Akele aayi thi.
+Patni: Toh aaj se raat ko darwaza band karke sona, warna main bhi khwab mein aa jaungi belan leke! 😂😂😂
 ```
 
 ### Joke `HJ-001212`
@@ -2433,21 +2317,8 @@ vah! kya Ladki thi,
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Patni: darling, dekho na
-mene ise pichhale 5 sal se nahi pahana
-phir bhi iski phiting vaisi kee vaisi hi hai
-```
-
-### Joke `HJ-001213`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Pati: kuchh toh bhagavan se dar
-yeh shol hai….!!!
-😜😃😃😃😎😃
-***********************
-Pati Patni ka joke
+Patni: Darling dekho na, maine ise pichhle 5 saal se nahi pehna, phir bhi iski fitting vaisi ki vaisi hi hai!
+Pati: Kuch toh bhagwan se darr pagli, yeh shawl hai! 😂😂😂
 ```
 
 ### Joke `HJ-001214`
@@ -2458,7 +2329,7 @@ Pati Patni ka joke
 Pati: main toh neend mein
 bol raha hu pagali….!!!
 😜😃😃😃😎😃
-***********************
+
 patniyan mayake jakar Pati ko
 roz phone kyu karti hai?
 Very Simple
@@ -2466,14 +2337,11 @@ taki patiyon ko yad rahe
 museebat tali nahi hai
 phir aane vali hai….!!!
 😜😃😃😃😎😃
-***********************
-Pati Patni ke jokes
+
 belan Ek aisa yantr hai
 roti gol hoti hai
 aur Pati seedha… !!!
 😜😃😃😃😎😃
-***********************
-Pati Patni jokes in hindi latest
 ```
 
 ### Joke `HJ-001215`
@@ -2481,33 +2349,10 @@ Pati Patni jokes in hindi latest
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
 
 ```text
-Patni: main aapse baat nahi karungi.
-Pati: theek hai!!!
-```
-
-### Joke `HJ-001216`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi-latest/)
-
-```text
-Patni: kya tum karan nahi janana chahate?
-Pati: nahi,
-main tumhare phaisale kee ijjat karta hoon.
-😜😃😃😃😎😃
-***********************
-Pati par jokes
-usne mujhse pucha,
-chahoge mujhe kab tak ?
-mainne bhi muskura ke kah diya…
-meri Biwi  ko na pata chale
-tab tak ….!!!
-😜😃😃😃😎😃
-***********************
-Loading… Leave a Comment Cancel reply Comment
-Save my name, email, and website in this browser for the next time I comment.
-Notify me of follow-up comments by email.
-Notify me of new posts by email.
-Δ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+Patni: Main aapse baat nahi karungi!
+Pati: Theek hai.
+Patni: Kya tum wajah nahi jaanna chahte?
+Pati: Nahi, main tumhare faisle ki poori izzat karta hoon! 😜😂😂
 ```
 
 ### Joke `HJ-001217`
@@ -2515,20 +2360,9 @@ Notify me of new posts by email.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati Patni Jokes in Hindi
-Pati (Patni se): zara, paani peela Do…
-```
-
-### Joke `HJ-001218`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni: kya huaa pyas lagi hai?
-Pati (gusse se): nahi gala chaik karna hai,
-ki kaheen se leek toh nahi hai…!!!
-😲😃😃😄😜😎😃
-***********************
+Pati: Zara paani pila do...
+Patni: Kya hua ji, pyaas lagi hai?
+Pati (gusse se): Nahi, gala check karna hai ki kahin se leak toh nahi ho raha! 😂😂😂
 ```
 
 ### Joke `HJ-001219`
@@ -2536,20 +2370,9 @@ ki kaheen se leek toh nahi hai…!!!
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni: aji sunate ho ?
-oopar se woh baig utar dena !
-mera hath kuchh chhota pad raha hai,
-```
-
-### Joke `HJ-001220`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: toh juban se traayi kar le.
-Pati aayi si yu mein hai…..
-😲😃😃😄😜😎😃
-***********************
+Patni: Aji sunte ho? Upar se woh bag utaar dena, mera haath thoda chhota pad raha hai.
+Pati: Toh apni zubaan se try karke dekh le!
+(Pati abhi hospital ke ICU ward mein admit hai!) 😂😂😂
 ```
 
 ### Joke `HJ-001221`
@@ -2557,33 +2380,8 @@ Pati aayi si yu mein hai…..
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni – jab main shaadi karake yahan aayi thi toh ghar mein bahut machchhar the,
-```
-
-### Joke `HJ-001222`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati – hamari shaadi hone ke bad machchharon ne yeh kahakar mera ghar chhod diya,
-ab toh paramanent khoon peene vali aa gayi hai,
-hamare liye toh bachega hi naheen.
-😲😃😃😄😜😎😃
-```
-
-### Joke `HJ-001223`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-***********************
-Chaar cheejen insan ko kabhi khush nahi rakh sakati.
-mobile
-teevi aur
-kyonki aksar inake letest
-doosaron ke paas hote hai.
-😲😃😃😄😜😎😃
-***********************
+Patni: Jab main shaadi karke yahan aayi thi toh ghar mein bahut machhar the.
+Pati: Haan, hamari shaadi ke baad machharon ne yeh kehkar ghar chhod diya - ab toh permanent khoon peene wali aa gayi hai! 😂😂😂
 ```
 
 ### Joke `HJ-001224`
@@ -2591,37 +2389,10 @@ doosaron ke paas hote hai.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati: kahan gayab thi 4 ghante se ?
-Patni: mol mein gayi thi shoping karane.
-```
-
-### Joke `HJ-001225`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: phir kya kya liya ?
-Patni: Ek Hair band aur saath mein
-40 Selfie
-😲😃😃😄😜😎😃
-New 12 Funny “Dosti Jokes” in hindi
-***********************
-kuchh risarch ke bad pata chala ki,
-mahilaen apane bachchon ko
-tej aavaj mein iseelie dantati
-hai kyonki…..
-```
-
-### Joke `HJ-001226`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-pation mein khauph bana rahe.
-😲😃😃😄😜😎😃
-***********************
-subah subah Patni neend se uthate hi
-“aji sunate ho ji…”
+Pati: Kahan gayab thi 4 ghante se?
+Patni: Mall mein gayi thi shopping karne!
+Pati: Phir kya-kya khareeda?
+Patni: Ek hair band aur saath mein 40 selfie! 😂😂😂
 ```
 
 ### Joke `HJ-001227`
@@ -2629,19 +2400,8 @@ subah subah Patni neend se uthate hi
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati: bolo ji…
-Patni: mujhe sapna aaya ki,
-aap mere liye heeron ka har
-lekar aaye ho.
-```
-
-### Joke `HJ-001228`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni (raat ko): Suniye ji, maine ek sapna dekha ki aapne mere liye sone ka haar khareed liya hai!
-Pati: Theek hai pagli, toh wapis so jaa aur pehan le!
+Patni: Aji sunte ho ji, mujhe sapna aaya ki aap mere liye heeron ka haar lekar aaye ho!
+Pati: Theek hai pagli, toh wapis so jaa aur pehan le! 😂😂😂
 ```
 
 ### Joke `HJ-001229`
@@ -2649,15 +2409,8 @@ Pati: Theek hai pagli, toh wapis so jaa aur pehan le!
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati ne aaphis mein baithe baithe
-Facebook par post kiya
-“panchhi banu udata phiroon mast gagan mein”
-tabhi Patni ka kament aaya,
-“dharati chhoote hi sabji le aana aapane
-bhavan mein… varna Ek bhi bal nahi
-bachenge tumhare chaman men. “
-😃😃😄😜😎😃
-***********************
+Pati ne office mein baithkar Facebook par post kiya: 'Panchhi banu udta phiroon mast gagan mein...'
+Tabhi patni ka comment aaya: 'Dharti par aate hi 2 kilo tamatar aur 1 kilo pyaaz le aana, warna saare par kaat doongi!' 😂😂😂
 ```
 
 ### Joke `HJ-001230`
@@ -2677,51 +2430,14 @@ yeh cheej kitne kee aati hai ?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-***********************
-Patni: chai banaoon?
-Pati: han theek hai.
-```
-
-### Joke `HJ-001232`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni: adarak vali?
-Pati: Ok
-Patni: pudeena daloon ?
-```
-
-### Joke `HJ-001233`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: han theek hai.
-Patni: tulasi sehat ke liye
-acchi hoti hai.
-```
-
-### Joke `HJ-001234`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: Ek kam kar, pyaj aur lahusan
-dal ke tadaka bhi laga de.
-😎😃😃😎😜😃
-***********************
-bharateey Patni
-sanskaron vali hoti hai
-woh kabhi sabake samane
-apane Pati ko
-“abe gadhe” “oye gadhe”  “sun gadhe”
-nahi bolati, iseelie woh
-Short mein “A.G.” “O.G.”  “Suno G”
-kahati hai.
-😎😃😃😎😜😃
-Chutkule in Hindi | 55+ Best Hindi Chutkule
-***********************
+Patni: Chai banaoon?
+Pati: Haan theek hai.
+Patni: Adrak wali?
+Pati: Ok.
+Patni: Pudeena daloon?
+Pati: Theek hai.
+Patni: Tulsi daal doon, sehat ke liye achhi hoti hai?
+Pati: Oye bhagwan! Ek kaam kar, pyaaz aur lehsun daal ke tadka bhi laga de! Chai banani hai ya Kadha?! 😂😂😂
 ```
 
 ### Joke `HJ-001235`
@@ -2736,14 +2452,13 @@ aaj maloom chala-
 Without information
 Fight every time
 😎😃😃😎😜😃
-***********************
+
 aadmi apane ghar mein sirph Do
 hi karanon se khush hota hai :
 jab Biwi “nayi” ho
 ya phir
 “Biwi” nahi ho
 😎😃😃😎😜😃
-***********************
 ```
 
 ### Joke `HJ-001236`
@@ -2751,29 +2466,9 @@ ya phir
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni: hamesha mera aadha matha
-dukhata hai… lagata hai,
-Doctor ko batana padega…
-```
-
-### Joke `HJ-001237`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: are usame kya batana… !!
-woh toh jitana hai, utana dukhega…!!
-bus tab se hi
-```
-
-### Joke `HJ-001238`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati ka poora badan du:kh raha hai…. !!!!
-😎😃😃😎😜😃
-***********************
+Patni: Hamesha mera aadha maatha dukhta hai... lagta hai doctor ko dikhana padega.
+Pati: Are usme kya batana, jitna dimaag hai utna hi toh dukhega! 😂
+(Bas tab se hi pati ka poora badan dukh raha hai!) 😜😂😂
 ```
 
 ### Joke `HJ-001239`
@@ -2781,39 +2476,13 @@ Pati ka poora badan du:kh raha hai…. !!!!
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni Pati se: chalo utho
-chai aur nashta banane jao…
-```
-
-### Joke `HJ-001240`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: uthakar seedha bahar kee taraph jane laga.
-Patni: kahan jaa rahe ho?
-```
-
-### Joke `HJ-001241`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: Vakeel ke paas, tumse talak chahie.
-thodi der bad, Pati vapis ghar aakar chai
-banane laga.
-```
-
-### Joke `HJ-001242`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni: kya huaa ?
-Pati: kuchh nahi…
-Vakeel sahib thoda pochha laga rahen the.
-😎😃😃😎😜😃
-***********************
+Patni: Chalo utho, chai aur nashta banane jao!
+Pati uthkar seedha bahar ki taraf jaane laga.
+Patni: Kahan jaa rahe ho?
+Pati: Vakeel ke paas, tumse talaq lene!
+(Thodi der baad pati wapis aakar chupchap chai banane laga)
+Patni: Kya hua ji?
+Pati: Kuch nahi... dekha vakeel sahab khud pocha laga rahe the! 😂😂😂
 ```
 
 ### Joke `HJ-001243`
@@ -2821,25 +2490,8 @@ Vakeel sahib thoda pochha laga rahen the.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati: kitni baar kaha hai kee…
-khana banate time
-mobile mat chalaya kar
-ab dekh! sabji ka svad
-ekadam paani jaisa lag raha hai…!
-```
-
-### Joke `HJ-001244`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni: zyada dimag ka daheen na karo ji,
-aapse kitni baar bolai hai, khana khate
-time mobile mat chalaya karo,
-sabji kee jagah paani mein roti
-dubo dubokar kha rahe ho.
-😃😃😃😃😜😃
-***********************
+Pati: Kitni baar kaha hai ki khana banate waqt mobile mat chalaya kar! Dekh sabzi ka swad ekdum paani jaisa lag raha hai!
+Patni: Zyada dimaag ka dahi na karo ji! Aapko kitni baar bola hai ki khate waqt mobile mat chalaya karo... sabzi ki jagah paani mein roti dubo-dubokar khaa rahe ho! 😂😂😂
 ```
 
 ### Joke `HJ-001245`
@@ -2847,22 +2499,8 @@ dubo dubokar kha rahe ho.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati Patni Ek hi plet mein golagappe kha rahe the.
-Ek doosare kee aankh mein aankh dale Patni ne
-romantik ho kar poochha.
-“aise kya dekh rahe ho ji “?
-```
-
-### Joke `HJ-001246`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: thoda aaram se kha, meri bari hi nahi aa rahi.
-😃😃😃😃😜😃
-***********************
-gavarnament ka naya rool…
-jisake 5 bache ho use ghar milega,
+Pati-patni ek hi plate mein golgappe khaa rahe the. Ek doosre ki aankh mein aankhein daal kar patni ne romantic hokar poochha: Aise kya dekh rahe ho ji?
+Pati: Thoda aaram se khaa bhagwan ke liye, meri baari hi nahi aa rahi! 😂😂😂
 ```
 
 ### Joke `HJ-001247`
@@ -2870,28 +2508,10 @@ jisake 5 bache ho use ghar milega,
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni: yeh bandook leke darwaje
-pe kyu khade ho..?
-```
-
-### Joke `HJ-001248`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: sher ka shikar karane
-jaa raha hoon..!
-Patni: toh jaate kyu nahi..?
-```
-
-### Joke `HJ-001249`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: bahar kutta khada hai..!
-😃😃😃😃😜😃
-***********************
+Patni: Yeh bandook leke darwaze pe kyu khade ho?
+Pati: Sher ka shikar karne jaa raha hoon!
+Patni: Toh jaate kyu nahi?
+Pati: Bahar kutta khada hai! 😂😂😂
 ```
 
 ### Joke `HJ-001250`
@@ -2899,46 +2519,11 @@ Pati: bahar kutta khada hai..!
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni: bhaiya yeh lauki kya bhav
-sabjeevala: 50 roopye kilo
-```
-
-### Joke `HJ-001251`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni: aur yeh bhindi tamatar
-Pati: jaldi karo mujhe office ke liye der ho rahi hai.
-```
-
-### Joke `HJ-001252`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni: tum bakavas na karo,
-jaldi mein tumhare jaisa Pati mila
-ab sabji khareedane mein jaldabaji
-nahi karoongi
-```
-
-### Joke `HJ-001253`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati aur sabjeevala chup
-😃😃😃😃😜😃
-***********************
-vidaayi ke samay dulhan ke chhote Bhai ne Papa se pucha…
-Bhai – Papa deedi toh ro rahi hai,
-par jeeja ji nahi ro rahe,
-Papa: Beta deedi toh get tak hi royegi,
-par jeeja ji sari jindagi royenge.
-😲😲😃😄😜😎
-***********************
-Biwi ne bade hi pyar se
+Patni: Bhaiya, yeh lauki kya bhav hai?
+Sabziwala: 50 rupaye kilo madam.
+Patni: Aur yeh bhindi, tamatar?
+Pati (piche se): Jaldi karo ji, mujhe office ke liye der ho rahi hai!
+Patni: Tum bakwas na karo! Jaldi-jaldi mein tumhare jaisa pati mila... ab sabzi khareedne mein jaldbaazi bilkul nahi karungi! 😂😂😂
 ```
 
 ### Joke `HJ-001254`
@@ -2946,20 +2531,8 @@ Biwi ne bade hi pyar se
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati ke gale mein bahen
-dali aur pucha,
-kaisi lag rahi hoon ji?
-```
-
-### Joke `HJ-001255`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: jaise bhagavan shankar ke
-gale mein nagin lipati ho.
-😲😲😃😄😜😎
-***********************
+Patni ne pati ke gale mein baahein daali aur poochha: Kaisi lag rahi hoon ji?
+Pati: Jaise bhagwan Shiv ke gale mein naagin lipti ho! 😂😂😂
 ```
 
 ### Joke `HJ-001256`
@@ -2967,26 +2540,8 @@ gale mein nagin lipati ho.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni jab office se ghar aayi aur baidaroom ka darwaza khola
-toh dekha kee kambal mein 2 kee bajae 4 tange najar aa rahi thi.
-usne aav dekha na tav…
-zor zor se kriket ke bait se marane lagi….
-jab mar mar thak gayi toh paani peene
-kichan mein gayi, toh usne dekha kee Pati
-bahar balakani mein baithe akhabar padh raha hai.
-```
-
-### Joke `HJ-001257`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati bola: tere Bhai bhabhi aaye hain,
-mene unko baidaroom mein sulaya hai
-jaa ke mil le….
-moral : aur karo shak….
-😲😲😃😄😜😎
-***********************
+Patni office se aakar bedroom ka darwaza kholi toh dekha kambal mein 2 ki jagah 4 taangein nazar aa rahi thin. Usne aao dekha na taav, dande se jamkar sutai kar di!
+Peechhe se pati bola: Tere bhai-bhabhi aaye hain, maine unhe bedroom mein sulaya hai, jaa ke mil le... Moral: Aur karo bina soche shak! 😂😂😂
 ```
 
 ### Joke `HJ-001258`
@@ -2994,30 +2549,11 @@ moral : aur karo shak….
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati: tum meri philm mein kam karogi
-Patni: han par seen kya hai?
-```
-
-### Joke `HJ-001259`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: tumhe dheere-dheere paani mein jaana hoga
-Patni: theek hai par philm ka nam kya hai?
-```
-
-### Joke `HJ-001260`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati: gayi bhains paani men.
-😲😲😃😄😜😎
-***********************
-talak ke kes mein
-kort ne Pati ko aadesh diya kee
-aadhi  sailari Patni ko deni padegi…
+Pati: Tum meri film mein kaam karogi?
+Patni: Haan, par scene kya hai?
+Pati: Tumhe dheere-dheere paani mein jaana hoga.
+Patni: Theek hai, par film ka naam kya hai?
+Pati: Gayi Bhains Paani Mein! 😂😂😂
 ```
 
 ### Joke `HJ-001261`
@@ -3025,11 +2561,8 @@ aadhi  sailari Patni ko deni padegi…
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Pati: khushi khushi tyar hoon…!  Judge sahab,
-kam se kam aadhi sailari toh mere paas rahegi.
-😲😲😃😄😜😎
-Read: Best jokes in hindi for Husband and Wife
-***********************
+Talaq ke case mein judge sahab ne pati ko aadesh diya: Aadhi salary har mahine patni ko deni padegi.
+Pati (khushi-khushi): Judge sahab, main toh taiyar hoon... kam se kam aadhi salary toh mere paas bachegi! 😂😂😂
 ```
 
 ### Joke `HJ-001262`
@@ -3043,15 +2576,6 @@ Patni: tumhari ray nahi mang rahi,
 poochh rahi hoon,
 chheel loge itane… ya kam loon.
 😲😲😃😄😜😎
-***********************
-```
-
-### Joke `HJ-001263`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni se pareshan Pati Ek din Pandit ji ke paas jakar bolata hai…
 ```
 
 ### Joke `HJ-001264`
@@ -3059,47 +2583,9 @@ Patni se pareshan Pati Ek din Pandit ji ke paas jakar bolata hai…
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni – aapki shart par toh Ladki ka Ek bhi bal nahi milata hai.
-```
-
-### Joke `HJ-001265`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati – han toh kya huaa Patni – main poochhati hoon kaun hai woh takali?
-😲😲😃😄😜😎
-***********************
-```
-
-### Joke `HJ-001266`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni – apane Pati ke saath mayake jaate hue bolati hai. Patni – dekho ! janu aap apana mood theek rakhana aur wahan par mere saath koi jhagada nahi karna . Pati : kyu ? Patni – are woh mere Papa ka ghar hai. Pati – accha toh woh tere Baap ka ghar hai. aur mere Baap ka ghar kya kurukshetr ka maidan hai..
-jo roz bina baat ke mahabharat karti rahati ho.
-😲😲😃😄😜😎
-***********************
-Ek nav vivahit Pati Patni ka joda bartan kee dukaan par jhagad rahe the . Patni – yeh vala steel ka gilas lo. Pati – nahi, zara aur bada gilas lenge ! Dukandar – sahab ji, mahila divas bhale hi chala gaya hai, lekin Madam ji jo kah rahi hain, vahi gilas le leejie na..!!! Pati -“are bhaiya tumhe bechane kee padi hai lekin is chhote se gilas mein mera hath ghusata nahi hai, main ise kaise manjooga batao???”
-😲😲😃😄😜😎
-***********************
-shaadi kee 7veen salagirah par panni Pati ke seene se lag ke boli – sunie ji, agar mujhe koi bhaga ke le jae toh aap kya karenge…? Pati – hat pagali, kaise sawal poochhati hai…? panni – batao na jan… Pati – main boloonga Bhai, bhaga ke kyu le jaa rahe ho, aaram se le jao,
-main rok thodi raha hoon…
-```
-
-### Joke `HJ-001267`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni behosh….!
-😲😲😃😄😜😎
-***********************
-Ek aadmi apani Biwi ko daphana ke ghar jaa raha tha… ki achanak se aasaman mein bijali chamaki
-badal garaje aur zor kee toophani barish shuru ho gayi ! mahaul apharataphari vala ho gaya… dukhi aadmi aasaman kee taraph dekhakar bola… lagata hain sali, pahunch gayi oopar….!
-😲😲😃😄😜😎
-***********************
+Patni (pati ki shirt check karte huye): Aapki shirt par toh kisi ladki ka ek bhi baal nahi mila!
+Pati: Haan toh kya hua?
+Patni: Main poochhti hoon, kaun hai woh takli jiske saath ghoom rahe the?! 😂😂😂
 ```
 
 ### Joke `HJ-001268`
@@ -3109,10 +2595,9 @@ badal garaje aur zor kee toophani barish shuru ho gayi ! mahaul apharataphari va
 ```text
 Patni – pyar karte ho mujhe? 😘😘 Pati – shahajahan jaise! 😍😍 Patni – mere bad tajamahal banaoge? 😚😚 Pati – plat le chooka hoon pagali, der toh tum kar rahi ho…. 😜 😂
 😍😍😜 😂😘😘
-***********************
+
 Vakeel – aapke Pati mare kaise? Patni – jahar kha kara. Vakeel – phir inake shareer par chot ke nishan kaise? Patni – khane se mana kar rahe the. Vakeel behosh….!
 😲😲😃😄😜😎
-***********************
 ```
 
 ### Joke `HJ-001269`
@@ -3122,7 +2607,6 @@ Vakeel – aapke Pati mare kaise? Patni – jahar kha kara. Vakeel – phir inak
 ```text
 Doctor ne mahila ke munh mein tharmameetar rakh kar kuchh der munh band rakhane ko kaha… Patni ko khamosh dekh kar Pati ne pucha : Doctor sahab , yeh jadui cheej kitne kee aati hai?
 😲😲😃😄😜😎
-***********************
 ```
 
 ### Joke `HJ-001270`
@@ -3140,7 +2624,6 @@ Ek baar Pati aur Patni mein jamakar ladaayi huyi. gusse mein aakar Patni apane P
 ```text
 Pati bola – accha ! jane se pahale Ek khushakhabari sunati jao. kal tumhari man bhi tumhare Papa se ladakar apane mayake chali gayi hai. 😂😂😂😂
 😲😲😃😄😜😎
-***********************
 ```
 
 ### Joke `HJ-001272`
@@ -3148,25 +2631,8 @@ Pati bola – accha ! jane se pahale Ek khushakhabari sunati jao. kal tumhari ma
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni – agar tum mujhe dobara se prapoj karoge toh kaun se gane par karoge?
-```
-
-### Joke `HJ-001273`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati – itani shakti hame dena data.. 😂😂😂😂 Patni – behosh !
-😲😲😃😄😜😎
-***********************
-```
-
-### Joke `HJ-001274`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati – “ari sunati ho… bhagyavan ! yeh jo tumane sabji banaayi hai ise kya kahate hai??”
+Patni: Agar tum mujhe dobara propose karoge toh kaun se gaane par karoge?
+Pati: Itni shakti hamein dena daata, mann ka vishwas kamzor ho na! 😂😂😂
 ```
 
 ### Joke `HJ-001275`
@@ -3184,19 +2650,8 @@ Pati: Are bhagwan, mujhse bhi toh upar swarg mein poochha jayega ki aakhir kya k
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Patni Pati se suniye ji woh jo aadmi hai jo daaru pi kar nach raha hai na,
-maine use 10 sal pahale rijekt kar diya tha….
-```
-
-### Joke `HJ-001277`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Pati – batao, sala abhi tak celebrate kar raha hai….! 😂😂😂😂
-😲😲😃😄😜😎
-***********************
-sharma ji ke Sir mein bahut dard tha, sharma ji Doctor ke paas gaye, aur Doctor se koi acchi davaayi dene ko kaha.
+Patni (pati se): Suniye ji, woh jo aadmi daru pee kar naach raha hai na, maine use 10 saal pehle reject kar diya tha!
+Pati: Dekh lo bhagwan... sala abhi tak celebrate kar raha hai! 😂😂😂
 ```
 
 ### Joke `HJ-001278`
@@ -3204,44 +2659,7 @@ sharma ji ke Sir mein bahut dard tha, sharma ji Doctor ke paas gaye, aur Doctor 
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
 
 ```text
-Doctor bola sharma ji is samay aapko aaram kee sabase adhik jarurat hai, main aapko neend kee kuchh goliyan de raha hun, inhe raat ko apani Patni ko
-khila ke sona! 😂😂😂😂
-😲😲😃😄😜😎
-***********************
-aap chahe kitne bhi padhe likhe kyu na ho,
-agar aapki Biwi ne bol diya kee aap nahi samajhoge, matalab nahi samajhoge. 😂😂😂😂
-😲😲😃😄😜😎
-***********************
-Ek Biwi apane Sharabi Pati ko sudharane ke liye, kale kapade pahan kar ghar ke bahar khadi ho gayi. Pati – tum kaun ho? Patni – chudail ! Pati – hath mila, main teri Behen ka Pati….! 😂😂😂😂
-😲😲😃😄😜😎
-***********************
-Sharabi daaru peene ke bad apani Patni se aap kaun ho?
-```
-
-### Joke `HJ-001279`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/pati-patni-jokes-in-hindi/)
-
-```text
-Patni – pagal ho gaye ho kya? apani Biwi ko bhool gae.
-Sharabi Pati – nasha har gam bhula deta hai Behen ji. 😂😂😂😂
-😲😲😃😄😜😎
-***********************
-Loading… 9 thoughts on “150+ majedar Pati Patni joks | Best Pati Patni Jokes in Hindi” Praveen September 12, 2021 at 10:21 am WOW.. VERY LAUGHFUL JOKES……I READ MANY JOKES…..AND LAUGHED MANY TIMES …………………………………….. hello ZEE TALWARA kya mujhe do follow backlink mil sakti hai? hum aapke liye Ek post bhi likh denge…. aap mujhe mel ke jariye apana keevard bhej deejiye…ham aapke veb kantent ke andaz mein Ek post likh denge.
-aap apane anusar koi bhi keevard bhej deejiye. hum likh denge. lekin link aapke kisi joks post mein deni hogi. (relevansi) MY WEB DA 15 || SPAM 0 || ADSENCE APPROVED ||
-PRAVEEN KUMAR SIRVI ji hum aapko Do Follow Backlink dene ke liye tyar hai. humne aapko Email bheja hai kripaya use chek kariye. dhanyavad !
-PRAVEEN KUMAR SIRVI ji humne aapki post ko padha. bahut hi accha likha hai aapane. humne aapki post ko apane blog par PUBLISH kar diya hai. dhanyavad !
-Nice information… Good job keep it up… Thanks for sharing. Biography
-Thanks
-Kaafi mazedaar jokes hai, Padha kar kaafi hasi aayi. Thanks for sharing.
-Thank you & Welcome.
-aapka blog bahut accha hai,
-dhanyavad!
-Comment
-Save my name, email, and website in this browser for the next time I comment.
-Notify me of follow-up comments by email.
-Notify me of new posts by email.
-Δ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+Doctor: Sharma ji, is samay aapko aaram ki sakht zaroorat hai. Main neend ki goliyaan de raha hoon, inhe roz raat ko apni patni ko khila dena! 😂😂😂
 ```
 
 ### Joke `HJ-001305`
@@ -3257,21 +2675,9 @@ Dost aur Biwi ko kabhi vishwas dilane ki zaroorat nahi hoti... kyunki sachha dos
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Pati: aaj khana hum bahar khayenge.
-Patni: (khush hokar) theek hain main Do minat mein redi hokar aati hoon.
-```
-
-### Joke `HJ-001320`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Pati: theek hain, main bahar chataayi bichhata hoon.
-😲😃😃😄😜😎😃
-sooraj toh poorv se nikalata hain lekin chand ka koi bharosa nahi hain,
-kabhi khidaki se nikalata hain toh kabhi darwaje se,
-suna hai aajakal toh byooteeparlar se bhi nikalata hain.
-😲😃😃😄😜😎😃
+Pati: Aaj khana hum bahar khayenge!
+Patni: (Khush hokar) Theek hai ji, main 2 minute mein ready hokar aati hoon.
+Pati: Theek hai pagli, main bahar aangan mein chatayi bichhata hoon! 😂😂😂
 ```
 
 ### Joke `HJ-001321`
@@ -3279,20 +2685,8 @@ suna hai aajakal toh byooteeparlar se bhi nikalata hain.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Pati: suno! aaj aalu paratha mein aalu nazar nahi aa raha.
-```
-
-### Joke `HJ-001322`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Patni: chupachap kha lo. kabhi aagara ke pethe mein aagara nazar aata hain kya.
-jawab sunane ke bad Pati shok aur Patni rok.
-😲😃😃😄😜😎😃
-ganit ke Sir ne kaha ki kal mein tum sabhi ko Ek sawal doonga tum taiyar karake aana.
-agale din Sir ne puchha ki batao tumhare Sir par bal kitne hai?
-Ek Bacche ne utar diya ki aath karod battees lakh saath hazar Paanch sau atharah Sir.
+Pati: Suno! Aaj aloo ke parathe mein aloo nazar nahi aa raha!
+Patni: Chupchap khaa lo. Kabhi Agra ke pethe mein Agra nazar aata hai kya?! 😂😂😂
 ```
 
 ### Joke `HJ-001323`
@@ -3300,20 +2694,9 @@ Ek Bacche ne utar diya ki aath karod battees lakh saath hazar Paanch sau atharah
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Ek baar Pati Patni mein joradar ladaayi ho gayi aur donon Teen din tak nahi bole.
-chauthe din Patni Pati ke paas aayi aur boli is tarah se kam nahi chalega. is tarah ladate acche nahi lagate.
-Ek kam karte hain hum donon thoda thoda samajhauta kar lete hain.
-```
-
-### Joke `HJ-001324`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Pati: par, karna kya hain?
-Patni: tum mujhse mafi mango aur main tumhe maf karti hoon.
-😲😃😃😄😜😎😃
-tauji ko sans kee dikkat thi aur unko aspatal mein bharti karavaya gaya.
+Ek baar pati-patni mein ladai ho gayi aur teen din tak baat nahi hui. Chauthe din patni aayi aur boli: Aise kab tak chalega? Chalo aapas mein samjhauta kar lete hain.
+Pati: Par karna kya hoga?
+Patni: Bas tum mujhse maafi maang lo, aur main tumhe maaf kar deti hoon! 😂😂😂
 ```
 
 ### Joke `HJ-001325`
@@ -3331,22 +2714,9 @@ Pati: aaj khana sasuma ne banaya hain kya?
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Patni: vah! aapane toh bahut accha anuman lagaya hain. khana bahut testi bana hain kya?
-```
-
-### Joke `HJ-001327`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Pati: hamesha khane se kale bal nikalate hain aaj safed nikale hain.
-😲😃😃😄😜😎😃
-Ek kanpani mein Ek meeting chal rahi thi. Boss sabhi ko daishabord par kuchh samajha tha.
-Boss: toh fainali humko edamin ka hindi mein matalab pata chal gaya hain.
-emplayar: woh kya hain Sir?
-Boss: jhund niyantrak.
-😲😃😃😄😜😎😃
-Papa: Pappu abaki baar tumhe 90 parasent nanbar lane hain.
+Pati: Aaj khana saasuma ne banaya hai kya?
+Patni: Wah! Aapne toh bilkul sahi anuman lagaya... khana bahut tasty bana hai kya?
+Pati: Nahi, hamesha khane se kaale baal nikalte the, aaj safed nikle hain! 😂😂😂
 ```
 
 ### Joke `HJ-001328`
@@ -3354,31 +2724,8 @@ Papa: Pappu abaki baar tumhe 90 parasent nanbar lane hain.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Patni: suno ji! aaj shaam ko instaji kee pooja rakhi hain,
-aas pados kee sabhi saheliyon ko bulaya hain. prasad mein kya bantu..??
-```
-
-### Joke `HJ-001329`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Pati: meri aaeedi bant dena. puny lagega.
-😲😃😃😄😜😎😃
-jelar: tilu! aaj tumhe phansi lagane vali hain, tumhari koi aakhiri khvahish hai toh bolo.
-tilu: mujhe phansi dete vakt mere panv oopar aur Sir neeche rakhana.
-😲😃😃😄😜😎😃
-kal mainne apani sali se mazaak mein kaha. sali toh aadhi gharavali hoti hain.
-ab kameeni aadhi sailari mang rahi hain.
-😲😃😃😄😜😎😃
-din mein so lo toh,
-raat mein neend ka rona
-raat mein so lo toh,
-din bhar teevi par korona.
-😲😃😃😄😜😎😃
-billu: oye keenu mere jamun ke ped ke neeche gulab ka ped kyu laga rahe ho.
-keenu: oye billu taki donon milakar gulab jamun de sake.
-😲😃😃😄😜😎😃
+Patni: Suno ji! Aaj shaam ko Insta ki pooja rakhi hai, aas-pados ki sabhi saheliyon ko bulaya hai. Prasad mein kya baantoon?
+Pati: Meri ID baant dena, bada punya lagega! 😂😂😂
 ```
 
 ### Joke `HJ-001330`
@@ -3386,18 +2733,8 @@ keenu: oye billu taki donon milakar gulab jamun de sake.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
 
 ```text
-Patni: jab aap vodaka peete ho, toh mujhe janoon kahate ho,
-jab takeela peete ho, toh darling kahate ho,
-par aaj kameeni kyu?
-```
-
-### Joke `HJ-001331`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/21-very-funny-chutkule-in-hindi/)
-
-```text
-Pati: aaj mainne sprait peeya hain, seedhi baat no bakavasa.
-😲😃😃😄😜😎😃
+Patni: Jab aap vodka peete ho toh mujhe Janu kehte ho, jab tequila peete ho toh Darling kehte ho, par aaj kameeni kyu kaha?
+Pati: Aaj maine Sprite peeya hai... seedhi baat, no bakwas! 😂😂😂
 ```
 
 ### Joke `HJ-001332`
@@ -3445,16 +2782,8 @@ Husband : mera sara khoon toh tu pi gayi, machchhar kya rakt dan karane aaega ??
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
 
 ```text
-Patni: janu tum mujhe Do aisi baten bolo, jisame se Ek ko sunakar main khush ho jaoon aur doosari baat ko sunakar naraj ho jaoon.
-```
-
-### Joke `HJ-001344`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
-
-```text
-Pati: pahali baat – tum meri jindagi ho aur doosari baat lanat hai aisi jindagi par.. 😂😂😂😂
-man: 🤓 ne ghabarakar apane raja bete ko phone lagaya aur kaha – Beta kahan hai, jaldi se ghar aajao, Bahu ko pairalisis ka ataik aaya hai, uska munh 🤪tedha, 🙄aankhe oopar 🥴aur gardan ghoomi hui hai. 😎 Beta bola:  rahane de man, tu ghabara mat… woh selphi le rahi hai.. 😜😂😂😂😂
+Patni: Janu, tum mujhe do aisi baatein bolo, jisme se ek ko sunkar main khush ho jaoon aur doosri sunkar naraz ho jaoon!
+Pati: Pehli baat – tum meri zindagi ho... aur doosri baat – laanat hai aisi zindagi par! 😂😂😂
 ```
 
 ### Joke `HJ-001345`
@@ -3462,18 +2791,9 @@ man: 🤓 ne ghabarakar apane raja bete ko phone lagaya aur kaha – Beta kahan 
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
 
 ```text
-shaam ko Pati ke ghar aate hi Patni ne kich-kich shuru kar di.
-pareshan Pati : are Yaar dinabhar ka thaka-hara aaya hoon,
-pahale phresh toh hone do.
-```
-
-### Joke `HJ-001346`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
-
-```text
-Patni: mein bhi toh dinabhar akeli thi,
-toh main bhi phresh hi ho rahi hoon.
+Shaam ko pati ke ghar aate hi patni ne kich-kich shuru kar di.
+Pareshan pati: Are yaar, dinbhar ka thaka-hara aaya hoon, pehle fresh toh ho lene do!
+Patni: Main bhi dinbhar akeli thi, toh main bhi fresh hi ho rahi hoon! 😂😂😂
 ```
 
 ### Joke `HJ-001347`
@@ -3481,31 +2801,10 @@ toh main bhi phresh hi ho rahi hoon.
 - **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
 
 ```text
-Patni: suno ji, aapke Sir par khoon kyu nikal raha hai, yeh sab kaise huaa .
-```
-
-### Joke `HJ-001348`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
-
-```text
-Pati: kya bataoon, mujhe mere Dost ne eent, mar di.
-```
-
-### Joke `HJ-001349`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
-
-```text
-Patni: hain, apane kuchh nahi kiya, aap bhi mar dete us sale ko. aapke hath mein kuchh nahi tha ?
-```
-
-### Joke `HJ-001350`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/best-jokes-in-hindi-for-husband-and-wife/)
-
-```text
-Pati: tha na, mere hath mein uski Biwi ka hath tha.
-phir kya, Patni ne 2 eent uthakar aur mar di.😋
+Patni: Suno ji, aapke sar par khoon kyu nikal raha hai, yeh sab kaise hua?
+Pati: Kya bataoon, mere dost ne eent maar di!
+Patni: Hain! Aapne kuch nahi kiya? Aap bhi maar dete us saale ko, haath mein kuch nahi tha kya?
+Pati: Tha na... mere haath mein uski Biwi ka haath tha!
+(Phir kya, patni ne 2 eent uthakar aur maar di!) 😂😂😂
 ```
 

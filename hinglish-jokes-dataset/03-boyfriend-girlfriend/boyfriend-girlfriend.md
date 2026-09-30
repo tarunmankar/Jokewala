@@ -2,7 +2,7 @@
 
 > **Category ID**: `boyfriend-girlfriend`  
 > **Description**: Funny modern romance, dating dynamics, and couples banter.  
-> **Total Jokes**: 43  
+> **Total Jokes**: 39  
 
 ---
 
@@ -231,8 +231,8 @@ Sharabi Ladki WhatsApp joks Ladka shaadi ke liye Ladki dekhane gaya .. . usne so
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-joks in hindi phor WhatsApp grup 
- Ladka Ladki phani WhatsApp joks Ek Ladki golagappe kha rahi thi, 15-20 kha chuki thi, phir boyaphrend se pucha- darling, 10 aur kha loon Ladka gusse se- nagin, kha le, Ladki ne joradar thappad mara,- “nagin kisko bola”?? Ladka- mar kyoon rahi hai?? maine kaha- na gin, kha le.. 😝😝😂😂😂😂🤣🤣
+joks in hindi phor WhatsApp grup
+Ladka Ladki phani WhatsApp joks Ek Ladki golagappe kha rahi thi, 15-20 kha chuki thi, phir boyaphrend se pucha- darling, 10 aur kha loon Ladka gusse se- nagin, kha le, Ladki ne joradar thappad mara,- “nagin kisko bola”?? Ladka- mar kyoon rahi hai?? maine kaha- na gin, kha le.. 😝😝😂😂😂😂🤣🤣
 ```
 
 ### Joke `HJ-000951`
@@ -248,8 +248,8 @@ Ladka Ladki WhatsApp joks daunalod ladaka :- wow itana bada ghar ??? ladaki :- h
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-joks in hindi phor WhatsApp imejej 
- Ladka Ladki hindi joks Ladka- tu whatsapppar hai kya ??? Ladki- nahi main toh mere ghar hoon . Ladka – mera matoolab hai, whatsapp yooj karti hai kya ? Ladki – nahi main toh gori hone ke liye kreem yooj karti hoon!! Ladka – are pagali!!! whatsapp chalati hai kya ??? Ladki- nahi pagale! mere paas saeekil hai vaheen chalati hoon. Ladka – meri man! whatsapp chalana aata hai kya ? Ladki- tu chala lena! main peechhe baith jaoongi? 😆😂🤣🤣🤣🤣🤣
+joks in hindi phor WhatsApp imejej
+Ladka Ladki hindi joks Ladka- tu whatsapppar hai kya ??? Ladki- nahi main toh mere ghar hoon . Ladka – mera matoolab hai, whatsapp yooj karti hai kya ? Ladki – nahi main toh gori hone ke liye kreem yooj karti hoon!! Ladka – are pagali!!! whatsapp chalati hai kya ??? Ladki- nahi pagale! mere paas saeekil hai vaheen chalati hoon. Ladka – meri man! whatsapp chalana aata hai kya ? Ladki- tu chala lena! main peechhe baith jaoongi? 😆😂🤣🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000953`
@@ -257,8 +257,8 @@ joks in hindi phor WhatsApp imejej
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-WhatsApp par bhejane ke liye chutakule 
- GF BF phani WhatsApp joks GF: bebi? BF: ya diar GF: tum hamesha se mere saath the, jab mera woh bhayanak ekseedent huaa tab bhi, jab mere pachave semestar mein 3 sabjekt mein jeero aaye the tab bhi, jab mujhe kidani mein pathari hui thi tab bhi, aur jab mujhe Papa ne gusse mein ghar se nikal diya tha tab bhi BF: Aaawww love you baby 3k hamesha tumhare saath rahoonga GF: are nayi re mere ko lag raha hai kee shayad tu hi panoti hai! 😝😝😂😂😂🤣🤣🤣🤣
+WhatsApp par bhejane ke liye chutakule
+GF BF phani WhatsApp joks GF: bebi? BF: ya diar GF: tum hamesha se mere saath the, jab mera woh bhayanak ekseedent huaa tab bhi, jab mere pachave semestar mein 3 sabjekt mein jeero aaye the tab bhi, jab mujhe kidani mein pathari hui thi tab bhi, aur jab mujhe Papa ne gusse mein ghar se nikal diya tha tab bhi BF: Aaawww love you baby 3k hamesha tumhare saath rahoonga GF: are nayi re mere ko lag raha hai kee shayad tu hi panoti hai! 😝😝😂😂😂🤣🤣🤣🤣
 ```
 
 ### Joke `HJ-000954`
@@ -266,7 +266,7 @@ WhatsApp par bhejane ke liye chutakule
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/whatsapp-jokes/)
 
 ```text
-Ladka Ladki Funny Jokes In Hindi Ladki apane boyaphrend se lad rahi thi. Ladki – mujhe brekaap chahiye. Ladka – nahi meri jan. Ladki – mainne jo gipht diye woh vapas karo. ghadi, jeens, shooj, belt sab Do vapas mera, Ladka- theek hai tujhe jo itane din baik pe baitha ke ghumaya uska petrol vapas kar. Ladki – janu itani jaldi gussa kyu karte ho, main mazaak kar rahi hoon. 😁😁😂😂😝🤣🤣
+Ladki apane boyaphrend se lad rahi thi. Ladki – mujhe brekaap chahiye. Ladka – nahi meri jan. Ladki – mainne jo gipht diye woh vapas karo. ghadi, jeens, shooj, belt sab Do vapas mera, Ladka- theek hai tujhe jo itane din baik pe baitha ke ghumaya uska petrol vapas kar. Ladki – janu itani jaldi gussa kyu karte ho, main mazaak kar rahi hoon. 😁😁😂😂😝🤣🤣
 ```
 
 ### Joke `HJ-001146`
@@ -354,56 +354,7 @@ Ek baar kajoons Baap ne apane bete se pucha – aaj tum apani garlaphrend ke saa
 - **Source**: [FunkyLife Hindi Chutkule](https://funkylife.in/chutkule/)
 
 ```text
-Comedy Jokes Chutkule 
- padosi mahila – aapka Ladka meri nakal utarata hain, aap use rokati nahi? . ladake kee man – Behen ! kaayi baar use samajha chuki hoon kee moorkhon kee nakal mat kiya karo par woh manata hi naheen. 😝😂😂😂😂😂
-```
-
-## Subcategory: `Zeetalwara Curated`
-
-### Joke `HJ-001310`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/funny-dosti-jokes-in-hindi/)
-
-```text
-Ladka: main baitha hi tha kee Ladki boli utho yeh ledeej seet hai.
-```
-
-### Joke `HJ-001311`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/girl-and-boy-funny-jokes-in-hindi/)
-
-```text
-Boy Girl se: Darling mujhako tumhari aankhon mein
-sari Dunia dikhaayi deti hai,
-peechhe se Ek budhiya boli: hamari gay nahi mil rahi.
-dikhe toh batana bitava.
-```
-
-### Joke `HJ-001312`
-- **Format**: `dialogue` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/girl-and-boy-funny-jokes-in-hindi/)
-
-```text
-Ladka behosh!!!
-Boyfriend–
-Should I write your name on my hand or on my heart?
-Girlfriends–
-What do you write here and there,
-If you have to write the name, then write it on your property.
-Boy Faint!!!
-kisi ne sach hi kaha hai:
-```
-
-### Joke `HJ-001313`
-- **Format**: `one-liner` | **Language**: `hinglish` | **Clean**: `Yes`
-- **Source**: [ZeeTalwara Humour](https://www.zeetalwara.com/girl-and-boy-funny-jokes-in-hindi/)
-
-```text
-Thank you Jagat yadav ji.
-Comment
-Save my name, email, and website in this browser for the next time I comment.
-Notify me of follow-up comments by email.
-Notify me of new posts by email.
-Δ document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );
+Comedy Jokes Chutkule
+padosi mahila – aapka Ladka meri nakal utarata hain, aap use rokati nahi? . ladake kee man – Behen ! kaayi baar use samajha chuki hoon kee moorkhon kee nakal mat kiya karo par woh manata hi naheen. 😝😂😂😂😂😂
 ```
 
