@@ -17,36 +17,54 @@ import { AppProvider, useApp } from './src/context/AppContext';
 import HomeScreen from './src/screens/HomeScreen';
 import SearchScreen from './src/screens/SearchScreen';
 import FavoritesScreen from './src/screens/FavoritesScreen';
+import AboutModal from './src/components/AboutModal';
 
 // Keep the splash screen visible while loading resources
 SplashScreen.preventAutoHideAsync().catch(() => {});
 
 const Tab = createBottomTabNavigator();
 
-function FontZoomButton({ colors }) {
+function HeaderRightActions({ colors, onOpenAbout }) {
   const { currentFont, cycleFontSize } = useApp();
   return (
-    <TouchableOpacity
-      onPress={cycleFontSize}
-      activeOpacity={0.7}
-      style={{
-        marginRight: 16,
-        paddingHorizontal: 12,
-        paddingVertical: 6,
-        borderRadius: 16,
-        backgroundColor: colors.primaryLight,
-        flexDirection: 'row',
-        alignItems: 'center',
-        gap: 5,
-        borderWidth: 1,
-        borderColor: colors.borderLight,
-      }}
-    >
-      <Ionicons name="text" size={13} color={colors.primary} />
-      <Text style={{ fontFamily: typography.bold, fontSize: 12.5, color: colors.primary }}>
-        {currentFont.label}
-      </Text>
-    </TouchableOpacity>
+    <View style={{ flexDirection: 'row', alignItems: 'center', marginRight: 16, gap: 8 }}>
+      <TouchableOpacity
+        onPress={cycleFontSize}
+        activeOpacity={0.7}
+        style={{
+          paddingHorizontal: 11,
+          paddingVertical: 5.5,
+          borderRadius: 16,
+          backgroundColor: colors.primaryLight,
+          flexDirection: 'row',
+          alignItems: 'center',
+          gap: 5,
+          borderWidth: 1,
+          borderColor: colors.borderLight,
+        }}
+      >
+        <Ionicons name="text" size={13} color={colors.primary} />
+        <Text style={{ fontFamily: typography.bold, fontSize: 12.5, color: colors.primary }}>
+          {currentFont.label}
+        </Text>
+      </TouchableOpacity>
+
+      <TouchableOpacity
+        onPress={onOpenAbout}
+        activeOpacity={0.7}
+        style={{
+          padding: 6,
+          borderRadius: 16,
+          backgroundColor: colors.cardSecondary,
+          alignItems: 'center',
+          justifyContent: 'center',
+          borderWidth: 1,
+          borderColor: colors.border,
+        }}
+      >
+        <Ionicons name="information-circle-outline" size={19} color={colors.textSecondary} />
+      </TouchableOpacity>
+    </View>
   );
 }
 
@@ -55,6 +73,7 @@ export default function App() {
   const colors = systemScheme === 'dark' ? darkColors : lightColors;
 
   const [dbReady, setDbReady] = useState(false);
+  const [aboutVisible, setAboutVisible] = useState(false);
 
   const [fontsLoaded] = useFonts({
     NotoSansDevanagari_400Regular,
@@ -107,7 +126,12 @@ export default function App() {
                 fontSize: 20,
                 color: colors.text,
               },
-              headerRight: () => <FontZoomButton colors={colors} />,
+              headerRight: () => (
+                <HeaderRightActions
+                  colors={colors}
+                  onOpenAbout={() => setAboutVisible(true)}
+                />
+              ),
             tabBarStyle: {
               backgroundColor: colors.card,
               borderTopColor: colors.border,
@@ -165,6 +189,11 @@ export default function App() {
           </Tab.Screen>
         </Tab.Navigator>
       </NavigationContainer>
+      <AboutModal
+        visible={aboutVisible}
+        onClose={() => setAboutVisible(false)}
+        colors={colors}
+      />
       </View>
     </AppProvider>
   );

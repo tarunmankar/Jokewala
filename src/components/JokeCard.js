@@ -36,10 +36,10 @@ export default function JokeCard({ joke, onToggleFav, colors }) {
 
   const shareOnWhatsApp = async () => {
     const url = `whatsapp://send?text=${encodeURIComponent(shareText)}`;
-    const supported = await Linking.canOpenURL(url).catch(() => false);
-    if (supported) {
+    try {
       await Linking.openURL(url);
-    } else {
+    } catch {
+      // If WhatsApp is not installed or scheme fails, fallback to system share
       shareJoke();
     }
   };
