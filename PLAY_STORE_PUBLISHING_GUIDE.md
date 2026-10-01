@@ -70,9 +70,9 @@ Jokewala: Hindi Jokes Chutkule
 
 #### **Short description (अधिकतम 80 अक्षर):**
 ```text
-Funny Hindi jokes, desi chutkule, hilarious comedy and audio laughter offline!
+Funny Hindi jokes, desi chutkule, hilarious comedy and laughter!
 ```
-*(अक्षर: ठीक 79 | इसमें "Hindi jokes", "chutkule", "comedy", "audio", "offline" सभी मुख्य कीवर्ड्स शामिल हैं)*
+*(अक्षर: ठीक 65 | इसमें "Hindi jokes", "chutkule", "comedy", "laughter" सभी मुख्य कीवर्ड्स शामिल हैं)*
 
 #### **Full description (अधिकतम 4000 अक्षर):**
 *(नीचे दिया गया पूरा इंग्लिश ASO टेक्स्ट कॉपी-पेस्ट करें)*
